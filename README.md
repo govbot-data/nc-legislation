@@ -1,4 +1,4 @@
-# 🏛️ nc legislation file tree
+# 🏛️ North Carolina legislation file tree
 
 Download a copy of your states legislation.
 
