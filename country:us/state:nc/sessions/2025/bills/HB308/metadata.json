@@ -19,6 +19,16 @@
   "actions": [
     {
       "description": "Conf Com Appointed",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Conf Com Appointed",
       "date": "2026-07-01",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -688,7 +698,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:57:29Z",
+    "logs_latest_update": "2026-08-09T05:13:16Z",
     "text_extraction_latest_update": "2026-07-21T22:26:41.516659Z"
   }
 }

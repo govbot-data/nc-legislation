@@ -7,9 +7,9 @@
     "bill"
   ],
   "subject": [
-    "ADMIN. HEARINGS OFFICE; ADVERTISING & MARKETING; ALCOHOLIC BEVERAGES; AUTHORITIES; BOARDS; CALENDAR; COASTAL RESOURCES; COLLEGES & UNIVERSITIES; COMMERCE; COMMISSIONS; COMMUNICATIONS; COMMUNITY COLLEGES; COMMUNITY COLLEGES OFFICE; CONSTRUCTION; CONTRACTS; COURTS; CRIMES; CRIMINAL PROCEDURE; CRIMINAL RECORDS; DEQ; DEREGULATION; DHHS; DISASTERS & EMERGENCIES; EDUCATION; EDUCATION ASSISTANCE AUTHORITY; EDUCATION BOARDS; EDUCATION",
-    "HEALTH; KINDERGARTEN; LAW ENFORCEMENT; LICENSES & PERMITS; LOCAL GOVERNMENT; MANUFACTURING; MEDICAID; MENTAL HEALTH; MORATORIUMS; ORGANIZED LABOR; PLANNING & ZONING; POLLUTION; POVERTY; PRIVATIZATION; PROPERTY; PUBLIC; PUBLIC HEALTH; PUBLIC INSTRUCTION DEPT.; REPORTS; RETAILING; ROADS & HIGHWAYS; SBI; SECONDARY EDUCATION; SESSION LAWS; SIGNS; SOCIAL SERVICES; STUDIES; SURVEYS & POLLS; TESTING; THEFT; TITLE CHANGE; TOBACCO; TRANSPORTATION; TRANSPORTATION DEPT.; TUITION; UNC; UNC BOARD OF GOVERNORS; WASTE MANAGEMENT; WATER RESOURCES; WEAPONS; RECORDS; SCHOLARSHIPS & FINANCIAL AID; CONSTRUCTION INDUSTRY; LOCAL ORDINANCES; TOBACCO PRODUCTS; PUBLIC SAFETY DEPT.; FAMILY ISSUES; POLICY COLLABORATORY; CONCEALED CARRY",
-    "STATE BOARD OF; EDUCATIONAL TESTING; ELEMENTARY EDUCATION; EMERGENCY MANAGEMENT; EMERGENCY SERVICES; EMPLOYMENT; ENVIRONMENT; ENVIRONMENTAL MANAGEMENT COMN.; FINES & PENALTIES; FISHERIES; FUELS; HAZARDOUS SUBSTANCES; HAZARDOUS WASTE; HEALTH SERVICES; HIGHER EDUCATION; HOLIDAYS & OBSERVANCES; HOSPITALS; HOUSING; INDUSTRIAL LOCATION; INDUSTRIAL WASTE; INFRASTRUCTURE; INSURANCE"
+    "ADMIN. HEARINGS OFFICE; ADMINISTRATIVE CODE; ADMINISTRATIVE RULES; ADVERTISING & MARKETING; ALCOHOLIC BEVERAGES; AUTHORITIES; BOARDS; BUILDING CODES; BUILDINGS; CALENDAR; COASTAL RESOURCES; COLLEGES & UNIVERSITIES; COMMERCE; COMMISSIONS; COMMUNICATIONS; COMMUNITY COLLEGES; COMMUNITY COLLEGES OFFICE; CONSTRUCTION; CONTRACTS; COUNTIES; COURTS; CRIMES; CRIMINAL PROCEDURE; CRIMINAL RECORDS; DEQ; DEREGULATION; DHHS; DISASTERS & EMERGENCIES; ECONOMIC DEVELOPMENT; EDUCATION; EDUCATION ASSISTANCE AUTHORITY; EDUCATION BOARDS; EDUCATION",
+    "HEALTH; KINDERGARTEN; LAW ENFORCEMENT; LICENSES & PERMITS; LOCAL GOVERNMENT; MANUFACTURING; MEDICAID; MENTAL HEALTH; MORATORIUMS; MUNICIPALITIES; ORGANIZED LABOR; PLANNING & ZONING; POLLUTION; POVERTY; PRIVATIZATION; PROPERTY; PUBLIC; PUBLIC HEALTH; PUBLIC INSTRUCTION DEPT.; REPORTING; REPORTS; RETAILING; ROADS & HIGHWAYS; SAFETY; SBI; SECONDARY EDUCATION; SESSION LAWS; SIGNS; SOCIAL SERVICES; STUDIES; SURVEYS & POLLS; TELECOMMUNICATIONS; TELEPHONES; TELESERVICES; TESTING; THEFT; TITLE CHANGE; TOBACCO; TRANSPORTATION; TRANSPORTATION DEPT.; TUITION; UNC; UNC BOARD OF GOVERNORS; UTILITIES; WASTE MANAGEMENT; WATER RESOURCES; WEAPONS; LITTERING; RECORDS; FORSYTH COUNTY; WINSTON-SALEM; PLANTS & TREES; SCHOLARSHIPS & FINANCIAL AID; CONSTRUCTION INDUSTRY; LOCAL ORDINANCES; TOBACCO PRODUCTS; PUBLIC SAFETY DEPT.; FAMILY ISSUES; POLICY COLLABORATORY; CONCEALED CARRY",
+    "STATE BOARD OF; EDUCATIONAL TESTING; ELECTRICITY GENERATION & DISTRIBUTION; ELEMENTARY EDUCATION; EMERGENCY MANAGEMENT; EMERGENCY SERVICES; EMPLOYMENT; ENVIRONMENT; ENVIRONMENTAL MANAGEMENT COMN.; FINES & PENALTIES; FISHERIES; FISHERIES PRODUCTS; FUELS; HAZARDOUS SUBSTANCES; HAZARDOUS WASTE; HEALTH SERVICES; HIGHER EDUCATION; HOLIDAYS & OBSERVANCES; HOSPITALS; HOUSING; INDUSTRIAL LOCATION; INDUSTRIAL WASTE; INFRASTRUCTURE; INSURANCE"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -19,6 +19,148 @@
     }
   ],
   "actions": [
+    {
+      "description": "Pres. To Gov. 8/6/2026",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Ratified",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Ordered Enrolled",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Conf Report Adopted",
+      "date": "2026-08-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 08/04/2026",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Cal Pursuant Rule 44(d)",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Conf Com #2 Reported",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Conf Rpt Withdrawn",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Conf Report Adopted",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Placed on Today's Calendar",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Conf Com Reported",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 08/04/2026",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Cal Pursuant Rule 44(d)",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Conf Com Reported",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
     {
       "description": "Conferees Changed",
       "date": "2026-07-02",
@@ -693,6 +835,17 @@
       "classification": ""
     },
     {
+      "note": "Ratified",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S445v6.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "A1: ABR-77-V-4",
       "links": [
         {
@@ -720,7 +873,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:57:28Z",
+    "logs_latest_update": "2026-08-09T05:13:16Z",
     "text_extraction_latest_update": "2026-07-21T21:12:17.069062Z"
   }
 }

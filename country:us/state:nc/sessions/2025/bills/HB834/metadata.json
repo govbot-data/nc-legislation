@@ -1,14 +1,14 @@
 {
   "legislative_session": "2025",
   "identifier": "HB 834",
-  "title": "Sportsman's Voter Act.",
+  "title": "State Board of Elections Administrative Changes.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "ANIMALS; BOARDS; COMMISSIONS; DMV; ELECTIONS; ELECTIONS",
-    "STATE BOARD OF; ENVIRONMENT; FISH & WILDLIFE; HEALTH SERVICES; HUMAN BLOOD & ORGANS; HUNTING & FISHING; LICENSES & PERMITS; MOTOR VEHICLES; ORGAN DONATIONS; PUBLIC; PUBLIC HEALTH; PUBLIC OFFICIALS; TRANSPORTATION DEPT.; VOTER REGISTRATION; WILDLIFE RESOURCES COMN."
+    "ANIMALS; BOARDS; COMMISSIONS; COUNTIES; COURTS; DEATH & DYING; DMV; DRIVERS LICENSES; ELECTIONS; ELECTIONS BOARDS; ELECTIONS",
+    "STATE BOARD OF; ENVIRONMENT; FISH & WILDLIFE; HEALTH SERVICES; HUMAN BLOOD & ORGANS; HUNTING & FISHING; ID SYSTEMS; LICENSES & PERMITS; LOCAL GOVERNMENT; MORATORIUMS; MOTOR VEHICLES; ORGAN DONATIONS; PUBLIC; PUBLIC HEALTH; PUBLIC OFFICIALS; TITLE CHANGE; TRANSPORTATION DEPT.; VOTER REGISTRATION; WILDLIFE RESOURCES COMN.; WAKE COUNTY; SUPERIOR COURT; BALLOTS & BALLOT ISSUES"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -18,6 +18,215 @@
     }
   ],
   "actions": [
+    {
+      "description": "Pres. To Gov. 8/7/2026",
+      "date": "2026-08-07",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Ratified",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Ordered Enrolled",
+      "date": "2026-08-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Concurred In S Com Sub",
+      "date": "2026-08-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 08/04/2026",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Cal Pursuant 36(b)",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Regular Message Received For Concurrence in S Com Sub",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Regular Message Sent To House",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Engrossed",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Passed 3rd Reading",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Amend Adopted A1",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Placed on Today's Calendar",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Reptd Fav",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Re-ref Com On Rules and Operations of the Senate",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Com Substitute Adopted",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Substitute",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Re-ref to Elections.  If fav, re-ref to Rules and Operations of the Senate",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
     {
       "description": "Ref To Com On Rules and Operations of the Senate",
       "date": "2025-05-15",
@@ -274,14 +483,6 @@
       "organization_id": null
     },
     {
-      "name": "Belk",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Belk\"}",
-      "organization_id": null
-    },
-    {
       "name": "Biggs",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -295,14 +496,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Branson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "T. Brown",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"T. Brown\"}",
       "organization_id": null
     },
     {
@@ -338,27 +531,11 @@
       "organization_id": null
     },
     {
-      "name": "Harrison",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Harrison\"}",
-      "organization_id": null
-    },
-    {
       "name": "Hawkins",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Hawkins\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Logan",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Logan\"}",
       "organization_id": null
     },
     {
@@ -375,22 +552,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"McNeely\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Morey",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Morey\"}",
-      "organization_id": null
-    },
-    {
-      "name": "G. Pierce",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"G. Pierce\"}",
       "organization_id": null
     },
     {
@@ -415,14 +576,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Scott\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Turner",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Turner\"}",
       "organization_id": null
     },
     {
@@ -486,6 +639,50 @@
       "classification": ""
     },
     {
+      "note": "Edition 3",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H834v3.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Edition 4",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H834v4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Ratified",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H834v5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "A1: ABKE-55-V-2",
+      "links": [
+        {
+          "url": "https://webservices.ncleg.gov/ViewBillDocument/2025/10285/0/H834-ABKE-55-V-2",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "A1: ASTE-19-V-4",
       "links": [
         {
@@ -513,7 +710,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:57:29Z",
+    "logs_latest_update": "2026-08-09T05:13:16Z",
     "text_extraction_latest_update": "2026-07-21T22:05:54.567416Z"
   }
 }

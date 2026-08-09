@@ -19,6 +19,26 @@
   ],
   "actions": [
     {
+      "description": "Conf Com Appointed",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Conf Com Appointed",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
       "description": "Failed Concur In S Com Sub",
       "date": "2026-04-21",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -593,7 +613,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:57:28Z",
+    "logs_latest_update": "2026-08-09T05:13:16Z",
     "text_extraction_latest_update": "2026-07-21T20:07:54.971849Z"
   }
 }

@@ -18,6 +18,28 @@
   ],
   "actions": [
     {
+      "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Conf Com Reported",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
       "description": "Conf Report Adopted",
       "date": "2026-07-02",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -542,14 +564,6 @@
       "organization_id": null
     },
     {
-      "name": "Ager",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ager\"}",
-      "organization_id": null
-    },
-    {
       "name": "Biggs",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -574,67 +588,11 @@
       "organization_id": null
     },
     {
-      "name": "G. Brown",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"G. Brown\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Buansi",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Buansi\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Cervania",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Cervania\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Clark",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Clark\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Cohn",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Cohn\"}",
-      "organization_id": null
-    },
-    {
       "name": "Cotham",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Cotham\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Dahle",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Dahle\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Greenfield",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Greenfield\"}",
       "organization_id": null
     },
     {
@@ -686,14 +644,6 @@
       "organization_id": null
     },
     {
-      "name": "Pittman",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Pittman\"}",
-      "organization_id": null
-    },
-    {
       "name": "Pyrtle",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -710,27 +660,11 @@
       "organization_id": null
     },
     {
-      "name": "Rubin",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Rubin\"}",
-      "organization_id": null
-    },
-    {
       "name": "Scott",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Scott\"}",
-      "organization_id": null
-    },
-    {
-      "name": "von Haefen",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"von Haefen\"}",
       "organization_id": null
     },
     {
@@ -832,7 +766,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:57:29Z",
+    "logs_latest_update": "2026-08-09T05:13:16Z",
     "text_extraction_latest_update": "2026-07-21T21:26:25.842312Z"
   }
 }

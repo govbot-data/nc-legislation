@@ -1,13 +1,13 @@
 {
   "legislative_session": "2025",
   "identifier": "HB 1067",
-  "title": "Rural Hall - Unaffiliated Candidates.",
+  "title": "Rocky Mount Extraterritorial Jurisdiction.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [
-    "CHARTERS; COUNTIES; ELECTIONS; LOCAL; LOCAL GOVERNMENT; MUNICIPALITIES; POLITICAL PARTIES; SESSION LAWS; FORSYTH COUNTY; RURAL HALL"
+    "CHARTERS; COUNTIES; ELECTIONS; EXTRATERRITORIALITY; LOCAL; LOCAL GOVERNMENT; MUNICIPALITIES; PLANNING & ZONING; POLITICAL PARTIES; SESSION LAWS; TITLE CHANGE; NASH COUNTY; FORSYTH COUNTY; ROCKY MOUNT; RURAL HALL"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -17,6 +17,141 @@
     }
   ],
   "actions": [
+    {
+      "description": "Ref To Com On Rules, Calendar, and Operations of the House",
+      "date": "2026-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Regular Message Received For Concurrence in S Com Sub",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Regular Message Sent To House",
+      "date": "2026-07-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Passed 3rd Reading",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Passed 2nd Reading",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Placed on Today's Calendar",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Reptd Fav",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Re-ref Com On Rules and Operations of the Senate",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Com Substitute Adopted",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Reptd Fav Com Substitute",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Re-ref to State and Local Government.  If fav, re-ref to Rules and Operations of the Senate",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
     {
       "description": "Ref To Com On Rules and Operations of the Senate",
       "date": "2026-05-11",
@@ -306,6 +441,17 @@
       "classification": ""
     },
     {
+      "note": "Edition 4",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1067v4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "A1: ACHE-31-V-2",
       "links": [
         {
@@ -333,7 +479,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:57:29Z",
+    "logs_latest_update": "2026-08-09T05:13:16Z",
     "text_extraction_latest_update": "2026-07-21T23:05:24.752563Z"
   }
 }

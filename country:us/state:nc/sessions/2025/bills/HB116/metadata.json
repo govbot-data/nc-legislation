@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025",
   "identifier": "HB 116",
-  "title": "Local Board of Education Election Changes.",
+  "title": "Jacksonville Annexation and Conforming Changes.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -20,6 +20,78 @@
   ],
   "actions": [
     {
+      "description": "Ch. SL 2026-56",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Ratified",
+      "date": "2026-08-06",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Ordered Enrolled",
+      "date": "2026-08-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Conf Report Adopted 3rd",
+      "date": "2026-08-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Conf Report #CCS2 Adopted",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Placed On Cal For 08/04/2026",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Cal",
+      "date": "2026-07-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T05:13:16Z"
+      }
+    },
+    {
       "description": "Conf Report Passed 2nd",
       "date": "2026-07-02",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -30,13 +102,13 @@
       }
     },
     {
-      "description": "Conf Rpt Recon/withdrawn",
+      "description": "Conf Rpt #1 Recon/withdrawn",
       "date": "2026-07-02",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:57:27Z"
+        "log_file_created": "2026-08-09T05:13:16Z"
       }
     },
     {
@@ -52,7 +124,7 @@
     {
       "description": "Placed On Cal For 07/02/2026",
       "date": "2026-07-01",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -82,7 +154,7 @@
     {
       "description": "Conf Com #2 Reported",
       "date": "2026-07-01",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -122,7 +194,7 @@
     {
       "description": "Conferees Reappointed",
       "date": "2026-07-01",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -132,7 +204,7 @@
     {
       "description": "Conf Com Dismissed",
       "date": "2026-07-01",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -256,7 +328,7 @@
     {
       "description": "Conf Com Reported",
       "date": "2025-06-25",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -719,6 +791,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Ratified",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H116v4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SL 2026-56",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H116v5.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -737,7 +831,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:57:27Z",
+    "logs_latest_update": "2026-08-09T05:13:16Z",
     "text_extraction_latest_update": "2026-07-21T21:10:24.955511Z"
   }
 }
