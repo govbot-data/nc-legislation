@@ -1,0 +1,454 @@
+Title: 
+Official Title: 
+Source: versions - Ratified
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+HOUSE BILL 834
+RATIFIED BILL
+AN ACT TO MAKE VARIOUS CHANGES TO THE ELECTION LAWS.
+The General Assembly of North Carolina enacts:
+PART I. EXTEND TIME PERIOD FOR CURING DEFICIENCIES AND INITIAL
+COUNTING OF BALLOTS TO THE FIFTH BUSINESS DAY AFTER THE ELECTION
+SECTION 1.1.(a) G.S. 163-82.4(f) reads as rewritten:
+"(f) Correcting Registration Forms. – If the voter fails to complete any required item on
+the voter registration form but provides enough information on the form to enable the county
+board to identify and contact the voter, the voter shall be notified of the omission and omission.
+The voter shall be given the opportunity to complete the form and return it to the county board
+at least by 12:00 P.M. on the third fifth business day after the election. If the voter corrects that
+omission within that time and is determined by the county board to be eligible to vote, the county
+board shall permit the voter to vote. If the information is not corrected by election day, the voter
+shall be allowed to vote a provisional official ballot. If the correct information is provided to the
+county board by at least 12:00 P.M. on the third fifth business day after the election, the county
+board shall count any portion of the provisional official ballot that the voter is eligible to vote."
+SECTION 1.1.(b) G.S. 163-166.11 reads as rewritten:
+"§ 163-166.11. Provisional voting requirements.
+(a) If an individual seeking to vote claims to be a registered voter in a jurisdiction as
+provided in G.S. 163-82.1 and though eligible to vote in the election does not appear on the
+official list of eligible registered voters in the voting place, that individual may cast a provisional
+official ballot as follows:
+(1) An election official at the voting place shall notify the individual that the
+individual may cast a provisional official ballot in that election.
+(2) The individual may cast a provisional official ballot at that voting place upon
+executing a written affirmation before an election official at the voting place,
+stating that the individual is a registered voter in the jurisdiction as provided
+in G.S. 163-82.1 in which the individual seeks to vote and is eligible to vote
+in that election.
+(3) A voter who has moved within the county more than 30 days before election
+day but has not reported the move to the county board of elections shall not
+be required to vote a provisional official ballot at the early voting site, as long
+as the early voting site has available all the information necessary to determine
+whether a voter is registered to vote in the county and which ballot the voter
+is eligible to vote based on the voter's proper residence address. The voter with
+that kind of unreported move shall be allowed to vote the same kind of
+absentee ballot as other early voters as provided in G.S. 163-166.40.
+(4) At the time the individual casts the provisional official ballot, the election
+officials shall provide the individual written information stating that anyone
+casting a provisional official ballot can ascertain whether and to what extent
+the ballot was counted and, if the ballot was not counted in whole or in part,
+*H834-v-5*
+
+the reason it was not counted. The State Board or the county board of elections
+shall establish a system for so informing a provisional voter, which shall be
+available to every provisional voter without charge and contain reasonable
+procedures to protect the security, confidentiality, and integrity of the voter's
+personal information and vote.
+(5) The cast provisional official ballot and the written affirmation shall be secured
+by election officials at the voting place according to guidelines and procedures
+adopted by the State Board. At the close of the polls, election officials shall
+transmit the provisional official ballots cast at that voting place to the county
+board of elections for prompt verification according to guidelines and
+procedures adopted by the State Board. No later than 12:00 P.M. two days
+after the close of the polls, the county board of elections shall publish the
+number of provisional official ballots cast on election day, cast by early
+voting, cast by mail-in absentee ballots received as of election day, and cast
+by military and overseas absentee ballots cast under Article 21A of this
+Chapter and received as of election day.
+(b) If a provisional official ballot cast under this section fails to contain the voter's
+signature on the affidavit to certify the voter's identity and eligibility to vote, the county board
+shall notify the voter of the lack of signature on the provisional official ballot no later than the
+close of business on the next business day following review of the ballot and shall provide the
+voter an opportunity to cure the lack of signature on the affidavit. The voter shall be notified by
+mail and by telephone or email, if the telephone number or email address was provided by the
+voter. The notification of voters regarding curing the lack of signature is an administrative task
+that may be performed by county board staff and is not required to be performed at a meeting of
+the county board. If the lack of signature on the affidavit is cured by at least 12:00 P.M. on the
+fifth business day after the election, the county board shall count any portion of the provisional
+official ballot that the voter is eligible to vote."
+SECTION 1.1.(c) G.S. 163-166.12(d) reads as rewritten:
+"(d) Voting When Identification Numbers Do Not Match. – Regardless of whether an
+individual has registered by mail or by another method, if the individual has provided with the
+registration form a drivers license number or last four digits of a Social Security number but the
+computer validation of the number as required by G.S. 163-82.12 did not result in a match, and
+the number has not been otherwise validated by the county board, in the first election in which
+the individual votes that individual shall submit with the ballot the form of identification
+described in subsection (a) or subsection (b) of this section, depending upon whether the ballot
+is voted in person or absentee. If that identification is provided no later than 12:00 P.M. on the
+third fifth business day after the election and the county board does not determine that the
+individual is otherwise ineligible to vote a ballot, the failure of identification numbers to match
+shall not prevent that individual from registering to vote and having that individual's vote
+counted."
+SECTION 1.1.(d) G.S. 163-166.16 reads as rewritten:
+"§ 163-166.16. Requirement for photo identification to vote in person.
+…
+(c) Provisional Ballot Required Without Photo Identification. – If the registered voter
+cannot produce the identification as required in subsection (a) of this section, the registered voter
+may cast a provisional official ballot that is counted only if the registered voter brings an
+acceptable form of photograph identification listed in subsection (a) of this section to the county
+board no later than 12:00 P.M. on the third fifth business day after the election. The State Board
+shall provide the registered voter casting a provisional ballot due to failure to provide photo
+identification an information sheet on the deadline to return to the county board to present photo
+Page 2 House Bill 834-Ratified
+
+identification, and what forms of photo identification are acceptable, in order for the voter's
+provisional official ballot to be counted.
+…
+(e1) Cure Lack of Signature on Affidavit. – If any provisional official ballot cast under
+this section fails to contain the signature of the registered voter casting a ballot on the affidavit,
+the county board shall notify the voter of the lack of signature on the provisional official ballot
+no later than the close of business on the next business day following review of the provisional
+official ballot and shall provide the voter an opportunity to cure the lack of signature on the
+affidavit. The voter shall be notified by mail and by telephone or email, if the telephone number
+or email address was provided by the voter. The notification of voters regarding curing the lack
+of signature is an administrative task that may be performed by county board staff and is not
+required to be performed at a meeting of the county board. If the lack of signature on the affidavit
+is cured by at least 12:00 P.M. on the fifth business day after the election, the county board shall
+count any portion of the provisional official ballot that the voter is eligible to vote.
+…."
+SECTION 1.2.(a) G.S. 163-182.2(a)(4) is recodified as G.S. 163-182.2(a2).
+SECTION 1.2.(b) G.S. 163-182.2(a)(6) is recodified as G.S. 163-182.2(a3).
+SECTION 1.2.(c) G.S. 163-182.2, as amended by this section, reads as rewritten:
+"§ 163-182.2. Initial counting of official ballots.
+(a) The initial counting of official ballots cast at the precinct on election day and under
+Part 5 of Article 14A of this Chapter shall be conducted according to the following principles:
+(1) Vote counting of ballots cast at the precinct on election day shall occur
+immediately after the polls close and shall be continuous until completed. If
+ballots cast under Part 5 of Article 14A of this Chapter are counted
+electronically, that count shall commence at the time the polls close. If ballots
+cast under Part 5 of Article 14A of this Chapter are paper ballots counted
+manually, that count shall commence at the same time as mail-in absentee
+ballots cast under Article 20 or Article 21A of this Chapter are counted.
+(2) Vote counting at the precinct shall be conducted with the participation of
+precinct officials of all political parties then present. Vote counting at the
+county board of elections shall be conducted in the presence or under the
+supervision of board members of all political parties then present.
+(3) Any member of the public wishing to witness the vote count at any level shall
+be allowed to do so. No witness shall interfere with the orderly counting of
+the official ballots. Witnesses shall not participate in the official counting of
+official ballots.
+(4) Recodified.
+(5) Precinct officials shall provide a preliminary report of the vote counting on
+election day to the county board of elections as quickly as possible. The
+preliminary report shall be unofficial, has no binding effect upon the official
+county canvass to follow, and shall include the number of provisional ballots
+cast in that precinct.
+(6) Recodified.
+(a1) The initial counting of official ballots cast under Part 5 of Article 14A of this Chapter
+shall be conducted according to the following principles:
+(1) Vote counting shall occur at the time and place stated in a resolution adopted
+by the county board at least two weeks prior to election day, provided that the
+time stated in the resolution is between 9:00 A.M. and 5:00 P.M. on election
+day. The county board shall not reveal the result of the count prior to the close
+of polls on election day.
+House Bill 834-Ratified Page 3
+
+(2) Vote counting shall be conducted in the presence or under the supervision of
+county board members of all political parties then present.
+(3) Any member of the public wishing to witness the vote count shall be allowed
+to do so. No witness shall interfere with the orderly counting of the official
+ballots. Witnesses shall not participate in the counting of official ballots.
+(4) County boards may review for approval any provisional official ballots and
+may take preparatory steps for the count of such ballots at a meeting held by
+the county board prior to election day, pursuant to a resolution adopted by the
+county board at least two weeks in advance of the meeting, as long as the
+preparatory steps do not reveal the result of the count prior to the close of polls
+on election day.
+(a2) If the county board finds that an individual voting a provisional official ballot (i) was
+registered in the county as provided in 163-82.1, (ii) voted in the proper precinct under
+G.S. 163-55 and G.S. 163-57, and (iii) was otherwise eligible to vote, the provisional official
+ballots shall be counted by the county board no later than 5:00 P.M. on the third fifth business
+day after the election. Except as provided in G.S. 163-82.15(e), if the county board finds that an
+individual voting a provisional official ballot (i) did not vote in the proper precinct under
+G.S. 163-55 and G.S. 163-57, (ii) is not registered in the county as provided in G.S. 163-82.1, or
+(iii) is otherwise not eligible to vote, the ballot shall not be counted. If a voter was properly
+registered to vote in the election by the county board, no mistake of an election official in giving
+the voter a ballot or in failing to comply with G.S. 163-82.15 or G.S. 163-166.11 shall serve to
+prevent the counting of the vote on any ballot item the voter was eligible by registration and
+qualified by residency to vote. When an individual has voted a provisional official ballot after
+completing an affidavit under G.S. 163-166.16(d), and the county board has determined that there
+are grounds to believe the affidavit is false within five business days after the election, the county
+board shall determine whether to count the provisional official ballot by the date of the county
+canvass.
+(a3) In counties that use any certified mechanical or electronic voting system, subject to
+the sample counts under G.S. 163-182.1 and subdivision (2) of subsection (b) of this section, and
+of a hand-to-eye recount under G.S. 163-182.7 and G.S. 163-182.7A, a county board of elections
+shall rely in its canvass on the mechanical or electronic count of the vote rather than the full
+hand-to-eye count of the paper ballots or records. In the event of a material discrepancy between
+the electronic or mechanical count and a hand-to-eye count or recount, the hand-to-eye count or
+recount shall control, except where paper ballots or records have been lost or destroyed or where
+there is another reasonable basis to conclude that the hand-to-eye count is not the true count.
+(a4) Any resolution required by this section shall be published once a week for two weeks
+prior to the election in a newspaper having general circulation in the county. Notice may be made
+on a radio or television station or both, in addition to the newspaper.
+(b) The State Board shall promulgate rules for the initial counting of all official ballots.
+All election officials shall be governed by those rules. In promulgating those rules, the State
+Board shall adhere to the following guidelines:
+(1) For each voting system used, the rules shall specify the role of precinct
+officials and of the county board of elections in the initial counting of official
+ballots.
+(2) For optical scan and direct record electronic voting systems, and for any other
+voting systems in which ballots are counted other than on paper by hand and
+eye, those rules shall provide for a sample hand-to-eye count of the paper
+ballots of a sampling of a statewide ballot item in every county. The
+presidential ballot item shall be the subject of the sampling in a presidential
+election. If there is no statewide ballot item, the State Board shall provide a
+process for selecting district or local ballot items to adequately sample the
+Page 4 House Bill 834-Ratified
+
+electorate. The State Board shall approve in an open meeting the procedure
+for random sampling for each election. The random sampling for any county
+shall be done publicly after the initial count of election returns for that county
+is publicly released or 24 hours after the polls close on election day, whichever
+is earlier. The sample chosen by the State Board shall be of one or more full
+precincts, full counts of mailed absentee ballots, and full counts of one or more
+early voting sites. The size of the sample of each category shall be chosen to
+produce a statistically significant result and shall be chosen after consultation
+with a statistician. The actual units shall be chosen at random. In the event of
+a material discrepancy between the electronic or mechanical count and a
+hand-to-eye count, the hand-to-eye count shall control, except where paper
+ballots have been lost or destroyed or where there is another reasonable basis
+to conclude that the hand-to-eye count is not the true count. If the discrepancy
+between the hand-to-eye count and the mechanical or electronic count is
+significant, a complete hand-to-eye count shall be conducted. The sample
+count need not be done on election night.
+(3) The rules shall provide for accurate unofficial reporting of the results from the
+precinct to the county board of elections with reasonable speed on the night
+of the election.
+(4) The rules shall provide for the prompt and secure transmission of official
+ballots from the voting place to the county board of elections.board.
+(c) The State Board shall direct the county boards of elections in the application of the
+principles and rules in individual circumstances."
+SECTION 1.3. G.S. 163-230.1(e1) reads as rewritten:
+"(e1) Curable Deficiencies. – If a container-return envelope contains a curable deficiency,
+the county board shall promptly notify the voter of the deficiency and the manner in which the
+voter may cure the deficiency. Curable deficiencies are deficiencies that can be cured with
+supplemental documentation or attestation provided by the voter, including when any of the
+following occurs:
+(1) The voter did not sign the voter certification as required by
+G.S. 163-231(a)(4).
+(2) The voter signed the application in the wrong place on the application.
+(3) The voter failed to include with the container-return envelope a photocopy of
+identification described in G.S. 163-166.16(a) or an affidavit as described in
+G.S. 163-166.16(d)(1), (d)(2), or (d)(3), as required by subsection (f1) of this
+section.
+The identification of the two persons witnessing the casting of the absentee ballot in
+accordance with G.S. 163-231(a) is not a curable deficiency. Any container-return envelope with
+a curable deficiency that is transmitted to the county board shall be considered timely if cure
+documentation is received no later than 12:00 P.M. on the third fifth business day after the
+election. Cure documentation may be transmitted via email to the county board if the deficiency
+is one described in subdivision (3) of this subsection. The notification of voters regarding curable
+deficiencies is an administrative task that may be performed by county board staff and is not
+required to be performed at an absentee meeting as provided for in subsection (f) of this section.
+The voter shall be notified of curable deficiencies no later than the close of business on the next
+business day following the county board's review of the ballot by mail, and by telephone or email
+email, if the telephone number or email address was provided by the voter on the request form
+for absentee ballots."
+SECTION 1.4. G.S. 163-231 reads as rewritten:
+"§ 163-231. Voting absentee ballots and transmitting them to the county board of
+elections.board.
+House Bill 834-Ratified Page 5
+
+…
+(b) Transmitting Executed Absentee Ballots to County Board of Elections. Board. – The
+sealed container-return envelope in which executed absentee ballots have been placed shall be
+transmitted to the county board of elections who issued those ballots as follows:
+(1) All ballots issued under the provisions of this Article and Article 21A of this
+Chapter shall be transmitted by one of the following means:
+a. Mail or commercial courier service, at the voter's expense, and
+received by the county board not later than 7:30 P.M. on the day of the
+statewide primary or general election or county bond election.
+b. Delivered in person, by the voter or the voter's near relative or
+verifiable legal guardian, to the county board not later than 7:30 P.M.
+on the day of the statewide primary or general election or county bond
+election.
+c. Electronically transmitted to the county board, if the ballot was issued
+under the provisions of Article 21A of this Chapter.
+d. Submitted through the accessible absentee portal, if the ballot was
+issued to a visually impaired voter who requested an accessible ballot.
+(2) If ballots are received later than the hour stated in subdivision (1) of this
+subsection, those ballots shall not be accepted unless required by federal law
+or the ballots are received in accordance with Article 21A of this Chapter or
+the State Board or court order extended the closing time of the polls for every
+poll in the county in accordance with G.S. 163-166.25. If the State Board or
+court order so extended the closing time of the polls, the ballots shall be
+received by the closing time as extended by the State Board or court order in
+order to be counted.
+(c) Delivering Executed Absentee Ballots in Person. – For purposes of this section,
+"Delivered in person" includes shall mean the voter or the voter's near relative or verifiable legal
+guardian physically handing the voted executed absentee ballot to an election official at the
+county board office or at an early voting site under Part 5 of Article 14A of this Chapter during
+any time that early voting site is open for voting, but does not include depositing the voted
+executed absentee ballot in a drop box or other location designated for the return of voted
+executed absentee ballots. The voted If the executed absentee ballot is physically handed to an
+election official by an individual other than the voter, that individual shall complete an affidavit
+under penalty of perjury as to how that individual is eligible to return the voter's executed
+absentee ballot as the voter's near relative or verifiable legal guardian, as defined in G.S. 163-226.
+(c1) Custody of Executed Absentee Ballots Delivered to Early Voting Site. – Executed
+absentee ballots delivered to the an early voting site under Part 5 of Article 14A of this Chapter
+shall be kept securely and delivered by the election officials at that early voting site to the county
+board of elections office for processing.
+(d) Counting of Executed Absentee Ballots. – Only those executed absentee ballots
+transmitted to a county board in accordance with this section or federal law shall be counted.
+(e) State Board Rules. – The State Board shall adopt rules to implement this section,
+including a form affidavit for delivery in person of executed absentee ballots which shall be used
+by all county boards. The rules shall be consistent with applicable federal law."
+SECTION 1.5. G.S. 163-234 reads as rewritten:
+"§ 163-234. Counting absentee ballots by county board.
+All absentee ballots returned to the county board in the container-return envelopes shall be
+retained by the county board to be counted by the county board as follows:
+…
+(2) The county board shall meet at 5:00 P.M. on election day in the county board
+office or other public location in the county courthouse at the hour stated in a
+Page 6 House Bill 834-Ratified
+
+resolution adopted by the county board at least two weeks prior to the time the
+voting place opens in accordance with G.S. 163-166.25, provided that the time
+stated in the resolution is between 9:00 A.M. and 5:00 P.M., for the purpose
+of counting all absentee ballots except those which have been challenged
+before 5:00 P.M. 9:00 A.M. on election day and those received pursuant to
+G.S. 163-231(b)(2). Any elector of the county shall be permitted to attend the
+meeting and allowed to observe the counting process, so long as the elector
+does not in any manner interfere with the election officials in the discharge of
+their duties. The count of these absentee ballots shall be continuous until
+completed, and the members shall not separate or leave the counting place
+except for unavoidable necessity.
+The county board may begin counting absentee ballots issued under
+Article 21A of this Chapter between the hours of 9:00 A.M. and 5:00 P.M.
+and may begin counting all absentee ballots between the hours of 2:00 P.M.
+and 5:00 P.M. upon the adoption of a resolution at least two weeks prior to the
+election in which the hour and place of counting absentee ballots shall be
+stated. A copy of the resolution shall be published once a week for two weeks
+prior to the election, in a newspaper having general circulation in the county.
+Notice may additionally be made on a radio or television station or both, but
+the notice shall be in addition to the newspaper and other required notice. The
+count shall be continuous until completed and the members shall not separate
+or leave the counting place except for unavoidable necessity, except that if the
+count has been completed prior to the time the polls close, it shall be
+suspended until that time pending receipt of any additional ballots. The county
+board may recess the meeting in accordance with G.S. 143-318.12(b)(1) prior
+to completing the count of absentee ballots but shall not adjourn the meeting
+until the count of the absentee ballots is complete. The State Board shall adopt
+rules as to how county boards reflect any recesses in the full and accurate
+minutes of the meeting such that a person not in attendance would have a
+reasonable understanding of what transpired before and after any recess,
+including the number of outstanding absentee ballots immediately before and
+after any recess.
+(2a) Nothing in this section prohibits a county board from taking preparatory steps
+for the count earlier than the times specified in this section, as long as the
+preparatory steps do not reveal to any individual not engaged in the actual
+count election results before the times specified in this subdivision for the
+count to begin. By way of illustration and not limitation, a preparatory step
+for the count would be the entry of tally cards from direct record electronic
+voting units into a computer for processing. The county board shall not
+announce the result of the count before 7:30 P.M.prior to the close of polls on
+election day.
+…
+(11) The county board shall may meet after the day of the election and prior to the
+day of canvass to count absentee ballots received pursuant to
+G.S. 163-231(b)(2) upon the adoption of a resolution pursuant to subdivision
+(2) of this section. The county board shall comply with all other requirements
+of this section and G.S. 163-230.1 for the counting of these absentee ballots.
+(12) No later than 5:00 P.M. on the third fifth business day after the election, the
+county board shall announce the tally of all absentee ballots, except those
+subject to a challenge or those cast in accordance with Article 21A of this
+Chapter."
+House Bill 834-Ratified Page 7
+
+SECTION 1.6. G.S. 163-275 is amended by adding a new subdivision to read:
+"(15) For any person to knowingly reveal the result of any count of ballots prior to
+the close of polls on election day in accordance with G.S. 163-182.2 or
+G.S. 163-234."
+SECTION 1.7. Section 1.4 of this Part becomes effective January 1, 2027, and
+applies to elections held on or after that date. Section 1.6 of this Part is effective when it becomes
+law, and the State Board of Elections shall notify all county boards of elections and county boards
+of elections staff of the provision and its applicability to offenses committed on or after that date.
+The remainder of this Part is effective when it becomes law and applies to elections held on or
+after that date.
+PART II. CLOSING OF EQUIPMENT FOLLOWING EARLY VOTING
+SECTION 2.(a) G.S. 163-166.40 is amended by adding a new subsection to read:
+"(j) At the conclusion of the early voting period provided for in subsection (b) of this
+section, each county board shall comply with all of the following:
+(1) All voting equipment used during the early voting period is rendered unable
+to receive additional votes associated with the early voting period.
+(2) All voting equipment used during the early voting period is maintained so that
+the tally of the initial counting of early voting ballots is conducted in
+accordance with G.S. 163-182.2(a1).
+(3) The storage of any paper ballots cast during the early voting period are
+preserved in a locked and secured space, access to which is controlled and the
+chain of custody is limited and maintained, prior to the initial counting of early
+voting ballots in accordance with G.S. 163-182.2(a1), which storage shall be
+separate and apart from the storage of any electronic record of the votes cast
+during the early voting period in accordance with subdivision (4) of this
+subsection.
+(4) Any electronic record of votes cast during the early voting period shall be
+secured and preserved in a locked and secured space, access to which is
+controlled and the chain of custody is limited and maintained, prior to the
+initial counting of early voting ballots in accordance with G.S. 163-182.2(a1).
+The electronic record of votes cast during the early voting period may be
+detached from the voting equipment for purposes of storage under this
+subdivision."
+SECTION 2.(b) This section is effective when it becomes law and applies to
+elections held on or after that date.
+PART III. BALLOT CHALLENGES FOR DECEASED VOTERS
+SECTION 3.(a) G.S. 163-90.2(a) reads as rewritten:
+"(a) When any challenge is sustained for any cause listed under G.S. 163-85(c), the county
+board shall cancel or correct the voter registration of the voter. The county board shall maintain
+such record for at least six months and during the pendency of any appeal. The challenged ballot
+shall be counted for any ballot items for which the challenged voter is eligible to vote, as if it
+were a provisional official ballot under the provisions of G.S. 163-166.11(4). For any challenge
+sustained for death of the voter under G.S. 163-85(c)(6), the challenged ballot shall not be
+counted if the voter died between the time the challenged ballot was cast and 11:59 P.M. on the
+day before the election."
+SECTION 3.(b) This section is effective when it becomes law and applies to ballots
+cast on or after that date.
+Page 8 House Bill 834-Ratified
+
+PART IV. VENUE FOR JUDICIAL REVIEW OF DECISIONS OF THE STATE BOARD
+OF ELECTIONS
+SECTION 4.(a) G.S. 163-22(l) reads as rewritten:
+"(l) Notwithstanding any other provision of law, in order to obtain judicial review of any
+decision of the State Board rendered in the performance of its duties or in the exercise of its
+powers under this Chapter, the person seeking review must file a petition in either the Superior
+Court of Wake County.County or the Superior Court of the county in which the person seeking
+review resides."
+SECTION 4.(b) This section is effective when it becomes law and applies to actions
+filed on or after that date.
+PART V. APPLY TEMPORARY MORATORIUM ON THE EXPIRATION OF
+CERTAIN CLASS C DRIVERS LICENSES TO PHOTO IDENTIFICATION
+PRESENTED FOR VOTING
+SECTION 5.(a) During the time period that a Class C drivers license expiration date
+is extended in accordance with Section 18 of S.L. 2025-47, that Class C drivers license shall be
+deemed valid and unexpired for the purposes of G.S. 163-166.16.
+SECTION 5.(b) This section is effective when it becomes law and shall expire
+December 31, 2027.
+PART VI. SEVERABILITY CLAUSE AND EFFECTIVE DATE
+SECTION 6.1. If any provision of this act or its application to any person, group of
+persons, or circumstances is held invalid, the invalidity does not affect other provisions or
+applications of this act that can be given effect without the invalid provisions or application and,
+to this end, the provisions of this act are severable.
+SECTION 6.2. Except as otherwise provided, this act is effective when it becomes
+law.
+In the General Assembly read three times and ratified this the 6th day of August, 2026.
+s/ Rachel Hunt
+President of the Senate
+s/ Mike Schietzelt
+Presiding Officer of the House of Representatives
+_____________________________________
+Josh Stein
+Governor
+Approved __________.m. this ______________ day of ___________________, 2026
+House Bill 834-Ratified Page 9

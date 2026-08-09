@@ -1,0 +1,853 @@
+Title: 
+Official Title: 
+Source: versions - Edition 8
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 8
+HOUSE BILL 958
+Committee Substitute Favorable 6/26/25
+Committee Substitute #2 Favorable 7/31/25
+Committee Substitute #3 Favorable 6/16/26
+Committee Substitute #4 Favorable 6/24/26
+Sixth Edition Engrossed 6/30/26
+Senate Elections Committee Substitute Adopted 7/28/26
+Eighth Edition Engrossed 7/28/26
+Short Title: Election Law Changes. (Public)
+Sponsors:
+Referred to:
+April 14, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES TO THE ELECTION LAWS.
+3 The General Assembly of North Carolina enacts:
+4
+5 PART I. ADMINISTRATIVE MATTERS
+6
+7 SUSPENSION AND TRAINING OF PRECINCT OFFICIALS
+8 SECTION 1.1.(a) Article 5 of Chapter 163 of the General Statutes is amended by
+9 adding a new section to read:
+10 "§ 163-41.3. Suspension or removal of precinct officials; vacancies."
+11 SECTION 1.1.(b) G.S. 163-33(2) reads as rewritten:
+12 "(2) To appoint all chief judges, judges, assistants, and other officers of elections,
+13 and designate the precinct in which each shall serve; and, after notice and
+14 hearing, to suspend or remove any chief judge, judge of elections, assistant,
+15 or other officer of election appointed by it for incompetency, failure to
+16 discharge the duties of office, failure to qualify within the time prescribed by
+17 law, fraud, or for any other satisfactory cause. cause, as provided in
+18 G.S. 163-41.3. In exercising the powers and duties of this subdivision, the
+19 board may act only when a majority of its members are present at any meeting
+20 at which such powers or duties are exercised."
+21 SECTION 1.1.(c) G.S. 163-41(d) is recodified as G.S. 163-41.3.
+22 SECTION 1.1.(d) G.S. 163-41, as amended by this section, reads as rewritten:
+23 "§ 163-41. Precinct chief judges and judges of election; appointment; terms of office;
+24 qualifications; vacancies; oaths of office.
+25 (a) Appointment of Chief Judge and Judges. – At the meeting required by G.S. 163-31 to
+26 be held on the Tuesday following the third Monday in August of the year in which they are
+27 appointed, the county board of elections shall appoint one person to act as chief judge and two
+28 other persons to act as judges of election for each precinct in the county. Their terms of office
+29 shall continue for two years from the specified date of appointment and until their successors are
+30 appointed and qualified, except that if a nonresident of the precinct is appointed as chief judge
+*H958-v-8*
+
+General Assembly Of North Carolina Session 2025
+1 or judge for a precinct, that person's term of office shall end if the county board of elections
+2 appoints a qualified resident of the precinct of the same party to replace the nonresident chief
+3 judge or judge. It shall be their the duty of the precinct officials to conduct the primaries and
+4 elections within their respective precincts. Persons appointed to these offices must be registered
+5 voters and residents of the county in which the precinct is located, of good repute, and able to
+6 read and write. Not more than one judge in each precinct shall belong to the same political party
+7 as the chief judge.
+8 (b) The As used in this Article, the term "precinct official" shall mean chief judges and
+9 judges appointed pursuant to this section, and all assistants appointed pursuant to G.S. 163-42,
+10 unless the context of a statute clearly indicates a more restrictive meaning.
+11 (b1) No person shall be eligible to serve as a precinct official, as that term is defined above,
+12 who holds official if any of the following apply:
+13 (1) The person holds any elective office under the government of the United
+14 States, or of the State of North Carolina or any political subdivision thereof.
+15 No person shall be eligible to serve as a precinct official who is
+16 (2) The person is a candidate for nomination or election. No person shall be
+17 eligible to serve as a precinct official who holds
+18 (3) The person holds any office in a state, congressional district, county, or
+19 precinct political party or political organization, or who is a manager or
+20 treasurer for any candidate or political party, provided however that the
+21 position of delegate to a political party convention shall not be considered an
+22 office for the purpose of this subsection.subdivision.
+23 (4) The person has been prohibited from serving as a precinct official in any
+24 subsequent election in accordance with G.S. 163-41.3(a).
+25 …."
+26 SECTION 1.1.(e) G.S. 163-41.3, as enacted by this section, reads as rewritten:
+27 "§ 163-41.3. Suspension or removal of precinct officials; vacancies.
+28 (a) Any precinct official may be suspended or removed, including on the day of the
+29 election or primary, for incompetency or failure to discharge the duties of office by the county
+30 board in accordance with G.S. 163-33. The county board may prohibit a precinct official who
+31 has been suspended or removed from serving as a precinct official in any subsequent election.
+32 (b)
+33 …."
+34 SECTION 1.1.(f) G.S. 163-42(c) reads as rewritten:
+35 "(c) In addition, a county board of elections by unanimous vote of all of its members may
+36 appoint any registered voter in the county as an emergency election-day assistant, as long as that
+37 voter is otherwise qualified to be a precinct official. The State Board of Elections shall determine
+38 for each election the number of emergency election-day assistants each county may have, based
+39 on population, expected turnout, and complexity of election duties. duties; however, each county
+40 must have, at a minimum, four emergency election-day assistants. The county board by
+41 unanimous vote of all of its members may assign emergency election-day assistants on the day
+42 of the election to any precinct in the county where the number of precinct officials is insufficient
+43 because of an emergency occurring within 48 hours of the opening of the polls emergency, the
+44 suspension or removal of a precinct official, or any other reason that prevents an appointed a
+45 precinct official from serving. serving throughout the day of the primary or election. A person
+46 appointed to serve as an emergency election-day assistant shall be trained and paid like other
+47 precinct assistants in accordance with G.S. 163-46. A county board of elections shall apportion
+48 the appointments as of emergency election-day assistant assistants among registrants of each
+49 political party so as to make possible the staffing of each precinct with officials of more than one
+50 party, and the county board shall make assignments so that no precinct has precinct officials
+51 assistants all of whom are registered with the same party."
+Page 2 House Bill 958-Eighth Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.1.(g) G.S. 163-82.24 reads as rewritten:
+2 "§ 163-82.24. Statewide training and certification for election officials.
+3 (a) Training. – The State Board of Elections shall conduct training programs in election
+4 law and procedures.procedures in accordance with this section.
+5 (a1) Every county elections director shall receive training conducted by the State Board at
+6 least as often as required in the following schedule:
+7 (1) Once during each odd-numbered year before the municipal election held in
+8 the county;county.
+9 (2) Once during each even-numbered year before the first partisan primary;
+10 andprimary.
+11 (3) Once during each even-numbered year after the partisan primaries but before
+12 the general election.
+13 (a2) Every member of a county board of elections shall receive training conducted by the
+14 State Board at least once during the six months after the member's initial appointment and at least
+15 once again during the first two years of the member's service. If an election occurs prior to the
+16 county board member's training, the State Board shall make available training materials for use
+17 by that county board member until the training required by this subsection is completed.
+18 (a3) The State Board of Elections shall promulgate adopt rules for the training of precinct
+19 officials, which shall be followed by the county boards of elections.boards. At a minimum, the
+20 training for all precinct officials shall include information regarding all of the following:
+21 (1) The duties of the office of precinct official.
+22 (2) How to confirm whether a person presenting to vote is registered in that
+23 county.
+24 (3) How to issue ballots.
+25 (4) How to properly provide voter assistance, including how to provide assistance
+26 to those curbside voting.
+27 (5) The procedure for opening and closing of polls.
+28 (6) The prohibition regarding election-related activity in the voting place and
+29 buffer zone of the voting place.
+30 (7) The potential for suspension or removal from office for failure to comply with
+31 the provisions of this Chapter.
+32 (b) Certification. – The State Board of Elections shall conduct a program for certification
+33 of election officials. The program shall include training in election law and procedures. Before
+34 issuing certification to an election official, the State Board shall administer an examination
+35 designed to determine the proficiency of the official in election law and procedures. The State
+36 Board shall set adequate standards for the passage of the examination."
+37 SECTION 1.1.(h) This section becomes effective January 1, 2027, and applies to
+38 elections held on or after that date.
+39
+40 APPOINTMENT OF OBSERVERS IN NONPARTISAN ELECTIONS
+41 SECTION 1.2.(a) G.S. 163-45.1(b) reads as rewritten:
+42 "(b) Observers may be appointed in accordance with the following:
+43 (1) The chair of each political party in the county may designate two registered
+44 voters of the county to serve as observers at each voting place in that county
+45 in which the political party has a candidate appearing on the ballot.
+46 (2) The chair of each political party in the county may designate up to 10
+47 registered voters of the county to serve as observers at any voting place in the
+48 county in which the political party has a candidate appearing on the ballot.
+49 (3) The chair of each political party in the State may designate up to 100 registered
+50 voters of the State to serve as observers at any voting place in the State in
+51 which the political party has a candidate appearing on the ballot.
+House Bill 958-Eighth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (4) An unaffiliated candidate or the unaffiliated candidate's campaign manager
+2 may designate up to two observers registered voters to serve as observers at
+3 each voting place in which that unaffiliated candidate appears on the ballot.
+4 (5) A nonpartisan candidate in a municipal election, special district election, or
+5 board of education election or the nonpartisan candidate's campaign manager
+6 may designate up to one registered voter to serve as an observer at each voting
+7 place in which that nonpartisan candidate appears on the ballot."
+8 SECTION 1.2.(b) This section becomes effective January 1, 2027, and applies to
+9 elections held on or after that date.
+10
+11 CHANGE DATE FOR WHEN CERTAIN MUNICIPAL ELECTIONS HELD
+12 SECTION 1.3.(a) G.S. 163-279(a) reads as rewritten:
+13 "(a) Primaries and elections for offices filled by election of the people in cities, towns,
+14 incorporated villages, and special districts shall be held in 1973 and every two or four years
+15 thereafter as provided by municipal charter on the following days:
+16 (1) If the election is nonpartisan and decided by simple plurality, the election shall
+17 be held on Tuesday after the first Monday in November.
+18 (2) If the election is partisan, the election shall be held on Tuesday after the first
+19 Monday in November, the first primary shall be held on the second Tuesday
+20 after Labor Day, and the second primary, if required, shall be held on the
+21 fourth Tuesday before the election.
+22 (3) If the election is nonpartisan and the nonpartisan primary method of election
+23 is used, the election shall be held on Tuesday after the first Monday in
+24 November and the nonpartisan primary shall be held on the fourth Tuesday
+25 before the election.second Tuesday after Labor Day.
+26 (4) If the election is nonpartisan and the election and runoff election method of
+27 election is used, the election shall be held on the fourth Tuesday before the
+28 Tuesday after the first Monday in November, second Tuesday after Labor
+29 Day, and the runoff election, if required, shall be held on Tuesday after the
+30 first Monday in November."
+31 SECTION 1.3.(b) This section becomes effective January 1, 2027, and applies to
+32 elections held on or after that date.
+33
+34 POLITICAL PARTY PRIMARY CANDIDATE ELIGIBILITY
+35 SECTION 1.4.(a) G.S. 163-106.1 reads as rewritten:
+36 "§ 163-106.1. Eligibility to file.
+37 (a) No person shall be permitted to file as a candidate in a party primary unless that person
+38 has been affiliated with that party for at least 90 365 days as of the date of that person filing such
+39 notice of candidacy. A person registered as "unaffiliated" shall be ineligible to file as a candidate
+40 in a party primary election.
+41 (b) Notwithstanding subsection (a) of this section, a person who has been affiliated with
+42 a party for less than 365 days may file as a candidate in that party's primary if the State executive
+43 committee of the party with which the candidate is affiliated grants the person a waiver. The State
+44 executive committee of the party may, in its sole discretion, grant or deny a waiver request. The
+45 waiver must be submitted to the board of elections which has jurisdiction over the ballot item
+46 under G.S. 163-182.4 by the close of the filing period for that office.
+47 (c) This section shall not apply to any of the following:
+48 (1) Candidates selected by party convention or party caucus.
+49 (2) Parties that have been recognized under Article 9 of this Chapter for two
+50 continuous years or less."
+Page 4 House Bill 958-Eighth Edition
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 1.4.(b) This section becomes effective January 1, 2027, and applies to
+2 candidates filing in a party primary on or after that date.
+3
+4 REQUIRE USE OF FEDERAL DECENNIAL CENSUS DATA WHEN ESTABLISHING
+5 DISTRICT BOUNDARIES
+6 SECTION 1.5.(a) G.S. 153A-22 is amended by adding a new subsection to read:
+7 "(h) In establishing district boundaries, the board of commissioners shall use data derived
+8 from the most recent federal decennial census and shall not use any other population estimates."
+9 SECTION 1.5.(b) G.S. 160A-23 reads as rewritten:
+10 "§ 160A-23. District map; reapportionment.
+11 (a) If the city is divided into electoral districts for the purpose of electing the members of
+12 the council, the map or description required by G.S. 160A-22 shall also show the boundaries of
+13 the several districts.
+14 (b) The council shall have authority to revise electoral district boundaries from time to
+15 time. If district boundaries are set out in the city charter and the charter does not provide a method
+16 for revising them, the council may revise them only for the purpose of (i) accounting for territory
+17 annexed to or excluded from the city, and (ii) correcting population imbalances among the
+18 districts shown by a new federal decennial census or caused by exclusions or annexations. When
+19 district boundaries have been established in conformity with the federal Constitution, the council
+20 shall not be required to revise them again until a new federal decennial census of population is
+21 taken or territory is annexed to or excluded from the city, whichever event first occurs.
+22 (c) In establishing district boundaries, the council may shall use data derived from the
+23 most recent federal decennial census and shall not be required to use any other population
+24 estimates."
+25 SECTION 1.5.(c) G.S. 115C-37(i) reads as rewritten:
+26 "(i) The local board of education shall revise electoral district boundaries from time to
+27 time as provided by this subsection. If district boundaries are set by local act or court order and
+28 the act or order does not provide a method for revising them, the local board of education shall
+29 revise them only for the purpose of (i) accounting for territory annexed to or excluded from the
+30 school administrative unit, and (ii) correcting population imbalances among the districts shown
+31 by a new federal decennial census or caused by exclusions or annexations. After the General
+32 Assembly has ratified an act establishing district boundaries, the local board of education shall
+33 not revise them again until a new federal decennial census of population is taken or territory is
+34 annexed to or excluded from the school administrative unit, whichever event first occurs. After
+35 the local board of education has revised district boundaries in conformity with this act,
+36 subsection, the local board of education shall not revise them again until a new federal decennial
+37 census of population is taken or territory is annexed to or excluded from the school administrative
+38 unit, whichever event occurs first, except that the board may make an earlier revision of district
+39 boundaries it has drawn if it must do so to comply with a court order or to gain approval of a
+40 district-revision plan by the U.S. Justice Department under Section 5 of the Voting Rights Act.
+41 In establishing district boundaries, the local board of education shall use data derived from the
+42 most recent federal census.decennial census and shall not use any other population estimates."
+43 SECTION 1.5.(d) This section becomes effective January 1, 2027, and applies to
+44 the establishment of district boundaries by a county, city, or local board of education on or after
+45 that date.
+46
+47 PART II. REGISTRATION OF VOTERS
+48 SECTION 2.1.(a) G.S. 20-7(b2) is amended by adding a new subdivision to read:
+49 "(9) To the State Board of Elections for the purpose of voter registration and list
+50 maintenance on a routine schedule of no later than the fifteenth day of each
+51 month."
+House Bill 958-Eighth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.1.(b) This section becomes effective January 1, 2027.
+2 SECTION 2.2.(a) G.S. 163-82.7 is amended by adding a new subsection to read:
+3 "(a1) Distribution to County Boards. – If the State Board receives a voter registration
+4 application, the State Board shall forward the application to the appropriate county board in a
+5 timely manner. If the application is received by the State Board within the 100 days prior to an
+6 election, the State Board shall forward the application to the appropriate county board within five
+7 business days of receipt."
+8 SECTION 2.2.(b) This section becomes effective January 1, 2027, and applies to
+9 voter registration applications received by the State Board of Elections on or after that date.
+10 SECTION 2.3.(a) G.S. 163-82.14 reads as rewritten:
+11 "§ 163-82.14. List maintenance.
+12 …
+13 (a1) Methods of List Maintenance; Cross State Checks. – List maintenance efforts under
+14 this section shall be nondiscriminatory and shall comply with the provisions of the Voting Rights
+15 Act of 1965, as amended, and with the provisions of the National Voter Registration Act. The
+16 State Board, in addition to the methods set forth in this section, may use other methods toward
+17 the ends set forth in subsection (a) of this section, including address-updating services provided
+18 by the Postal Service and entering into data sharing agreements with other states to cross-check
+19 information on voter registration and voting records. Any data sharing agreement shall require
+20 the other state or states to comply with G.S. 163-82.10 and G.S. 163-82.10B. Any voter
+21 registration data received from other states pursuant to a data sharing agreement with that state
+22 is not a public record.
+23 (b) Death. – In order to remove the names of deceased persons from the list of eligible
+24 voters in this State, the following shall occur:
+25 (1) At a minimum of once per week, the Department of Health and Human
+26 Services shall furnish free of charge to the Executive Director, in a format
+27 prescribed by the State Board, the names of deceased persons who were
+28 residents of the State. Upon receipt of the list from the Department of Health
+29 and Human Services, the On a weekly basis, the Executive Director shall
+30 distribute to each county board of elections the names on that the list received
+31 from the Department of Health and Human Services of deceased persons who
+32 were residents of that county. Upon the receipt of those names, each county
+33 board of elections shall remove from its voter registration records any person
+34 the list shows to be deceased each week. The State Board shall confirm that
+35 each county board has removed the names of deceased persons from the list
+36 of eligible voters in this State.
+37 (2) Upon receipt of a signed statement of a near relative or personal representative
+38 of the estate of a deceased voter indicating that the person has died, a county
+39 board of elections shall remove the person identified as deceased from its
+40 voter registration records within one week of receipt of the signed statement.
+41 The county board does not need to send any notice to the address of the person
+42 before removing the person from its voter registration records.
+43 (3) If the State Board requests and receives any information from a federal agency
+44 pertaining to death records of registered voters in this State, the Executive
+45 Director shall identify whether any person identified in the information as
+46 deceased is a registered voter in this State. Within one week of receipt of the
+47 information, the Executive Director shall distribute to each county board the
+48 names of those persons who were residents of that county. Upon receipt of
+49 those names, each county board shall remove from its voter registration
+50 records any person the list shows to be deceased within one week of the receipt
+Page 6 House Bill 958-Eighth Edition
+
+General Assembly Of North Carolina Session 2025
+1 of the list. The State Board shall confirm that each county board has removed
+2 the names of deceased persons from the list of eligible voters in this State.
+3 …."
+4 SECTION 2.3.(b) If the State Board of Elections received information regarding
+5 potential non-eligible citizens appearing on the State's voter registration records from a federal
+6 database on or after January 1, 2026, and a challenge has not been entered against a voter
+7 appearing on the information from the federal database and the voter has not otherwise been
+8 removed from the list of eligible voters in the State, then the State Board of Elections shall create
+9 a process for removing such voters from the State's voter registration records.
+10 SECTION 2.4.(a) G.S. 163-82.19(a) reads as rewritten:
+11 "(a) Voter Registration at Drivers License Offices. – The Division of Motor Vehicles
+12 shall, pursuant to the rules adopted by the State Board of Elections, Board, modify its forms so
+13 that any eligible person who applies for original issuance, renewal or correction of a drivers
+14 license, or special identification card issued under G.S. 20-37.7 may, on a part of the form,
+15 complete an application to register to vote, or to update the voter's registration if the voter has
+16 changed his or her address or moved from one precinct to another or from one county to another.
+17 The person taking the application shall ask if the applicant is a citizen of the United States. If the
+18 applicant states that the applicant is not a citizen of the United States, or declines to answer the
+19 question, the person taking the application shall inform the applicant that it is a felony for a
+20 person who is not a citizen of the United States to apply to register to vote. The application shall
+21 state in clear language the penalty for violation of this section. The person taking an application
+22 to register to vote or to update the voter's registration shall proceed with the application only if
+23 the applicant affirmatively states that the applicant is a citizen of the United States. The necessary
+24 forms shall be prescribed by the State Board of Elections. Board. The form must ask for the
+25 previous voter registration address of the voter, if any. If a previous address is listed, and it is not
+26 in the county of residence of the applicant, the appropriate county board of elections shall treat
+27 the application as an authorization to cancel the previous registration and also process it as such
+28 under the procedures of G.S. 163-82.9. If a previous address is listed and that address is in the
+29 county where the voter applies to register, the application shall be processed as if it had been
+30 submitted under G.S. 163-82.9.
+31 (a1) Timely Registration at Drivers License Offices. – Registration shall become effective
+32 as provided in G.S. 163-82.7. Applications to register to vote accepted at a drivers license office
+33 under this section until the deadline established in G.S. 163-82.6(d)(2) shall be treated as timely
+34 made for an election, and no person who completes an application at that drivers license office
+35 shall be denied the vote in that election for failure to apply earlier than that deadline.
+36 (a2) Forwarding Voter Registrations at Drivers License Offices. – All applications shall
+37 be forwarded by the Department of Transportation to the appropriate county board of elections
+38 not later than five business days after the date of acceptance, according to rules which shall be
+39 promulgated by the State Board of Elections. Board. Those rules shall provide for a paperless,
+40 instant, electronic transfer of applications to the appropriate board of elections.county board."
+41 SECTION 2.4.(b) G.S. 163-82.20(e) reads as rewritten:
+42 "(e) Prohibitions. – Any person providing any service under subsection (b) of this section
+43 shall not:not do any of the following:
+44 (1) Seek to influence an applicant's political preference or party registration,
+45 except that this shall not be construed to prevent the notice provided by
+46 G.S. 163-82.4(d) to be given if the applicant refuses to declare his party
+47 affiliation;affiliation.
+48 (2) Display any such political preference or party allegiance;allegiance.
+49 (3) Make any statement to an applicant or take any action the purpose or effect of
+50 which is to discourage the applicant from registering to vote; orvote.
+House Bill 958-Eighth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (4) Make any statement to an applicant or take any action the purpose or effect of
+2 which is to lead the applicant to believe that a decision to register or not to
+3 register has any bearing on the availability of services or benefits.
+4 (5) Proceed with any voter registration application if the applicant does not
+5 affirmatively indicate the applicant is a citizen of the United States."
+6 SECTION 2.4.(c) Article 7A of Chapter 163 of the General Statutes is amended by
+7 adding a new section to read:
+8 "§ 163-83. Requirement for citizenship on voter registration applications.
+9 (a) When making the tentative determination of qualification in accordance with
+10 G.S. 163-82.7(a), the county board shall process the voter registration application in accordance
+11 with this Article only if the voter registration application affirmatively indicates that the applicant
+12 is a citizen of the United States.
+13 (b) If a county board receives a voter registration application in which no answer is
+14 indicated as to the question of whether the applicant is a citizen of the United States, then the
+15 county board shall send a notice to the applicant that the voter registration application must
+16 indicate whether the applicant is a citizen of the United States in order to be processed, and the
+17 applicant must provide a statement under penalty of perjury concerning citizenship. The notice
+18 sent from the county board shall include a form for the applicant to fill out answering the question
+19 of whether the applicant is a citizen of the United States and shall indicate that the form must be
+20 mailed or hand-delivered to the county board within 30 days from the date the notice was sent in
+21 order for the applicant's voter registration application to be processed. If the form is received by
+22 the county board within 30 days from the date the notice was mailed, the county board shall
+23 proceed with the voter registration application accordingly. If the form is not received by the
+24 county board within 30 days from the date the notice was mailed, the county board shall not
+25 approve the voter registration application, shall not add the individual to the list of registered
+26 voters of the State, and shall notify the voter of the denial in accordance with G.S. 163-82.7(b)."
+27 SECTION 2.4.(d) G.S. 163-82.18(a) reads as rewritten:
+28 "(a) Right to Appeal. – Any applicant who receives notice of denial of registration
+29 pursuant to G.S. 163-82.7 or G.S. 163-83 may appeal the denial within five days after receipt of
+30 the notice of denial. The county board of elections shall promptly set a date for a public hearing.
+31 The notice of appeal shall be in writing and shall be signed by the appealing party, shall include
+32 the appealing party's name, date of birth, address, and reasons for the appeal."
+33 SECTION 2.4.(e) This section becomes effective January 1, 2027, and applies to
+34 voter registration applications processed on or after that date.
+35
+36 PART III. CONDUCT OF ELECTIONS
+37
+38 EARLY VOTING PERIOD
+39 SECTION 3.1.(a) G.S. 163-166.40(b) reads as rewritten:
+40 "(b) Each county board shall conduct early voting in accordance with the following:
+41 (1) Not earlier than the third Thursday before an the general election in which a
+42 voter seeks to vote and not later than 3:00 P.M. on the last Saturday before
+43 that general election, the voter may appear in person only at the office of the
+44 county board of elections, board, except as provided in G.S. 163-166.35. A
+45 county board of elections shall conduct early voting on the last Saturday
+46 before the general election from 8:00 A.M. until 3:00 P.M.
+47 (2) Not earlier than the second Thursday before a primary election, a second
+48 primary, or a runoff election in which a voter seeks to vote, and not later than
+49 3:00 P.M. on the last Saturday before that primary, second primary, or runoff
+50 election, the voter may appear in person only at the office of the county board,
+51 except as provided in G.S. 163-166.35. A county board shall conduct early
+Page 8 House Bill 958-Eighth Edition
+
+General Assembly Of North Carolina Session 2025
+1 voting on the last Saturday before a primary, a second primary, or a runoff
+2 election from 8:00 A.M. until 3:00 P.M."
+3 SECTION 3.1.(b) G.S. 163-13(b) reads as rewritten:
+4 "(b) Nominating Procedures. – If a congressional vacancy occurs beginning on the tenth
+5 day before the filing period ends under G.S. 163-106(c) preceding the next succeeding general
+6 election, candidates for the special election to fill the vacancy shall not be nominated in primaries.
+7 Instead, nominations may be made by the political party congressional district executive
+8 committees in the district in which the vacancy occurs. The chairman chair and secretary of each
+9 political party congressional district executive committee nominating a candidate shall
+10 immediately certify his or her name and party affiliation to the State Board so that it may be
+11 printed on the special election ballots.
+12 If the congressional vacancy occurs before the tenth day before the filing period ends under
+13 G.S. 163-106(c) prior to the next succeeding general election, the Governor shall call a special
+14 primary for the purpose of nominating candidates to be voted on in a special election called by
+15 the Governor in accordance with the provisions of subsection (a) of this section. Such a primary
+16 election shall be conducted in accordance with the general laws governing primaries, except that
+17 the opening and closing dates for filing notices of candidacy with the State Board shall be fixed
+18 by the Governor in his or her call for the special primary. The Governor may fix the early voting
+19 period for each county board to conduct early voting for the special election and for the special
+20 primary, but such period shall not be for more than 10 consecutive days. The Governor may also
+21 fix the absentee voting period for the special election and for the special first primary, but such
+22 period shall not be less than 30 days."
+23 SECTION 3.1.(c) G.S. 163-287 is amended by adding a new subsection to read:
+24 "(a1) For any special election not held at a time specified under subsection (a) of this
+25 section, the resolution adopted by the governing body of the county, municipality, or special
+26 district may set the time period for early voting in the special election, which shall be for not
+27 more than 10 consecutive days."
+28 SECTION 3.1.(d) G.S. 163-302(a) reads as rewritten:
+29 "(a) In any municipal election, including a primary or general election or referendum,
+30 mail-in absentee voting and early voting may, upon resolution of the municipal governing body,
+31 be permitted. The resolution, if adopted by the municipal governing body, may set the time period
+32 for each county board conducting the election to conduct early voting, but such period shall not
+33 be for more than 10 consecutive days. Such resolution must be adopted no later than 60 days
+34 prior to an election in order to be effective for that election. Any such resolution shall remain
+35 effective for all future elections unless repealed no later than 60 days before an election. A copy
+36 of all resolutions adopted under this section shall be filed with the State Board and the county
+37 board of elections conducting the election within 10 days of passage in order to be effective. In
+38 addition, mail-in absentee voting and early voting shall be allowed in any referendum on
+39 incorporation of a municipality."
+40 SECTION 3.1.(e) This section becomes effective January 1, 2027, and applies to
+41 elections held on or after that date.
+42
+43 BALLOT CHALLENGES
+44 SECTION 3.2.(a) G.S. 163-89 reads as rewritten:
+45 "§ 163-89. Procedures for challenging ballots cast during early voting and absentee ballots.
+46 (a) Time for Challenge. – The absentee ballot of any voter Ballots cast under Part 5 of
+47 Article 14A of this Chapter may be challenged no later than 5:00 P.M. on the third business day
+48 after the primary or general election or county bond election. Ballots cast under Article 20 and
+49 Article 21A of this Chapter that are received by the county board of elections pursuant to
+50 G.S. 163-231(b)(1) may be challenged no later than 5:00 P.M. on the fifth business day after the
+51 primary or general election or county bond election. The absentee ballot of any voter Ballots cast
+House Bill 958-Eighth Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 under Article 20 and Article 21A of this Chapter that are received by the county board of elections
+2 pursuant to G.S. 163-231(b)(2) may be challenged no later than 5:00 P.M. on the next business
+3 day following the deadline for receipt of such absentee ballots.
+4 (b) Who May Challenge. – Any registered voter of the same county as the absentee
+5 challenged voter may challenge that voter's absentee ballot.
+6 (c) Form and Nature of Challenge. – Each challenged absentee ballot shall be challenged
+7 separately. The burden of proof shall be on the challenger. Each challenge shall be made in
+8 writing and, if they are available, shall be made on forms prescribed by the State Board of
+9 Elections. Board. Each challenge shall specify the reasons why the ballot does not comply with
+10 the provisions of this Article Chapter or why the absentee challenged voter is not legally entitled
+11 to vote in the particular primary or election. The challenge shall be signed by the challenger.
+12 (d) To Whom Challenge Addressed; to Whom Challenge Delivered. – Each challenge
+13 shall be addressed to the county board of elections. board. It may be filed with the county board
+14 at its offices or with the chief judge of the precinct in which the challenger and absentee
+15 challenged voter are is registered. If it is delivered to the chief judge, the chief judge shall
+16 personally deliver the challenge to the chairman chair of the county board of elections on the day
+17 of the county canvass.board.
+18 (e) Hearing Procedure. – All challenges filed under this section shall be heard by the
+19 county board of elections on the day set for the canvass of the returns. All members of the county
+20 board shall attend the canvass and all members shall be present for the hearing of challenges to
+21 absentee challenged ballots. The hearing of challenges shall be audio and video recorded.
+22 Before the board hears a challenge to an absentee ballot, the chairman shall mark the word
+23 "challenged" after the voter's name in the register of absentee ballot applications and ballots
+24 issued and in the pollbook of absentee voters.
+25 The county board then shall hear the challenger's reasons for the challenge, and it challenge.
+26 For challenges to ballots cast under Article 20 of this Chapter, the county board shall make its
+27 decision without opening the container-return envelope or removing the ballots from it.
+28 The county board shall have authority to administer the necessary oaths or affirmations to all
+29 witnesses brought before it to testify to the qualifications of the voter challenged or to the validity
+30 or invalidity of the ballot.
+31 If the challenge is sustained, the chairman shall mark the word "sustained" after the word
+32 "challenged" following the voter's name in the register of absentee ballot applications and ballots
+33 issued and in the pollbook of absentee voters; the voter's ballots shall not be counted;and the
+34 container-return envelope shall not be opened but shall be marked "Challenge Sustained." All
+35 envelopes so marked shall be preserved intact by the chairman for a period of six months from
+36 canvass day or longer if any contest then is pending concerning the validity of any absentee
+37 ballot.then the challenged ballot shall be counted for any ballot items for which the challenged
+38 voter is eligible to vote, as if it were a provisional official ballot under the provisions of
+39 G.S. 163-166.11(4).
+40 If the challenge is overruled, the absentee ballots shall be removed from the container-return
+41 envelopes and counted by the board of elections, county board, and the county board shall adjust
+42 the appropriate abstracts of returns to show that the ballots have been counted and tallied in the
+43 manner provided for unchallenged absentee ballots.tallied.
+44 If the challenge was delivered to the county board by the chief judge of the precinct and was
+45 sustained, the county board shall reopen the appropriate ballot boxes, remove such ballots,
+46 determine how those ballots were voted, deduct such ballots from the returns, and adjust the
+47 appropriate abstracts of returns.
+48 Any voter whose ballots have been challenged may, either personally or through an
+49 authorized representative, appear before the county board at the hearing on the challenge and
+50 present evidence as to the validity of the ballot.
+Page 10 House Bill 958-Eighth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (f) Notations on Absentee Ballots. – For ballots cast under Article 20 of this Chapter, the
+2 following shall occur during and after the hearing process:
+3 (1) Before the county board hears the challenge, the chair shall mark the word
+4 "challenged" after the voter's name in the register of absentee ballot
+5 applications and ballots issued and in the pollbook of absentee voters.
+6 (2) If the challenge is sustained, the chair shall mark the word "sustained" after
+7 the word "challenged" following the voter's name in the register of absentee
+8 ballot applications and ballots issued and in the pollbook of absentee voters,
+9 and the container return envelope shall not be opened but shall be marked
+10 "Challenge Sustained." All envelopes so marked shall be preserved intact by
+11 the chair for a period of six months from canvass day or longer if any contest
+12 then is pending concerning the validity of any challenged ballot."
+13 SECTION 3.2.(b) G.S. 163-90.2 reads as rewritten:
+14 "§ 163-90.2. Action when challenge sustained, overruled, or dismissed.
+15 (a) When any challenge is sustained for any cause listed under G.S. 163-85(c), the county
+16 board shall mark the word "sustained" after the word "challenged" in the registration records of
+17 the voter challenged as required by G.S. 163-85(b) and indicate the reason for the sustained
+18 challenge. The county board shall cancel or correct the voter registration of the voter. The county
+19 board shall maintain such record for at least six months and during the pendency of any appeal.
+20 The challenged ballot shall be counted for any ballot items for which the challenged voter is
+21 eligible to vote, as if it were a provisional official ballot under the provisions of
+22 G.S. 163-166.11(4).
+23 (b) When any challenge made under G.S. 163-85 is overruled or dismissed, the county
+24 board shall erase the word "challenged" which appears on the person's registration records.
+25 (c) A decision by a county board of elections on any challenge made under the provisions
+26 of this Article shall be appealable to the Superior Court of the county in which the offices of that
+27 county board are located within 10 days. If the appeal is made by the State Board, that appeal
+28 shall be to the Superior Court of the county in which the challenge originated. Only those persons
+29 against whom a challenge is sustained or persons who have made a challenge which is overruled
+30 shall have standing to file such appeal."
+31 SECTION 3.2.(c) This section becomes effective January 1, 2027, and applies to
+32 challenges filed on or after that date.
+33
+34 POST-ELECTION AUDITS BY STATE AUDITOR
+35 SECTION 3.3.(a) Article 5A of Chapter 147 of the General Statutes is amended by
+36 adding a new section to read:
+37 "§ 147-64.6Q. Audit of general elections.
+38 (a) In addition to any authority granted in G.S. 147-64.7, after the certification of each
+39 general election under Chapter 163 of the General Statutes, the Auditor shall randomly select
+40 counties of the State in which to conduct post-election audits of election system and controls.
+41 The number of audits to be conducted is at the discretion of the Auditor, but all county boards of
+42 elections must be audited at least once every six years.
+43 (b) No county audit under this section shall occur until after the election is certified
+44 pursuant to G.S. 163-182.15. Nothing in this section supersedes, overrides, or replaces any
+45 procedures in Article 15A of Chapter 163 of the General Statutes. No findings in audits under
+46 this section shall be used as grounds to challenge the final result of an election. Audits under this
+47 section are in addition to audits conducted under G.S. 163-182.12A.
+48 (c) In conducting audits under this section, the Auditor may examine all of the following
+49 areas:
+50 (1) The accuracy of voter rolls and compliance with list maintenance
+51 requirements in State and federal law.
+House Bill 958-Eighth Edition Page 11
+
+General Assembly Of North Carolina Session 2025
+1 (2) Procedures for testing voting equipment before counting ballots, including the
+2 ballots used for testing the equipment and the storage and maintenance of the
+3 equipment.
+4 (3) Records of ballots distributed, ballots voted, poll book records, and ballots
+5 tabulated.
+6 (4) Chain of custody and seal documentation.
+7 (5) Absentee ballots, absentee ballot applications, and absentee ballot
+8 container-return envelopes to ensure appropriate processing and counting of
+9 absentee ballots.
+10 (6) Provisional ballots, provisional ballot envelopes, and records regarding
+11 provisional ballots.
+12 (7) Compliance with all State and federal laws regarding contact with voters and
+13 voter assistance.
+14 (8) Any areas of concern regarding election accuracy, security, or credibility
+15 uncovered over the course of the audit.
+16 (d) Election officials of the county under audit may be present during a county audit under
+17 this section and shall preserve chain of custody of cast ballots and other documents, when
+18 applicable.
+19 (e) The Auditor shall produce annual reports of the audits conducted under this section
+20 and make them accessible on the Office of the State Auditor's website in perpetuity. The report
+21 shall include details of which areas listed in subsection (c) of this section were examined and the
+22 Auditor's findings related to those areas. The report may include recommendations for best
+23 practices, additional training, oversight, or changes to election administration. Before submitting
+24 the report, the Auditor shall allow a board of elections for any county discussed in the report to
+25 review the report and provide comments to be submitted along with it in accordance with
+26 G.S. 147-64.6(c)(13). The reports shall not violate any applicable confidentiality laws.
+27 (f) If the Auditor receives or collects information during an audit under this section that
+28 the Auditor believes may be evidence of a violation of State or federal law, the Auditor shall
+29 refer this evidence in accordance with G.S. 147-64.6B.
+30 (g) If an error, inefficiency, or vulnerability in a county's election system or controls is
+31 uncovered in an audit under this section, the county board of elections shall submit a report to
+32 the Auditor, the State Board of Elections, and the county board of commissioners outlining its
+33 plan to fix the error, inefficiency, or vulnerability.
+34 (h) The Auditor, in collaboration with the State Board of Elections, shall develop an audit
+35 manual that details the policies and procedures guiding audits under this section. This manual
+36 shall not have the force of law. The manual shall not be altered within the 90 days preceding an
+37 election in which the manual is utilized to conduct an audit under this section."
+38 SECTION 3.3.(b) This section becomes effective January 1, 2027.
+39
+40 PART IV. CAMPAIGN FINANCE REVISIONS
+41
+42 INCREASE THRESHOLD FOR NONCASH REPORTING REQUIREMENTS
+43 SECTION 4.1.(a) G.S. 163-278.8(d) reads as rewritten:
+44 "(d) All expenditures for nonmedia expenses (except postage) of more than fifty dollars
+45 ($50.00) one hundred dollars ($100.00) shall be made by a verifiable form of payment. The State
+46 Board of Elections shall prescribe methods to ensure an audit trail for every expenditure so that
+47 the identity of each payee can be determined. All expenditures for nonmedia expenses of fifty
+48 dollars ($50.00) one hundred dollars ($100.00) or less may be made by check or by cash payment.
+49 All nonmedia expenditures of more than fifty dollars ($50.00) one hundred dollars ($100.00)
+50 shall be accounted for and reported individually and separately with a specific description to
+51 provide a reasonable understanding of the expenditure, but expenditures of fifty dollars ($50.00)
+Page 12 House Bill 958-Eighth Edition
+
+General Assembly Of North Carolina Session 2025
+1 one hundred dollars ($100.00) or less may be accounted for and reported in an aggregated
+2 amount, but in that case the treasurer shall account for and report that the treasurer made
+3 expenditures of fifty dollars ($50.00) one hundred dollars ($100.00) or less each, the amounts,
+4 dates, and the purposes for which made. In the case of a nonmedia expenditure required to be
+5 accounted for individually and separately with a specific description to provide a reasonable
+6 understanding of the expenditure by this subsection, if the expenditure was to an individual, the
+7 report shall list the name and address of the individual."
+8 SECTION 4.1.(b) G.S. 163-278.11(b) reads as rewritten:
+9 "(b) Threshold for Reporting Identity of Contributor. – A treasurer shall not be required
+10 to report the name, address, or principal occupation of any individual who contributes fifty dollars
+11 ($50.00) one hundred dollars ($100.00) or less to the treasurer's committee during an election as
+12 defined in G.S. 163-278.13. The State Board of Elections shall provide on its reporting forms for
+13 the reporting of contributions below that threshold. On those reporting forms, the State Board
+14 may require date and amount of contributions below the threshold, but may treat differently for
+15 reporting purposes contributions below the threshold that are made in different modes and in
+16 different settings."
+17 SECTION 4.1.(c) G.S. 163-278.14(b) reads as rewritten:
+18 "(b) No entity shall make, and no candidate, committee or treasurer shall accept, any
+19 monetary contribution in excess of fifty dollars ($50.00) one hundred dollars ($100.00) unless
+20 such contribution is in the form of a check, draft, money order, credit card charge, debit, or other
+21 noncash method that can be subject to written verification. No contribution in the form of check,
+22 draft, money order, credit card charge, debits, or other noncash method may be made or accepted
+23 unless it contains a specific designation of the intended contributee chosen by the contributor.
+24 The State Board may prescribe guidelines as to the reporting and verification of any method of
+25 contribution payment allowed under this Article. For contributions by money order, the State
+26 Board of Elections shall prescribe methods to ensure an audit trail for every contribution so that
+27 the identity of the contributor can be determined. For a contribution made by credit card, the
+28 credit card account number of a contributor is not a public record."
+29 SECTION 4.1.(d) This section becomes effective January 1, 2027, and applies to
+30 monetary contributions and expenditures made, reported, or accepted on or after that date.
+31
+32 INCREASE THRESHOLD FOR ESTABLISHING CERTAIN CANDIDATE
+33 CAMPAIGN COMMITTEES
+34 SECTION 4.2.(a) G.S. 163-278.10A reads as rewritten:
+35 "§ 163-278.10A. Threshold of $1,000 $5,000 for financial reports for certain candidates.
+36 (a) Notwithstanding any other provision of this Chapter, a candidate for a county office,
+37 municipal office, local school board office, soil and water conservation district board of
+38 supervisors, or sanitary district board shall be exempted from the reports of contributions, loans,
+39 and expenditures required in G.S. 163-278.9(a), 163-278.40B, 163-278.40C, 163-278.40D, and
+40 163-278.40E if to further the candidate's campaign that candidate:candidate complies with all of
+41 the following:
+42 (1) Does not receive more than one thousand dollars ($1,000) five thousand
+43 dollars ($5,000) in contributions, andcontributions.
+44 (2) Does not receive more than one thousand dollars ($1,000) five thousand
+45 dollars ($5,000) in loans, andloans.
+46 (3) Does not spend more than one thousand dollars ($1,000).five thousand dollars
+47 ($5,000).
+48 To qualify for the exemption from those reports, the candidate's treasurer shall file a certification
+49 that the candidate does not intend to receive in contributions or loans or expend more than one
+50 thousand dollars ($1,000) five thousand dollars ($5,000) to further the candidate's campaign. The
+51 certification shall be filed with the Board at the same time the candidate files the candidate's
+House Bill 958-Eighth Edition Page 13
+
+General Assembly Of North Carolina Session 2025
+1 Organizational Report as required in G.S. 163-278.7, G.S. 163-278.9, and G.S. 163-278.40A. If
+2 the candidate's campaign is being conducted by a political committee which is handling all
+3 contributions, loans, and expenditures for the candidate's campaign, the treasurer of the political
+4 committee shall file a certification of intent to stay within the threshold amount. If the intent to
+5 stay within the threshold changes, or if the one-thousand-dollar ($1,000) five-thousand-dollar
+6 ($5,000) threshold is exceeded, the treasurer shall immediately notify the Board and shall be
+7 responsible for filing all reports required in G.S. 163-278.9 and 163-278.40B, 163-278.40C,
+8 163-278.40D, and 163-278.40E; provided that any contribution, loan, or expenditure which
+9 would have been required to be reported on an earlier report but for this section shall be included
+10 on the next report required after the intent changes or the threshold is exceeded.
+11 …."
+12 SECTION 4.2.(b) This section becomes effective January 1, 2027, and applies to
+13 certifications for report exemptions filed on or after that date.
+14
+15 INCREASE THRESHOLD FOR REPORTING OF INDEPENDENT EXPENDITURES
+16 SECTION 4.3.(a) G.S. 163-278.12 reads as rewritten:
+17 "§ 163-278.12. Special reporting of contributions and independent expenditures.
+18 (a) Subject to G.S. 163-278.39 and G.S. 163-278.14, individuals and other entities not
+19 otherwise prohibited from doing so may make independent expenditures. In the event an
+20 individual, person, or other entity making independent expenditures but not otherwise required
+21 to report them makes independent expenditures in excess of one hundred dollars ($100.00),
+22 thousand dollars ($1,000), that individual, person, or entity shall file a statement of such
+23 independent expenditure with the appropriate board of elections in the manner prescribed by the
+24 State Board of Elections.Board.
+25 (b) Any person or entity other than an individual that is permitted to make contributions
+26 but is not otherwise required to report them shall report each contribution in excess of one
+27 hundred dollars ($100.00) thousand dollars ($1,000) with the appropriate board of elections in
+28 the manner prescribed by the State Board of Elections.Board.
+29 (c) In assuring compliance with subsections (a) and (b) of this section, the State Board of
+30 Elections shall require the identification of each person or entity making a donation of more than
+31 one hundred dollars ($100.00) thousand dollars ($1,000) to the entity filing the report if the
+32 donation was made to further the reported independent expenditure or contribution. If the donor
+33 is an individual, the statement shall also contain the principal occupation of the donor. The
+34 "principal occupation of the donor" shall mean the same as the "principal occupation of the
+35 contributor" in G.S. 163-278.11.
+36 (d) Contributions or independent expenditures required to be reported under this section
+37 shall be reported within 30 days after they exceed one hundred dollars ($100.00) thousand dollars
+38 ($1,000) or 10 days before an election the contributions or independent expenditures affect,
+39 whichever occurs earlier.
+40 …."
+41 SECTION 4.3.(b) This section becomes effective January 1, 2027, and applies to
+42 independent expenditures made on or after that date.
+43
+44 INCREASE THRESHOLD FOR FILING 48-HOUR REPORTS
+45 SECTION 4.4.(a) G.S. 163-278.9 reads as rewritten:
+46 "§ 163-278.9. Statements filed with Board.
+47 (a) Except as provided in G.S. 163-278.10A, the treasurer of each candidate and of each
+48 political committee shall file with the Board under certification of the treasurer as true and correct
+49 to the best of the knowledge of that officer the following reports:
+50 …
+Page 14 House Bill 958-Eighth Edition
+
+General Assembly Of North Carolina Session 2025
+1 (2) 48-Hour Report. – A political committee, political party or affiliated party
+2 committee that receives a contribution or transfer of funds shall disclose
+3 within 48 hours of receipt a contribution or transfer of one two thousand
+4 dollars ($1,000) ($2,000) or more received before an election but after the
+5 period covered by the last report due before that election. The disclosure shall
+6 be by report to the State Board identifying the source and amount of the funds.
+7 The State Board shall specify the form and manner of making the report,
+8 including the reporting of in-kind contributions. The State Board shall
+9 increase the dollar amount of the reporting threshold effective each election
+10 cycle beginning on the period from January 1 of an odd-numbered year
+11 through December 31 of the next even-numbered year based on the Consumer
+12 Price Index as provided in G.S. 163-278.13(b). The State Board shall set the
+13 revised threshold in October of the even-numbered year, publish the revised
+14 threshold in the North Carolina Register, and notify the Revisor of Statutes
+15 who shall adjust the dollar amount in this subdivision.
+16 …
+17 (a1) Subdivision (a)(2) of this section shall not apply to any candidate campaign
+18 committee, as defined by G.S. 163-278.38Z, in a primary election in which the candidate is
+19 unopposed on that ballot.
+20 …."
+21 SECTION 4.4.(b) G.S. 163-278.9A(a)(3) reads as rewritten:
+22 "(3) 48-Hour Report. – A referendum committee that receives a contribution or
+23 transfer of funds shall disclose within 48 hours of receipt a contribution or
+24 transfer of one two thousand dollars ($1,000) ($2,000) or more received before
+25 a referendum but after the period covered by the last report due before that
+26 referendum. The disclosure shall be by report to the State Board of Elections
+27 identifying the source and amount of such funds. The State Board of Elections
+28 shall specify the form and manner of making the report, including the
+29 reporting of in-kind contributions. The State Board shall increase the dollar
+30 amount of the reporting threshold effective each election cycle beginning on
+31 the period from January 1 of an odd-numbered year through December 31 of
+32 the next even-numbered year based on the Consumer Price Index as provided
+33 in G.S. 163-278.13(b). The State Board shall set the revised threshold in
+34 October of the even-numbered year, publish the revised threshold in the North
+35 Carolina Register, and notify the Revisor of Statutes who shall adjust the
+36 dollar amount in this subdivision."
+37 SECTION 4.4.(c) No earlier than October 1, 2026, the State Board of Elections shall
+38 adjust the thresholds imposed by G.S. 163-278.9(a)(2) and G.S. 163-278.9A(a)(3), as enacted by
+39 this section, effective for the election cycle beginning January 1, 2027.
+40 SECTION 4.4.(d) Except as otherwise provided, this section becomes effective
+41 January 1, 2027.
+42
+43 EXEMPT POLITICAL PARTY COMMITTEES FROM CAMPAIGN SALES
+44 REPORTING REQUIREMENTS
+45 SECTION 4.5.(a) G.S. 163-278.8A reads as rewritten:
+46 "§ 163-278.8A. Campaign sales by political party executive committees.committees and
+47 affiliated party committees.
+48 (a) Exempt Purchase Price Not Treated as "Contribution." – Notwithstanding the
+49 provisions of G.S. 163-278.6(13), the purchase price of goods or services sold by a political party
+50 executive committee or affiliated party committee as provided in subsection (b) of this section
+51 shall not be treated as a "contribution" for purposes of account-keeping under G.S. 163-278.8,
+House Bill 958-Eighth Edition Page 15
+
+General Assembly Of North Carolina Session 2025
+1 for purposes of the reporting of contributions under G.S. 163-278.11, or for the purpose of the
+2 limit on contributions under G.S. 163-278.13. The treasurer is not required to obtain, maintain,
+3 or report the name or other identifying information of the purchaser of the goods or services, as
+4 long as the requirements of subsection (b) of this section are satisfied. However, the proceeds
+5 from the sales of those goods and services shall be treated as contributions for other purposes,
+6 and expenditures of those proceeds shall be reported as expenditures under this Article.
+7 (b) Exempt Purchase Price. – A purchase price for goods or services sold by a political
+8 party executive committee or affiliated party committee qualifies for the exemption provided in
+9 subsection (a) of this section as long as the sale of the goods or services adheres to a plan that the
+10 treasurer has submitted to and that has been approved in writing by the Executive Director of the
+11 State Board of Elections. The Executive Director shall approve the treasurer's plan upon and only
+12 upon finding that all the following requirements are satisfied:
+13 (1) That the price to be charged for the goods or services is reasonably close to
+14 the market price for the goods or services.
+15 (2) That the total amount to be raised from sales under all plans by the committee
+16 does not exceed twenty thousand dollars ($20,000) per election cycle.
+17 (3) That no purchaser makes total purchases under the plan that exceed fifty one
+18 hundred dollars ($50.00).($100.00).
+19 (4) That the treasurer include in the report under G.S. 163-278.11, covering the
+20 relevant time period, all of the following:
+21 a. A description of the plan.
+22 b. The amount raised from sales under the plan.
+23 c. The number of purchases made.
+24 (5) That the treasurer shall include in the appropriate report under
+25 G.S. 163-278.11 any in-kind contribution made to the political party in
+26 providing the goods or services sold under the plan and that no in-kind
+27 contribution accepted as part of the plan violates any provision of this Article.
+28 The Executive Director may require a format for submission of a plan, but that format shall
+29 not place undue paperwork burdens upon the treasurer. As used in this subdivision, the term
+30 "election cycle" has the same meaning as in G.S. 163-278.6(32).
+31 (c) For purposes of this section, "political party committee" means a political party
+32 executive committee or any group established by a political party, including, but not limited to,
+33 men, women, college, teen, senior, young, African American, or Hispanic clubs or
+34 organizations."
+35 SECTION 4.5.(b) This section becomes effective January 1, 2027, and applies to
+36 the purchase price of goods or services sold by a political party committee or an affiliated party
+37 committee on or after that date.
+38
+39 PART V. SEVERABILITY CLAUSE AND EFFECTIVE DATE
+40 SECTION 5.1. If any provision of this act or its application to any person, group of
+41 persons, or circumstances is held invalid, the invalidity does not affect other provisions or
+42 applications of this act that can be given effect without the invalid provisions or application and,
+43 to this end, the provisions of this act are severable.
+44 SECTION 5.2. Except as otherwise provided, this act is effective when it becomes
+45 law.
+Page 16 House Bill 958-Eighth Edition

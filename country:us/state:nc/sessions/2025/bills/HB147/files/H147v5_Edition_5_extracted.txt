@@ -1,0 +1,552 @@
+Title: 
+Official Title: 
+Source: versions - Edition 5
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+H 5
+HOUSE BILL 147
+Committee Substitute Favorable 3/4/25
+Committee Substitute #2 Favorable 4/1/25
+Senate State and Local Government Committee Substitute Adopted 7/27/26
+Fifth Edition Engrossed 7/29/26
+Short Title: Various Local Provisions XI. (Local)
+Sponsors:
+Referred to:
+February 21, 2025
+1 A BILL TO BE ENTITLED
+2 AN ACT TO REMOVE THE CAP ON SATELLITE ANNEXATIONS FOR THE TOWN OF
+3 BEAR GRASS, TO CODIFY AND AMEND THE GAME COMMISSION OF
+4 CURRITUCK COUNTY, AND TO MODIFY THE CONDUCT OF PRIMARY
+5 ELECTIONS IN THE CITY OF HICKORY.
+6 The General Assembly of North Carolina enacts:
+7
+8 PART I. BEAR GRASS SATELLITE ANNEXATIONS
+9 SECTION 1. G.S. 160A-58.1(b) reads as rewritten:
+10 "(b) A noncontiguous area proposed for annexation must meet all of the following
+11 standards:
+12 …
+13 (5) The area within the proposed satellite corporate limits, when added to the area
+14 within all other satellite corporate limits, may not exceed ten percent (10%)
+15 of the area within the primary corporate limits of the annexing city.
+16 This subdivision does not apply to the Cities of Archdale, Asheboro,
+17 Belmont, Cherryville, Claremont, Concord, Conover, Dunn, Durham,
+18 Elizabeth City, Gastonia, Greenville, Hickory, Kannapolis, King, Kings
+19 Mountain, Locust, Lowell, Marion, Mount Airy, Mount Holly, New Bern,
+20 Newton, Oxford, Randleman, Roanoke Rapids, Rockingham, Saluda,
+21 Sanford, Salisbury, Shelby, Southport, Statesville, and Washington and the
+22 Towns of Ahoskie, Angier, Apex, Ayden, Bailey, Bear Grass, Belville,
+23 Benson, Bladenboro, Bridgeton, Bunn, Burgaw, Calabash, Carthage,
+24 Catawba, China Grove, Clayton, Cleveland, Coats, Columbia, Columbus,
+25 Cramerton, Creswell, Dallas, Dobson, East Spencer, Erwin, Four Oaks,
+26 Franklin, Franklinton, Franklinville, Fuquay-Varina, Garner, Godwin,
+27 Goldston, Granite Quarry, Green Level, Grimesland, Harrisburg, Holly Ridge,
+28 Holly Springs, Hookerton, Hope Mills, Huntersville, Jamestown, Kenansville,
+29 Kenly, Knightdale, Landis, Laurel Park, Liberty, Lillington, Louisburg,
+30 Madison, Maggie Valley, Maiden, Mayodan, Maysville, Middlesex, Midland,
+31 Mocksville, Morrisville, Mount Pleasant, Nashville, North Wilkesboro,
+32 Norwood, Oak Island, Oakboro, Ocean Isle Beach, Pembroke, Pine Level,
+33 Pollocksville, Princeton, Ramseur, Ranlo, Richlands, Rockwell, Rolesville,
+*H147-v-5*
+
+General Assembly Of North Carolina Session 2025
+1 Rutherfordton, Shallotte, Siler City, Smithfield, Spencer, Spring Lake, Spruce
+2 Pine, Stanley, Stem, Stovall, Surf City, Swansboro, Taylorsville, Troutman,
+3 Troy, Vass, Wallace, Warsaw, Watha, Waynesville, Weaverville, Weldon,
+4 Wendell, West Jefferson, Wilson's Mills, Windsor, Wingate, Yadkinville,
+5 Youngsville, and Zebulon."
+6
+7 PART II. CODIFY AND AMEND THE GAME COMMISSION OF CURRITUCK
+8 COUNTY AND RELATED LAWS
+9 SECTION 2.(a) Chapter 113 of the General Statutes is amended by adding a new
+10 Article to read:
+11 "Article 22C.
+12 "Currituck County Game Commission.
+13 "§ 113-300.10. Regulation of waterfowl hunting in Currituck County.
+14 The hunting, shooting, killing, or trapping of any wild fowl consisting of geese, ducks, brant,
+15 or any other wild fowl from shore, marsh, blind, or floating device on or adjacent to the public
+16 waters of Currituck County shall be governed and regulated by the North Carolina Wildlife
+17 Resources Commission and the Game Commission of Currituck County, as set forth in this
+18 Article, subject to the regulations of this Article.
+19 "§ 113-300.11. Definitions.
+20 The following definitions shall apply in this Article:
+21 (1) Float blind. – A floating device, including a boat, operated on the public
+22 waters of Currituck County from which wild fowl are hunted under a license
+23 issued by the Game Commission pursuant to G.S. 113-300.16, and that
+24 conforms to the rules for float blinds adopted by the Game Commission.
+25 (2) Game Commission. – The Game Commission of Currituck County.
+26 (3) Point blind. – A blind located entirely upon the private property of an
+27 individual or organization for which a license has been issued by the Game
+28 Commission in accordance with the provisions of G.S. 113-300.17.
+29 (4) Stationary bush blind. – A blind located entirely within the public waters of
+30 Currituck County at a location established by the Game Commission.
+31 "§ 113-300.12. Hunting licenses.
+32 Hunting licenses for shooting migratory wild fowl on the waters covered by this Article shall
+33 conform to the licenses set out or required by the North Carolina Wildlife Resources Commission
+34 or as required by the statewide game law.
+35 "§ 113-300.13. Game Commission of Currituck County created; membership; terms;
+36 vacancies; powers.
+37 (a) Creation; Membership. – A Game Commission of Currituck County is created. The
+38 Game Commission shall consist of seven members, each of whom shall be thoroughly acquainted
+39 with migratory waterfowl shooting both ashore and afloat. The Game Commission shall be
+40 selected and appointed by the Board of County Commissioners of Currituck County, but no
+41 member shall be removed except upon the unanimous vote of all the members of the board of
+42 commissioners. One member shall be chosen from each of the five county commissioner
+43 residency districts, and two members shall be appointed to serve at large. In the event of a
+44 vacancy, successors to the members of the Game Commission shall be similarly appointed.
+45 (b) Terms. – Members of the Game Commission shall be appointed by the Board of
+46 County Commissioners on the first Monday of June of each year as terms expire and shall hold
+47 office for terms of two years, or until their successors are appointed and qualified.
+48 (c) Powers. – The Game Commission, acting with the North Carolina Wildlife Resources
+49 Commission, shall have charge of the enforcement of this Article and all migratory wild fowl
+50 game laws in Currituck County, and the Game Commission, acting with the North Carolina
+51 Wildlife Resources Commission, shall have the power and authority to prescribe rules and
+Page 2 House Bill 147-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 regulations for the enforcement of such game laws and the protection of wild fowl life in the
+2 county, not inconsistent with the provisions of this Article. The Game Commission may establish
+3 sanctuaries or rest areas in which no wild fowl may be shot, hunted, or disturbed.
+4 "§ 113-300.14. Sale and issuance of licenses; clerk to the Game Commission; records;
+5 remittance of fees.
+6 (a) All licenses for the shooting, hunting, killing, or trapping of migratory wild fowl in
+7 Currituck Sound and its tributaries shall be sold by the North Carolina Wildlife Resources
+8 Commission as provided under the State game laws, and the proceeds received from the sale of
+9 all such licenses shall be the property of the State of North Carolina.
+10 (b) The Game Commission shall elect and appoint a suitable person, from persons
+11 qualifying by education and experience, to act as clerk to the Game Commission. The clerk shall
+12 be required to keep a complete and permanent record of all licenses issued by the Game
+13 Commission, and this record shall be open to inspection upon reasonable notice. Licenses for
+14 stationary bush blinds, float blinds, and point blinds shall be solely issued by the clerk to the
+15 Game Commission.
+16 (c) To help defray the costs of enforcement of the provisions of this Article, the clerk to
+17 the Game Commission shall remit to the North Carolina Wildlife Resources Commission for
+18 deposit in the Wildlife Resources Fund, out of monies received from the sale of hunting blind
+19 licenses, the following amounts: eleven dollars ($11.00) of the fee for a license for a point blind,
+20 four dollars ($4.00) of the fee for a license for a stationary bush blind, and nine dollars ($9.00)
+21 of the fee for a license for a float blind.
+22 "§ 113-300.15. Control over blind licenses; complaints; appeals.
+23 The Game Commission shall have control over the issuance of licenses for stationary bush
+24 blinds, float blinds, and point blinds, consistent with this Article and rules adopted pursuant to
+25 this Article. The Game Commission shall hear complaints and petitions from individuals relative
+26 to location of blinds and other matters and shall make adjustment of such matters; provided that
+27 any individual not satisfied with the ruling of the Game Commission may file an appeal with the
+28 district court within 10 days. The procedure governing the appeal shall substantially follow the
+29 provisions of subsections (f) through (k) of G.S. 113-300.34.
+30 "§ 113-300.16. Licenses for stationary bush blinds and float blinds; fees.
+31 (a) To obtain a license for either a stationary bush blind or a float blind, the applicant
+32 shall apply in writing to the clerk to the Game Commission, or otherwise apply by any method
+33 approved by the Game Commission, including via an online application, and pay an application
+34 fee and a processing fee. Application and processing fees shall be set annually by the Game
+35 Commission at the budget meeting held in June, and the Game Commission may establish
+36 different fees for residents of North Carolina and nonresidents.
+37 (b) Applicants who are residents of North Carolina shall submit proof of North Carolina
+38 residency along with each application in order to be subject to resident fees. Applicants who are
+39 not residents of North Carolina but who were the holders of licensed blinds for the 1996-97
+40 waterfowl season shall be charged as North Carolina residents for all subsequent renewals of that
+41 application. However, this exemption terminates if the blind license is not renewed during any
+42 subsequent annual renewal period and is not transferable to any different blind location. Float
+43 blinds when licensed shall bear the license number, and the license number shall be displayed in
+44 a prominent or conspicuous place upon the blind.
+45 "§ 113-300.17. Licenses for point blinds; fees.
+46 (a) Individuals owning property in Currituck County bought and used for the shooting of
+47 migratory wild fowl who desire to have any shooting point or location protected by a license as
+48 such shall make application in accordance with this section; provided that applications filed later
+49 than August 1 shall be given consideration at subsequent meetings of the Game Commission.
+50 (b) The application shall accurately describe the location, and a map shall be furnished
+51 to the Game Commission upon request.
+House Bill 147-Fifth Edition Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (c) The application must be filed on or before August 1 of each year to ensure timely
+2 consideration. To obtain a license for a point blind, the applicant shall apply in writing to the
+3 clerk to the Game Commission, or otherwise apply by any method approved by the Game
+4 Commission, including via an online application, and pay an application fee and a processing
+5 fee. The application fee and the processing fee shall be established annually at the budget meeting
+6 in June.
+7 (d) The license number must, during the shooting season, be displayed on the blind
+8 erected on the licensed shooting point, which blind must be maintained and used with reasonable
+9 frequency, at least four times each season.
+10 (e) If it is desired to develop a new shooting location, the Game Commission, on
+11 application, may license any location designated, but not if it is within 500 yards of a location
+12 used by floating devices or within 500 yards of a bush blind or another licensed point.
+13 "§ 113-300.18. Prima facie evidence of hunting.
+14 For purposes of this Article, it shall be prima facie evidence when anyone is found in a boat,
+15 blind, or floating device, or on shore or marsh with decoys or geese or any other contrivance
+16 which is used in hunting wild fowl that the person is there for the purpose of hunting.
+17 "§ 113-300.19. Aiding unlicensed persons unlawful.
+18 It shall be unlawful for a licensed guide or other resident of North Carolina or any other
+19 person to accompany or aid in hunting, in any of the methods described in this Article, any person
+20 who has failed to obtain the proper license.
+21 "§ 113-300.20. Floating devices restricted.
+22 No type of floating device shall be used in the hunting of wild fowl in Currituck Sound except
+23 those authorized by the North Carolina Wildlife Resources Commission and the Game
+24 Commission.
+25 "§ 113-300.21. Decoy requirement; use of licensed blinds; temporary locations.
+26 (a) It shall be unlawful for any person to shoot waterfowl on the public waters of
+27 Currituck County unless the person is lawfully hunting and has a stand of artificial decoys tied
+28 out over which the person is shooting.
+29 (b) An owner of real estate who has a licensed point blind on the owner's real estate, or
+30 the guests of such an owner, may hunt at one unlicensed temporary location per licensed blind
+31 on the real estate, provided that the licensed location is not being hunted at the same time and
+32 that the temporary location is not within 500 yards of a licensed location belonging to someone
+33 other than the owner of the real estate.
+34 (c) It shall be unlawful for any person to use a licensed or temporary blind for hunting
+35 purposes unless the person (i) has written permission from the licensee of the blind, (ii) has proof
+36 of permission in a manner prescribed by the Game Commission, or (iii) is hunting in the presence
+37 of the licensee.
+38 "§ 113-300.22. Revocation of licenses; criminal penalty.
+39 (a) The Game Commission may prosecute and revoke the hunting blind license of any
+40 person who has in its judgment violated any part of this Article, or any of such rules and
+41 regulations as it may establish, but prior to such revocation, it shall notify the person charged
+42 with the violation to appear before the Game Commission on a given day at a given hour. The
+43 Game Commission may revoke the hunting blind license of any person who violates any of the
+44 provisions of this Article regulating hunting, or who, while hunting, shall go upon the marshes
+45 or lands of any person, firm, or corporation without the permission of the owners.
+46 (b) Any violation of this Article is a Class 2 misdemeanor, and each violation shall
+47 constitute a separate offense.
+48 "§ 113-300.23. Airboats and seaplanes; mufflers.
+49 The use of airboats or seaplanes on the public waters of Currituck County is prohibited from
+50 September 1 of each year to April 1 of the following year. All boats powered with gasoline, oil,
+Page 4 House Bill 147-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 or similarly operated engines shall use efficient mufflers in Currituck County except when
+2 otherwise authorized by the federal government.
+3 "§ 113-300.24. Expenses; compensation; disposition of funds; budget and audit.
+4 (a) The Game Commission may pay the necessary fees of attorneys, surveyors, and
+5 accountants; the costs of printing license forms for hunting blind licenses to be furnished to the
+6 clerk to the Game Commission; and other necessary expenses of carrying out the duties imposed
+7 by this Article. Each member shall be paid a salary, to be established annually at the budget
+8 meeting in June. The clerk to the Game Commission shall receive an annual salary, which shall
+9 be established annually at the budget meeting conducted in June. The clerk shall promptly notify
+10 the Currituck County Board of Commissioners of all salaries established by the Game
+11 Commission at the budget meeting.
+12 (b) The Game Commission may disburse excess funds generated from fees to an
+13 organization established as a nonprofit corporation under North Carolina law for the purpose of
+14 conservation, habitat enhancement, and waterfowl protection in Currituck County. The board of
+15 directors of this corporation shall be appointed by the Game Commission. A member of the Game
+16 Commission shall be made a member of the board of directors of this corporation.
+17 (c) Prior to the beginning of the Game Commission's fiscal year, it shall file a copy of its
+18 budget for that year with the North Carolina Wildlife Resources Commission. Within 30 days
+19 following receipt of the audit report made after the close of a fiscal year, the Game Commission
+20 shall file a copy of the audit report with the Wildlife Resources Commission.
+21 "§ 113-300.25. Vacant blinds.
+22 The Game Commission is authorized to close down vacant blinds in its discretion.
+23 "§ 113-300.26. Location of blinds; proximity to residences.
+24 Every blind of any kind shall be located not less than 500 yards from any blind of any kind.
+25 No float blinds shall be tied within 300 yards of any residence. This section shall not apply to
+26 blinds closer together than 500 yards on June 12, 1957, but shall be applicable to any such blinds
+27 as, and when, one of said blinds becomes vacant.
+28 "§ 113-300.27. Renting of blinds prohibited.
+29 (a) Any person having a licensed blind is prohibited from renting it by the year or
+30 otherwise. The right of a licensee to use a blind is personal to the licensee, and the licensee shall
+31 not permit any other person to use the blind except members of the licensee's family, friends, or
+32 licensed guides. A licensee shall not accept any money or other thing of value as consideration
+33 for the use of the blind, and the licensee shall file a written report each week as to who has been
+34 using the blind on request of the Game Commission.
+35 (b) The Game Commission is empowered to make reasonable rules and regulations to
+36 prevent the renting of blinds. The Game Commission is authorized to revoke the license of any
+37 licensee found to have rented the licensee's blind.
+38 "§ 113-300.28. Denial of licenses to consistent violators.
+39 When the Game Commission finds that an applicant for a blind license is a consistent violator
+40 of the game laws of Currituck County, as shown by convictions for such violations, it may in its
+41 discretion refuse to issue such applicant a license for any type of blind.
+42 "§ 113-300.29. Times for waterfowl hunting.
+43 (a) Unless modified by the Game Commission pursuant to subsection (d) of this section,
+44 in all areas of Currituck County lying east and north of the line described in subsection (c) of this
+45 section, the starting time for waterfowl hunting each day, and the quitting time for waterfowl
+46 hunting each day prior to November 1 and after January 31 of the hunting season, shall be as set
+47 by the North Carolina Wildlife Resources Commission, or as required by the statewide game
+48 law. The quitting time for waterfowl hunting each day from November 1 through January 31 of
+49 the hunting season shall be 4:20 P.M. Eastern Standard Time.
+50 (b) Unless modified by the Game Commission pursuant to subsection (d) of this section,
+51 in all areas of Currituck County lying west of the line described in subsection (c) of this section,
+House Bill 147-Fifth Edition Page 5
+
+General Assembly Of North Carolina Session 2025
+1 the starting time for waterfowl hunting each day, and the quitting time for waterfowl hunting
+2 each day, shall be as set by the North Carolina Wildlife Resources Commission, or as required
+3 by the statewide game law.
+4 (c) The line of demarcation between the waterfowl hunting regions referred to in
+5 subsections (a) and (b) of this section is as follows: Beginning at a point located on the boundary
+6 line between the State of North Carolina and the Commonwealth of Virginia and which point
+7 marks the center of the Atlantic Intracoastal Waterway (AICW) as established by the United
+8 States Army Corps of Engineers and thence following the center of the AICW channel in a
+9 southerly direction to the point which marks the intersection with the center of the ferry channel
+10 for the Currituck-Knotts Island Ferry; thence running in a southeasterly direction to the
+11 northeastern point of Churches Island at a point where the right-of-way of NCSR 1142 (the road
+12 from Coinjock to Churches Island) would terminate if extended in a northerly direction to the
+13 high water mark of the sound; thence following the center line of NCSR 1142 and the northerly
+14 extension thereof in a southerly and westerly direction through Churches Island and continuing
+15 to a point where the right-of-way intersects the center of U.S. Highway 158 near the bridge
+16 crossing the AICW at Coinjock; thence following the center line of U.S. Highway 158 in a
+17 southerly direction to the center of the Currituck Sound and the line marking the boundary
+18 between Dare County and Currituck County.
+19 (d) The Game Commission may modify the times for waterfowl hunting set forth in this
+20 section after a duly advertised public hearing. In making a determination to modify the times, the
+21 Game Commission shall consider all relevant factors, including, but not limited to, whether a
+22 proposed modification will benefit the waterfowl flyway and habitat within Currituck County
+23 and will promote safety and conservation of resources. However, the Game Commission may
+24 not modify the times for waterfowl hunting to allow hunting during times when waterfowl
+25 hunting is otherwise prohibited by the Wildlife Resources Commission in other areas of the State.
+26 If the Game Commission determines that a modification is appropriate, it shall amend its rules
+27 to reflect the modification, and that rule shall supersede the provisions of this section.
+28 "§ 113-300.30. Survey of blinds.
+29 The Game Commission is empowered to institute a survey of the location of all blinds in
+30 Currituck County, and to negotiate and purchase land for checkpoints, base lines, and concrete
+31 markers to accurately locate said blinds, and to provide for the same in its budget.
+32 "§ 113-300.31. Records of blind locations.
+33 The clerk to the Game Commission shall keep a record of the location of every blind, either
+34 by plat book or any other method approved by the Game Commission, including an online blind
+35 map with an accurate database. Upon request of the Game Commission, every license holder
+36 shall be required to provide accurate coordinates in a manner designated by the Game
+37 Commission for the location of each license holder's blind, and the failure to provide the
+38 requested coordinates shall be grounds for the Game Commission to revoke a blind license.
+39 "§ 113-300.32. Number of blinds.
+40 The number of stationary bush blinds and float blinds licensed shall be within the discretion
+41 of the Game Commission, but the current number of stationary bush blinds in existence as of
+42 July 1, 2026, is presumed to be the maximum number of safe locations for stationary bush blinds.
+43 "§ 113-300.33. Anchoring near blinds.
+44 No boat carrying gunners or skiffs shall be tied or anchored within 500 yards of a blind of
+45 any kind.
+46 "§ 113-300.34. Blind licenses; application; consideration; hearings; appeals; issuance.
+47 (a) No blind shall be constructed or hunted from by any person unless such blind shall
+48 have been duly licensed.
+49 (b) All applications for blind licenses shall be made in writing or in any other manner
+50 permitted by the Game Commission, including via online application on its website. The Game
+51 Commission shall establish a schedule of dates and times for when applications may be accepted
+Page 6 House Bill 147-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 for the following season at its hearing in August, and the Game Commission shall announce the
+2 schedule for the following season at its hearing in September and otherwise announce the
+3 schedule by posting the schedule on its website. Each application shall describe the exact
+4 proposed location of the blind by course and distance from a known natural monument
+5 susceptible of definite and exact location; the type of blind license applied for; and the name,
+6 age, and address of the applicant and the purpose for which the applicant intends to use the blind
+7 (for example, for personal use or as a guide). Each application shall also contain an oath by the
+8 applicant that the blind will be used personally by the applicant and the applicant's guests for
+9 hunting and will not be assigned or rented for a consideration unless the applicant is the guide
+10 accompanying the persons hunting. Every applicant for a blind license shall provide the Game
+11 Commission with a valid email address, and any notice that the clerk or the Game Commission
+12 is required to provide to any applicant at any time may be sent to the email address provided.
+13 (c) All applications that have been filed during the period established by the Game
+14 Commission shall receive consideration by the Game Commission of Currituck County at a
+15 meeting to be held at 1:00 P.M. at the Currituck County Courthouse on the Thursday following
+16 the second Wednesday in August, at which time all applications for licenses submitted shall be
+17 passed upon and granted or refused. The Game Commission may, in its discretion, establish a
+18 late fee to be paid by any applicant who can establish just cause for a failure to file an application
+19 in a timely manner, and upon the payment of said late fee, the application may be accepted as
+20 timely. Any applicant whose application for a license is denied shall be notified immediately of
+21 the rejection of the application. It is the responsibility of each applicant to determine whether the
+22 application for a blind license has been approved or rejected and, if desired, to make a timely
+23 demand for a hearing under subsection (d) of this section upon rejection of the application.
+24 (d) Any applicant who has been refused a hunting blind license, or any person objecting
+25 to the issuance of a license to another, shall by the third Wednesday in August following action
+26 on the license application notify the clerk to the Game Commission, in a manner prescribed by
+27 the Game Commission, which may include via mail or email to the clerk, of a demand for a
+28 public hearing before the Game Commission on the question of the issuance of the license, stating
+29 in detail the grounds for objection to the denial or granting of the license. The Game Commission
+30 shall conduct a public hearing on all such demands for the purpose of finding facts, hearing the
+31 arguments and contentions of the parties, and judicially passing upon the question on the first
+32 Wednesday in September of each year. The hearing shall be held at the Currituck County
+33 Courthouse and shall convene at 7:00 P.M. If a person objecting to the issuance of a license to
+34 another has demanded a hearing, the clerk to the Game Commission shall provide a notice of
+35 hearing to the person whose license application was granted by the Thursday following the fourth
+36 Wednesday in August.
+37 (e) Within one week following the hearing provided by subsection (d) of this section, the
+38 clerk to the Game Commission shall file with the Clerk of Superior Court of Currituck County a
+39 listing of all blind licenses issued without contest, all licenses issued following a hearing on the
+40 matter, all license applications denied without contest, and all license applications denied
+41 following the hearing. The listing for each action taken only after a contest in the hearing shall
+42 briefly set out the Game Commission's findings of fact and the basis for the action taken on the
+43 license application. In addition, within one week following the hearing, the clerk to the Game
+44 Commission shall provide notice of the decision of the Game Commission to (i) each party who
+45 appeared at the hearing on the issue in question and (ii) each person who, according to the records
+46 of the Game Commission, will be directly affected by the decision of the Game Commission at
+47 the hearing. It is the responsibility of each party to the hearing to determine the decision of the
+48 Game Commission affecting that party.
+49 (f) Any party to the hearing provided by subsection (d) of this section who is aggrieved
+50 by the decision of the Game Commission may appeal the decision to the District Court Division
+51 of the General Court of Justice sitting in Currituck County, where the matter shall be heard de
+House Bill 147-Fifth Edition Page 7
+
+General Assembly Of North Carolina Session 2025
+1 novo by a district court judge sitting without a jury. The aggrieved party shall file written notice
+2 of appeal with the office of the Clerk of Superior Court of Currituck County explicitly stating the
+3 grounds for the party's objection to the decision of the Game Commission and the relief sought.
+4 The aggrieved party shall style the notice of appeal in a manner to identify the issue to be litigated,
+5 such as "In the Matter of a License for a Stationary Bush Blind Located at (give location)." Filing
+6 notice of appeal shall suspend the decision taken by the Game Commission pending resolution
+7 of the question by the district court, except that right to appeal is barred by a failure to do either
+8 of the following:
+9 (1) File the notice of appeal with the clerk of superior court by the third
+10 Wednesday in September.
+11 (2) Perfect the appeal in accordance with subsection (g) of this section within 10
+12 days after filing the notice of appeal.
+13 (g) After filing notice of appeal, the aggrieved party shall perfect the appeal by paying
+14 the costs of the appeal to the Clerk of Superior Court of Currituck County and by serving a copy
+15 of the notice of appeal upon the clerk to the Game Commission and upon each person who is
+16 shown by the records of the Game Commission to have been entitled to notice of the decision of
+17 the Game Commission with respect to the issue in question under the terms of subsection (e) of
+18 this section. The clerk to the Game Commission shall upon request furnish the appealing party
+19 the names and addresses of the persons entitled to the notice. Service shall be in accordance with
+20 G.S. 1A-1, Rule 4.
+21 (h) Any person served with the notice of appeal under subsection (g) of this section may
+22 become a party in the appeal proceeding before the district court judge by notifying the Clerk of
+23 Superior Court of Currituck County within seven days after service of the notice of appeal upon
+24 that person. Any other person aggrieved by the decision of the Game Commission may petition
+25 to become a party by filing a motion to intervene as provided in G.S. 1A-1, Rule 24.
+26 (i) The responsible judicial official in the district court division of the First Judicial
+27 District shall schedule the hearing upon an appeal as expeditiously as possible after the appeal is
+28 perfected, but it may not be scheduled until the fourth Wednesday in September or, if later, seven
+29 days after service of the notice of appeal upon the clerk to the Game Commission and all other
+30 persons required to be served with notice of appeal under subsection (g) of this section. If any
+31 aggrieved party fails to appear at any scheduled appeal proceeding, the party's appeal shall be
+32 dismissed.
+33 (j) Upon the appeal, the Game Commission shall be a party and shall be represented by
+34 one or more of the members of the Game Commission. In addition, the clerk to the Game
+35 Commission and its attorney, surveyor, and others who have acted for or on behalf of the Game
+36 Commission may testify to facts in issue upon the appeal of which they have knowledge and to
+37 the Game Commission's findings and criteria that apply to the matter in issue. The Game
+38 Commission shall furnish the court with relevant records and exhibits bearing upon the matter in
+39 issue and the decision it made.
+40 (k) In determining whether to grant or deny a blind license to any applicant, to modify
+41 the terms of a license, or otherwise to decide any matter in issue upon appeal, the district court
+42 judge shall follow the criteria in this Article and established by regulations and guidelines of the
+43 Game Commission, to the extent that they are reasonable and in conformity with the policies of
+44 this Article. After the district court judge's decision, the judge may implement the ruling with
+45 appropriate orders to the Game Commission concerning issuance of the blind license, rejection
+46 or modification of the application, and any other matters in issue upon the appeal.
+47 (l) The clerk to the Game Commission shall begin issuance of blind licenses as soon as
+48 feasible for those licenses as to which there is no contest; and, as to each license contested under
+49 subsection (d) of this section or by further appeal to the district court, as soon as feasible after
+50 the proceedings with respect to each license have concluded. The license issued shall carry a
+51 number designation; name, age, and address of the licensee; and a description of the location of
+Page 8 House Bill 147-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 the blind by course and distance as set out in the approved application. The license may be
+2 provided in any format approved by the Game Commission, including digitally.
+3 "§ 113-300.35. Standards governing issuance of licenses.
+4 The following standards shall govern the selection of approved applications and the locations
+5 for which licenses are issued:
+6 (1) No license for a hunting device of any kind, including, but not limited to,
+7 stationary stuck or bush blinds and point blinds, shall be granted for any
+8 location within 500 yards of any other licensed stationary stuck or bush blind
+9 or licensed point.
+10 (2) No person shall be granted a license for more than a total of two blinds of any
+11 and all types, except property owners, who may have licensed points on their
+12 own property without limit so long as the same are not within 500 yards of
+13 any other licensed point or stationary bush or stuck blind.
+14 (3) Licenses shall be issued only to persons thoroughly familiar with the waters
+15 of Currituck Sound, who are capable boat operators, of good moral character,
+16 licensed hunters, and aged at least 18 years. In determining good moral
+17 character, such things as past record of conviction for violation of the game
+18 laws of the State of North Carolina or of the United States, or the violation of
+19 valid rules and regulations of the Game Commission of Currituck County or
+20 of the Wildlife Resources Commission, shall be considered along with other
+21 factors determinative of good moral character.
+22 (4) No license shall be assigned or conveyed by the licensee thereof; provided,
+23 however, if the licensee dies during the term of the license, the licensee's heirs
+24 at law or devisees shall be permitted to operate under said license for the then
+25 current hunting season, and no longer, provided that the qualifications
+26 specified in this section are met by such successor.
+27 "§ 113-300.36. Unlicensed blinds; unauthorized use; removal.
+28 (a) No person shall cause to be erected or erect a blind unless the same has been duly
+29 licensed as provided in this Article.
+30 (b) No person shall shoot or permit another to shoot from a blind which has not been
+31 licensed according to the terms of this Article. All licensed blinds shall carry the number of said
+32 license on the inside thereof, plainly visible to anyone visiting the blind.
+33 (c) No person shall hunt from a licensed blind unless such person shall be the guest of
+34 and shall have the permission of the licensee thereof or is in company with such licensee as guide.
+35 (d) Any blind or hunting device that is not licensed for a given year shall be immediately
+36 demolished by the owner or past owner thereof. If the blind or hunting device is not demolished
+37 by August 1 of the current year, law enforcement officers of the Wildlife Resources Commission
+38 may enter upon the same and cause the same to be demolished.
+39 "§ 113-300.37. Overnight anchoring of float blinds.
+40 No float blinds shall be anchored overnight except at a licensed stationary bush or stuck blind
+41 or licensed point issued to the licensee of said float blind. All other float blinds must be returned
+42 to the landing of the licensee each night.
+43 "§ 113-300.38. Rules of the Wildlife Resources Commission.
+44 The North Carolina Wildlife Resources Commission shall make such other rules and
+45 regulations relative to hunting wild fowl in Currituck Sound as it may deem necessary and proper,
+46 not inconsistent with the provisions of this Article."
+47 SECTION 2.(b) G.S. 113-133.1(d) reads as rewritten:
+48 "(d) Nothing in this Subchapter is intended to repeal or abridge the regulatory authority of
+49 the Game Commission of Currituck County established under Article 22C of this Chapter or the
+50 Dare County Game and Wildlife Commission."
+House Bill 147-Fifth Edition Page 9
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.(c) The following acts and portions of acts, which are codified by
+2 subsection (a) of this section, are repealed:
+3 (1) Chapter 1436 of the 1957 Session Laws.
+4 (2) Chapter 1178 of the 1971 Session Laws.
+5 (3) Chapter 747 of the 1973 Session Laws.
+6 (4) Chapter 398 of the 1975 Session Laws.
+7 (5) Chapter 190 of the 1977 Session Laws.
+8 (6) Chapter 622 of the 1981 Session Laws.
+9 (7) Chapter 764 of the 1983 Session Laws.
+10 (8) Section 4 of Chapter 1042 of the 1987 Session Laws.
+11 (9) Chapter 808 of the 1989 Session Laws.
+12 (10) S.L. 1997-163.
+13 (11) Section 51 of S.L. 1997-456.
+14 (12) S.L. 2003-16.
+15 (13) S.L. 2009-70.
+16 (14) S.L. 2022-19.
+17 SECTION 2.(d) This section is intended to codify the provisions of Chapter 1436 of
+18 the 1957 Session Laws, as amended, with the changes reflected in subsection (a) of this section.
+19 The Game Commission of Currituck County created by Chapter 1436 of the 1957 Session Laws
+20 is continued as the Game Commission of Currituck County under Article 22C of Chapter 113 of
+21 the General Statutes, as enacted by subsection (a) of this section. Members of the Game
+22 Commission and the clerk to the Game Commission serving on the effective date of this section
+23 shall continue to serve for the remainder of their respective terms and appointments.
+24 SECTION 2.(e) Licenses issued, rules adopted, decisions rendered, and all other
+25 actions taken under Chapter 1436 of the 1957 Session Laws, as amended, that are in effect on the
+26 effective date of this section remain in effect and shall be treated as if issued, adopted, rendered,
+27 or taken under Article 22C of Chapter 113 of the General Statutes, as enacted by subsection (a)
+28 of this section.
+29 SECTION 2.(f) The repeals made by subsection (c) of this section shall not abate or
+30 affect any proceeding, prosecution, or appeal pending on the effective date of this section, or any
+31 liability for an offense committed before that date.
+32 SECTION 2.(g) This section becomes effective December 1, 2026, and applies to
+33 offenses committed on or after that date and applications for licenses filed on or after that date.
+34
+35 PART III. HICKORY PRIMARY ELECTIONS
+36 SECTION 3.(a) Section 2.01 of the Charter of the City of Hickory, being Chapter
+37 323 of the 1961 Session Laws, as amended by Chapter 404 of the 1967 Session Laws and S.L.
+38 2026-18, reads as rewritten:
+39 "Sec. 2.01. Composition, Election, and Terms of City Council; Time of General Election. (a)
+40 The governing body for the City of Hickory shall consist of a mayor and six aldermen. The mayor
+41 shall be nominated and elected at large. The aldermen shall each reside in and represent a ward,
+42 but all aldermen shall be nominated and elected at large. No person shall be eligible to file for or
+43 be elected as an alderman unless the person is a qualified voter and resident of the ward in which
+44 the person seeks to be elected.
+45 (b) Regular municipal elections shall be held at the time of the general election in each
+46 even-numbered year. The mayor and aldermen shall be elected using the nonpartisan primary
+47 and election method in accordance with G.S. 163-294. In accordance with G.S. 163-294, if more
+48 than two candidates file to represent a single ward, a nonpartisan primary shall be conducted;
+49 however, only qualified voters of that ward may vote in the nonpartisan primary. The nonpartisan
+50 primary shall be held on the date provided by G.S. 163-1 for county partisan primaries.
+51 Candidates shall file the notice of candidacy with the county board of elections under the same
+Page 10 House Bill 147-Fifth Edition
+
+General Assembly Of North Carolina Session 2025
+1 schedule provided by G.S. 163-106.2. Except as otherwise provided, the election shall be
+2 conducted in accordance with the uniform municipal election laws in Chapter 163 of the General
+3 Statutes.
+4 (c) The mayor and aldermen shall be elected to serve staggered four-year terms and shall
+5 serve until their successors are elected and qualified."
+6 SECTION 3.(b) This section is effective when it becomes law and applies to
+7 elections conducted on or after that date.
+8
+9 PART IV. EFFECTIVE DATE
+10 SECTION 4. Except as otherwise provided, this act is effective when it becomes
+11 law.
+House Bill 147-Fifth Edition Page 11

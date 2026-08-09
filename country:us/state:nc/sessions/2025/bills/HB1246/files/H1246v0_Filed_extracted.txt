@@ -1,0 +1,620 @@
+Title: 
+Official Title: 
+Source: versions - Filed
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+H.B. 1246
+GENERAL ASSEMBLY OF NORTH CAROLINA
+Jul 30, 2026
+SESSION 2025
+HOUSE PRINCIPAL CLERK
+H D
+HOUSE BILL DRH10694-LUe-177C
+Short Title: Safeguarding Elections Act. (Public)
+Sponsors: Representative Buansi.
+Referred to:
+1 A BILL TO BE ENTITLED
+2 AN ACT TO MAKE VARIOUS CHANGES UNDER THE LAWS PERTAINING TO
+3 ELECTIONS.
+4 The General Assembly of North Carolina enacts:
+5
+6 PART I. STATE PROTECTIONS AGAINST FEDERAL INTERFERENCE WITH
+7 CONDUCT OF ELECTIONS
+8 SECTION 1. Article 22 of Chapter 163 of the General Statutes is amended by adding
+9 a new section to read:
+10 "§ 163-271.2. Interference with conduct of elections.
+11 (a) A person acting under the color of law shall not order or authorize the presence of any
+12 troops or armed persons in the civil, military, or naval service of this State or the United States
+13 at any location used as a voting place, including any parking areas used for voting, beginning 17
+14 days before an election through the close of the voting place on election day, unless such force
+15 is necessary to repel armed enemies of the United States. For purposes of this section, "color of
+16 law" means to act or purport to act in the performance of official duties under the authority of a
+17 statute, ordinance, regulation, rule, proclamation, or order of the United States or this State.
+18 (b) Nothing in this section shall be construed to prevent any officer or member of any
+19 troops or the Armed Forces of this State or the United States from exercising the right to vote.
+20 (c) This section shall not apply to (i) law enforcement whose presence is otherwise
+21 required by law or who is responding to a request for assistance regarding a specific emergency
+22 or disturbance that exists at the time the request for assistance is made or (ii) a request for
+23 assistance from an election officer with jurisdiction over the election process in question.
+24 (d) Any person aggrieved by a violation of this section may bring an action for preventive
+25 relief, including an application in a district court for a permanent or temporary injunction,
+26 restraining order, or other order. In any action commenced pursuant to this section, the court, in
+27 its discretion, may allow the prevailing party reasonable attorneys' fees.
+28 (e) In addition to any other fine or penalty imposed by this section, the court may order
+29 any person liable for violating this section to pay a civil penalty, the amount of which shall be
+30 determined by the court and be commensurate with the seriousness of the offense.
+31 (f) This section shall be enforced in addition to any other existing civil and criminal
+32 penalties established under this Chapter."
+33
+34 PART II. VOTER PROTECTIONS AGAINST INTIMIDATION, THREATS, OR
+35 COERCION
+*DRH10694-LUe-177C*
+
+General Assembly Of North Carolina Session 2025
+1 SECTION 2.(a) Article 22 of Chapter 163 of the General Statutes is amended by
+2 adding the following new sections to read:
+3 "§ 163-275.1. Voter intimidation, threats, or coercion.
+4 (a) As used in this section, the following definitions shall apply:
+5 (1) Coerce. – To compel another person's conduct using force or threat of force,
+6 whether that force is physical or economic, and is judged not in isolation but
+7 in the context and background of contemporaneous events.
+8 (2) Intimidate. – To willfully engage in conduct without legal purpose that would
+9 cause a reasonable person to fear for the person's safety or the safety of the
+10 person's immediate family or close personal associates by placing the person
+11 in fear of death, bodily injury, or continued harassment.
+12 (3) Threaten. – To express an intention to harm another.
+13 (b) Notwithstanding any other provision of law, any person who does any of the
+14 following is guilty of a Class H felony:
+15 (1) Threatens or attempts to threaten any person:
+16 a. For voting or attempting to vote.
+17 b. For voting or attempting to vote for or against a particular candidate.
+18 c. For registering to vote.
+19 d. For urging or aiding any individuals to vote or attempting to vote, as
+20 allowed by law.
+21 e. For exercising any lawful powers or duties as an election official or
+22 enlisting another person to do the same.
+23 For purposes of this subsection, a person shall be found to have threatened
+24 another person if the person knew or reasonably should have known that his
+25 or her actions would produce that effect.
+26 (2) Knowingly challenges a person's right to vote on fraudulent or spurious
+27 grounds.
+28 (3) Engages in mass, indiscriminate, and groundless challenging of voters solely
+29 for the purpose of preventing voters from voting or to delay the process of
+30 voting or the lawful and orderly administration of an election.
+31 (4) Fraudulently advises any person that the person is not eligible to vote or is not
+32 registered to vote when in fact that person is eligible or registered to vote.
+33 (c) Notwithstanding any other provision of law, an employer, whether a corporation or
+34 natural person or any other person who employs, who shall, in paying its employees the salary
+35 or wages due the employees, do any of the following shall be guilty of a Class H felony:
+36 (1) Enclose the employees' pay in pay envelopes upon which or in which there is
+37 written or printed the name of any candidate or any political mottoes, devices,
+38 or arguments containing threats, express or implied, intended or calculated to
+39 influence the political opinions or actions of the employees.
+40 (2) In any way, express or implied, communicate that the employees' pay or
+41 continued employment is conditioned on voting or not voting, or voting or not
+42 voting for a specific candidate.
+43 (d) Notwithstanding any other provision of law, any person who intimidates or coerces
+44 or attempts to intimidate or coerce any person for any of the following is guilty of a Class A1
+45 misdemeanor:
+46 (1) Voting or attempting to vote.
+47 (2) Voting or attempting to vote for or against a particular candidate.
+48 (3) Urging or aiding any persons to vote or attempt to vote, as allowed by law.
+49 (4) Exercising any lawful powers or duties as an election official or enlisting
+50 another person for the purpose of doing the same.
+Page 2 DRH10694-LUe-177C
+
+General Assembly Of North Carolina Session 2025
+1 For purposes of this subsection, a person shall be found to have intimidated or coerced another
+2 person if the person knew or reasonably should have known that his or her actions would produce
+3 that effect.
+4 (e) This section applies to votes cast at in-person voting locations and early voting sites,
+5 absentee voting processes, and ballot return activities associated with vote by mail participation.
+6 "§ 163-275.2. Right of action.
+7 Any person aggrieved by a violation of G.S. 163-275.1 may bring an action for preventive
+8 relief, including an application in a district court for a permanent or temporary injunction,
+9 restraining order, or other order. In any action commenced pursuant to this section, the court, in
+10 its discretion, may allow the prevailing party reasonable attorneys' fees.
+11 "§ 163-275.3. Restitution; Fund.
+12 (a) In addition to any other fine or penalty imposed by this Article, the court may order
+13 any person convicted of violating this Article to pay a restitution fine, the amount of which shall
+14 be determined by the court and be commensurate with the seriousness of the offense. The moneys
+15 derived from the fine assessed pursuant to this subsection shall be deposited in the Voter
+16 Intimidation Restitution Fund created under subsection (b) of this section.
+17 (b) The Voter Intimidation Restitution Fund (Fund) is hereby established in the State
+18 treasury. Upon appropriation by the General Assembly, moneys in the Fund shall be allocated to
+19 the State Board of Elections to be used in voter education campaigns addressing the specific
+20 crime committed by anyone convicted of violations of this Article. The funds shall also be used
+21 for the administrative costs associated with distribution of the Fund."
+22 SECTION 2.(b) G.S. 163-274(a) reads as rewritten:
+23 "(a) Class 2 Misdemeanors. – Any person who shall, in connection with any primary or
+24 election in this State, do any of the acts and things declared in this subsection to be unlawful,
+25 shall be guilty of a Class 2 misdemeanor. It shall be unlawful to do any of the following:
+26 …
+27 (17) For any person to demand citizenship documentation from a voter other than
+28 what State law requires at any point during the voting process."
+29
+30 PART III. ELECTION OFFICIAL AND POLL WORKER INTIMIDATION
+31 SECTION 3. Article 22 of Chapter 163 of the General Statutes is amended by adding
+32 a new section to read:
+33 "§ 163-278.1. Intimidation, threats, or coercion of election workers; cause of action;
+34 penalties; immunity.
+35 (a) Any person that intimidates, threatens, coerces, as those terms are defined in
+36 G.S. 163-275.1, or attempts to intimidate, threaten, or coerce an election worker with intent to
+37 impede, intimidate, or interfere with the election worker's official duties is liable in civil damages
+38 to the election worker for any injury or loss resulting from the intimidation, threats, or coercion.
+39 For purposes of this section, an election worker is any individual who is an election official, poll
+40 worker, or an election volunteer performing duties in connection with an election.
+41 (b) Any person that violates subsection (a) of this section shall be fined not more than
+42 one hundred thousand dollars ($100,000), imprisoned for not more than five years, or both.
+43 (c) An election worker acting in good faith to prevent election interference or preserve
+44 ballot access in accordance with this section shall not incur liability."
+45
+46 PART IV. ADJUST CERTAIN EARLY VOTING HOURS
+47 SECTION 4.(a) G.S. 163-166.35(d) reads as rewritten:
+48 "(d) For all sites approved for early voting under this section, a county board of elections
+49 shall provide the following:
+50 (1) Each early voting site across the county shall be open at that same location
+51 during the period required by G.S. 163-166.40(b).
+DRH10694-LUe-177C Page 3
+
+General Assembly Of North Carolina Session 2025
+1 (2) If any early voting site across the county is opened on any day during the
+2 period required by G.S. 163-166.40(b), all early voting sites shall be open on
+3 that day.
+4 (3) On each weekday during the period required by G.S. 163-166.40(b), all early
+5 voting sites shall be open from 8:00 A.M. to 7:30 P.M.
+6 (4) If the county board of elections opens early voting sites on Saturdays other
+7 than the last Saturday before the election during the period required by
+8 G.S. 163-166.40(b), then all early voting sites shall be open for the same
+9 number of hours uniformly throughout the county on those Saturdays.On each
+10 Saturday before the election during the period required by
+11 G.S. 163-166.40(b), all early voting sites shall be open from 8:00 A.M. to 5:00
+12 P.M.
+13 (5) If the county board of elections opens early voting sites on Sundays during the
+14 period required by G.S. 163-166.40(b), then all early voting sites shall be open
+15 for the same number of hours uniformly throughout the county on those
+16 Sundays.On each Sunday during the period required by G.S. 163-166.40(b),
+17 all early voting sites shall be open from 12:00 P.M. to 5:00 P.M.
+18 (6) All early voting sites shall be open on the last Saturday before the election,
+19 for the hours required under G.S. 163-166.40(b) for that last Saturday."
+20 SECTION 4.(b) G.S. 163-166.40(b) reads as rewritten:
+21 "(b) Not earlier than the third Thursday before an election in which a voter seeks to vote
+22 and not later than 3:00 P.M. 5:00 P.M. on the last Saturday before that election, the voter may
+23 appear in person only at the office of the county board of elections, except as provided in
+24 G.S. 163-166.35. A county board of elections shall conduct early voting on the last Saturday
+25 before the election from 8:00 A.M. until 3:00 P.M.5:00 P.M."
+26 SECTION 4.(c) This section becomes effective January 1, 2027, and applies to
+27 elections held on or after that date.
+28
+29 PART V. DISQUALIFY ANY PUBLIC OFFICIAL WHO REFUSES TO CERTIFY
+30 ELECTION
+31 SECTION 5. Chapter 163 of the General Statutes is amended by adding a new
+32 Article to read:
+33 "Article 15C.
+34 "Safeguard Fair Elections Act.
+35 "§ 163-183. Short title.
+36 This act shall be known as the "Safeguard Fair Elections Act."
+37 "§ 163-183.1. Findings; purpose.
+38 (a) The General Assembly makes the following findings:
+39 (1) Following the 2020 election, anti-democratic extremists tried to get election
+40 officials to lie about election results. In some cases, public officials either
+41 hesitated or outright refused to accept plainly truthful election results.
+42 (2) Scores of court cases and administrative challenges proved without doubt that
+43 the 2020 election was counted correctly and that the candidates who were
+44 certified as winners had fairly and honestly won.
+45 (3) Those same extremists have made it clear that they are preparing an election
+46 nullification strategy to implement in the near future, which is an outright
+47 subversion of the American democratic system.
+48 (4) Each public official, whether an elected official, a government employee, or
+49 a volunteer empowered to take official action, has a sacred responsibility to
+50 place loyalty to the Constitution, laws, and ethical principles above partisan
+51 politics.
+Page 4 DRH10694-LUe-177C
+
+General Assembly Of North Carolina Session 2025
+1 (5) Efforts to subvert vote counting and the recognition of election winners are,
+2 by definition, destructive to our system of democracy and the rule of law.
+3 There can be no government "of, by and for the people" if officials are
+4 dishonest about election results.
+5 (b) The purpose of this act is to protect the democratic system and rule of law.
+6 "§ 163-183.2. Definitions.
+7 For purposes of this Article, the following definitions apply:
+8 (1) Clear and convincing evidence. – The evidence presented makes a fact highly
+9 probable or substantially more likely to be true than untrue.
+10 (2) Official act. – A decision or action where a public official is acting for or on
+11 behalf of the State government or local government, or any branch of either
+12 government.
+13 (3) Public official. – An individual legally authorized or permitted to execute laws
+14 or make decisions on behalf of any government, including any branch,
+15 subdivision, or agency of the State or any county, city, district, or other local
+16 government. "Public official" includes, but is not limited to, elected and
+17 appointed officials, government employees, and people who are officially
+18 selected or acknowledged as acting on behalf of the government, such as
+19 election judges and election poll workers.
+20 "§ 163-183.3. Vote counting and election certification based on fact.
+21 (a) No public official shall perform or communicate the intention to perform an official
+22 act in which that official, without clear and convincing evidence, refuses to certify the actual
+23 results or count of an election.
+24 (b) If any public official performs or communicates the intention to perform an official
+25 act in violation of subsection (a) of this section, the performance or communication shall
+26 constitute an automatic resignation from office and any official act in violation of subsection (a)
+27 of this section considered null and void.
+28 (c) A willful violation of subsection (a) of this section shall be a Class 1 misdemeanor,
+29 punishable by a fine of up to ten thousand dollars ($10,000).
+30 (d) This section shall be enforced in addition to any other existing civil and criminal
+31 penalties established under this Chapter."
+32
+33 PART VI. PROHIBITING THIRD-PARTY FORENSIC AUDIT
+34 SECTION 6.(a) G.S. 163-182.12A reads as rewritten:
+35 "§ 163-182.12A. Post-election audits.
+36 (a) After conducting a post-election audit for each election as required by this Chapter,
+37 except for a general election, the State Board shall produce a report which summarizes the audit,
+38 including the rationale for and the findings of the audit. After conducting a post-election audit
+39 for a general election, the State Board shall produce a report which shall include all of the
+40 following:
+41 (1) A summary of the types of post-election audits required by law and the
+42 requirements for conducting each of the audits.
+43 (2) A summary of the results of each of the post-election audits described in
+44 subdivision (1) of this subsection.
+45 (3) A detailed description of each of the post-election audits described in
+46 subdivision (1) of this subsection, including any issues that could have
+47 affected the outcome of the election and the manner in which those issues
+48 were resolved.
+49 (4) A description of any systemic issues that were identified during the
+50 post-election audits and any recommendations on the manner in which those
+51 issues should be addressed to ensure election security and integrity.
+DRH10694-LUe-177C Page 5
+
+General Assembly Of North Carolina Session 2025
+1 (5) The ways in which the public were allowed to observe and comment on the
+2 conduct of the post-election audits, as authorized by law.
+3 (6) Any other matters deemed appropriate by the State Board.
+4 (a1) When conducting post-election audits, the State Board shall implement best practices
+5 to ensure, at a minimum, each audit complies with the following:
+6 (1) Is conducted by nonpartisan officials with expertise in elections.
+7 (2) Is routine and conducted prior to State certification.
+8 (3) Is transparent and open to the public.
+9 (4) Preserves the integrity of election systems and voting equipment.
+10 (5) Preserves ballot secrecy and voter privacy.
+11 (6) Is conducted according to statistically sound methodology.
+12 (7) Requires that any State or county procedures governing audits be established
+13 before election day and before results are known.
+14 (a2) No public official shall provide funding for or participate in a post-election audit or
+15 review that fails to comply with the best practices required by this section.
+16 (b) Each report required by subsection (a) of this section shall be submitted to the Joint
+17 Legislative Elections Oversight Committee and the Joint Legislative Oversight Committee on
+18 General Government within 10 business days of the date the audit is completed."
+19 SECTION 6.(b) Article 15A of Chapter 163 of the General Statutes is amended by
+20 adding a new section to read:
+21 "§ 163-182.12B. Risk-limiting audits.
+22 In addition to any other audits required under State or federal law, the State Board shall
+23 conduct a risk-limiting audit after the general election in each county in accordance with
+24 requirements established by the State Board. However, an audit conducted in accordance with
+25 this section shall not change the results of an election. For purposes of this section, a
+26 "risk-limiting audit" is a hand-to-eye recount of a randomly selected sample of ballots in a contest
+27 that provides strong statistical evidence that the machine-counted results are correct and is based
+28 on a "risk-limit"; the largest chance that an incorrect outcome of a contest could escape correction
+29 by the audit."
+30
+31 PART VII. PREVENT IMPEDIMENT/INTERFERENCE WITH ELECTION PROCESS
+32 SECTION 7.(a) G.S. 163-45.1 reads as rewritten:
+33 "§ 163-45.1. Observers.
+34 …
+35 (b1) Persons appointed as observers shall complete training before acting as an observer
+36 and complete additional training at least once every two years, as applicable. The State Board
+37 shall establish training standards and requirements for observers.
+38 …
+39 (d) The chief judge at each voting place may use reasonable methods to verify the identity
+40 of individuals appearing at the voting place to serve as an observer. The State Board may shall
+41 require an observer to wear an identification tag or badge to make voters and election officials
+42 aware of the observer's role in the voting place. The tag or badge shall include the observer's
+43 name, role, and partisan affiliation.
+44 (e) No more than three observers from the same political party shall be in the voting
+45 enclosure at any time. Observers appointed to serve at a particular voting place may be relieved
+46 during the day after serving no less than four hours. Observers appointed to serve countywide or
+47 statewide may be relieved anytime throughout the day. Observers shall not appear on the ballot
+48 as a candidate or serve as an election official in the primary or election in which the observer is
+49 serving as an observer. Observers shall take no oath of office.
+50 …
+Page 6 DRH10694-LUe-177C
+
+General Assembly Of North Carolina Session 2025
+1 (h) Observers shall sign a sworn oath that the observer shall not do any of the following
+2 inside the voting place:
+3 (1) Look at, photograph, videotape, or otherwise record the image of any voter's
+4 marked ballot.
+5 (2) Impede the ingress or egress of any voter into the voting place.
+6 (3) Inhibit or interfere with any election official in the performance of his or her
+7 duties, including interfering with the transport of sealed ballot boxes, election
+8 equipment, or election results to the county board of elections.
+9 (4) Engage in electioneering.
+10 (5) Make or receive phone calls while in the voting place.
+11 …."
+12 SECTION 7.(b) During the conduct of elections, the State Board of Elections, in
+13 collaboration with county boards of elections, shall do each of the following:
+14 (1) Ensure election administrators are adequately compensated equitably
+15 throughout the State to reduce attrition and loss of institutional knowledge.
+16 (2) Ensure clear and conspicuous notices are placed at voting locations
+17 establishing clear rights and responsibilities for voters, poll workers, and
+18 observers.
+19 (3) Develop a statewide, uniform system of reporting incidents of voter
+20 intimidation anonymously.
+21
+22 PART VIII. VOTER PROTECTION AND RELIANCE ACT
+23 SECTION 8.(a) Chapter 163 of the General Statutes is amended by adding a new
+24 Article to read:
+25 "Article 15B.
+26 "Voter Protection and Reliance Act.
+27 "§ 163-182.50. Title; purpose.
+28 (a) This Article shall be known and may be cited as the "Voter Protection and Reliance
+29 Act."
+30 (b) The General Assembly finds that a voter relies on the election procedures that are in
+31 place and established when the voter casts the voter's ballot. Belated changes to voting
+32 procedures, after a voter has relied on those procedures while voting, violate the voter's
+33 good-faith reliance and right to vote. To that end, the purpose of this Article is to ensure
+34 challenges to the rules and practices governing elections are made well in advance of each
+35 election by (i) prohibiting the discounting of ballots cast in compliance with the laws established
+36 and understood at the time of an election and (ii) accelerating litigation filed shortly before a
+37 pending election or after an election is held.
+38 "§ 163-182.51. Right to vote under prevailing law and procedures.
+39 (a) Every citizen of this State has the right to cast a ballot and have their vote counted
+40 based on the laws and established election procedures in place on election day. No law or
+41 interpretation of law that was not effective, or election procedure that was not established, on
+42 election day shall operate to deny or abridge this right.
+43 (b) No administrative body, court, or official may exclude a vote from canvass, fail to
+44 certify an election, withhold a certificate of election, or fail to seat a prevailing candidate by
+45 excluding votes based on a law, judicial ruling, or legal interpretation that was not in effect on
+46 election day or an election procedure that was not established by election day.
+47 (c) In any civil action filed in a State court, a protest before the State Board or a county
+48 board of elections, or other proceeding, the adjudicator shall deem a law effective and an election
+49 procedure established when either of the following applies:
+DRH10694-LUe-177C Page 7
+
+General Assembly Of North Carolina Session 2025
+1 (1) It is a constitutional provision adopted, statute enacted, or regulation codified
+2 before election day and as it was administered in any directive or
+3 administrative memorandum on election day.
+4 (2) It is a directive, administrative memorandum, including a "numbered memo,"
+5 procedure, or established pattern or practice of the State Board or a county
+6 board of elections that was in place on election day.
+7 (d) In applying the provisions of this section, the adjudicator shall construe facts and draw
+8 inferences in favor of finding that the election procedure was established, based on voter reliance
+9 and the availability of legislative or judicial recourse before election day. If election procedures
+10 were allegedly in conflict on election day, the adjudicator shall construe those procedures in favor
+11 of the voter based on an understanding of the procedures as relied on by that voter.
+12 (e) In the event there is a change in election procedure during the absentee or early voting
+13 period or during election day, the adjudicator shall apply the established election procedure in
+14 effect at the time a given ballot was cast, an application was made for a provisional ballot, or an
+15 absentee ballot was submitted by the voter.
+16 (f) Nothing in this section shall be construed to prevent any eligible voter from
+17 challenging the unlawful denial of the voter's right to register to vote, cast a ballot, or have the
+18 voter's ballot counted in any election.
+19 "§ 163-182.52. Expedited procedures for litigation within certain time frame of an election.
+20 (a) This section applies to (i) any covered action filed within 90 days before the earliest
+21 date absentee ballots may be mailed for an election or (ii) a covered action filed post-election
+22 that seeks to challenge the outcome of an election. For purposes of this section, "covered action"
+23 means any civil action filed in a State court, as well as a protest at the State Board or a county
+24 board of elections level, challenging the general applicability, meaning, interpretation, validity,
+25 or understanding of any established election procedure, as described in G.S. 163-182.51(c).
+26 (b) Jurisdiction. – All covered actions instituted under this section shall be filed in the
+27 Superior Court of Wake County unless the action pertains to an established election procedure
+28 solely of a single county board of elections.
+29 (c) When Three-Judge Panel Applies. – When a single superior court judge determines
+30 that a covered action falls within Rule 42, under the Rules of Civil Procedure, the judge shall
+31 order a transfer under Rule 42 immediately and the Chief Justice shall appoint a three-judge panel
+32 within five days of the Superior Court ordering the transfer.
+33 (d) Expedited Procedures. – Upon filing a covered action under this section, the plaintiff
+34 shall serve the State Board or other appropriate election authority within 24 hours and the court
+35 shall hold an initial scheduling conference within five days of the filing. The court may shorten
+36 normal response deadlines and move the case to the front of its docket. Any appeals shall be
+37 heard on an expedited schedule."
+38 SECTION 8.(b) G.S. 163-182.9(b) reads as rewritten:
+39 "(b) How Protest May Be Filed. – The following principles shall apply to the filing of
+40 election protests with the county board of elections:
+41 …
+42 (5) No protest challenging a voter's registration shall be sustained to invalidate a
+43 cast ballot or prevent a voter from voting where the alleged error in an
+44 accepted registration is a technical or clerical error, such as an incomplete
+45 form, on which the voter detrimentally relied, unless the protester
+46 demonstrates that the voter was in fact ineligible to vote at the time of
+47 registration."
+48
+49 PART IX. VOTER INTIMIDATION ADVISORY COMMITTEE/UNIFORM
+50 PROCEDURES FOR COLLECTION OF COMPLAINTS AND TRAINING
+51 SECTION 9.(a) G.S. 163-22 is amended by adding a new subsection to read:
+Page 8 DRH10694-LUe-177C
+
+General Assembly Of North Carolina Session 2025
+1 "(u) The State Board shall create a standing, community-led advisory committee under the
+2 State Board's authority to monitor risks and recommend mitigation strategies regarding voter
+3 intimidation. The State Board shall establish the process and criteria for individuals selected to
+4 serve on the committee. In selecting members to serve on the committee, the State Board shall
+5 include members from community organizations, election administrators, disability access
+6 advocates, and language-access partners."
+7 SECTION 9.(b) The State Board of Elections shall develop and implement each of
+8 the following:
+9 (1) A statewide, standardized process for the uniform collection, classification,
+10 and public reporting of intimidation complaints across local boards of
+11 elections.
+12 (2) Scenario-based voter intimidation prevention and de-escalation training that
+13 is required for election official and poll workers and addresses, at a minimum,
+14 each of the following:
+15 a. Voter intimidation response protocols.
+16 b. Observer interference.
+17 c. Mass challenges, which for purposes of this subsection occur when
+18 one or more individuals challenge the voter eligibility of a large
+19 number of other individuals who the challenger or challengers do not
+20 know or frequently have never met.
+21 d. Law enforcement interaction procedures.
+22
+23 PART X. CODIFY 90-DAY PROTECTION RULE REGARDING VOTER
+24 CHALLENGES/REQUIRE VOTER NOTICE OF ABSENTEE BALLOT CHALLENGES
+25 SECTION 10.(a) G.S. 163-85 reads as rewritten:
+26 "§ 163-85. Challenge procedure other than on day of primary or election.
+27 (a) Right to Challenge; When Challenge May Be Made. – Any registered voter of the
+28 county may challenge the right of any person to register, remain registered or vote in such county.
+29 No such challenge may be made after the twenty-fifth day 90 days before each primary, general,
+30 or special election.election, unless otherwise required by federal law.
+31 (b) Challenges Shall Be Made to the County Board of Elections. – Each challenge shall
+32 be made separately, in writing, under oath and on forms prescribed by the State Board of
+33 Elections, and shall specify the reasons why the challenged voter is not entitled to register, remain
+34 registered, or vote. When a challenge is made, the board of elections shall cause the word
+35 "challenged" to be written in pencil on the registration records of the voter challenged. The
+36 challenge shall be signed by the challenger and shall set forth the challenger's address.
+37 (c) Grounds for Challenge. – Such challenge may be made only for one or more of the
+38 following reasons:
+39 (1) That a person is not a resident of the State of North Carolina, or
+40 (2) That a person is not a resident of the county in which the person is registered,
+41 provided that no such challenge may be made if the person removed his
+42 residency and the period of removal has been less than 30 days, or
+43 (3) That a person is not a resident of the precinct in which the person is registered,
+44 provided that no such challenge may be made if the person removed his
+45 residency and the period of removal has been less than 30 days, or
+46 (4) That a person is not 18 years of age, or if the challenge is made within 60 days
+47 before a primary, that the person will not be 18 years of age by the next general
+48 election, or
+49 (5) That a person has been adjudged guilty of a felony and is ineligible to vote
+50 under G.S. 163-55(2), or
+51 (6) That a person is dead, or
+DRH10694-LUe-177C Page 9
+
+General Assembly Of North Carolina Session 2025
+1 (7) That a person is not a citizen of the United States, or
+2 (8) With respect to municipal registration only, that a person is not a resident of
+3 the municipality in which the person is registered, or
+4 (9) That the person is not who he or she represents himself or herself to be.
+5 (d) Preliminary Hearing. – When a challenge is made, the county board of election shall
+6 schedule a preliminary hearing on the challenge, and shall take such testimony under oath and
+7 receive such other evidence proffered by the challenger as may be offered. The burden of proof
+8 shall be on the challenger, and if no testimony is presented, the board shall dismiss the challenge.
+9 If the challenger presents evidence and if the board finds that probable cause exists that the person
+10 challenged is not qualified to vote, then the board shall schedule a hearing on the challenge.
+11 Notices of the preliminary hearing shall be provided in the voter's language of record where
+12 available.
+13 (e) Prima Facie Evidence That Voter No Longer Resides in Precinct. – The presentation
+14 of a letter mailed by returnable first-class mail to the voter at the address listed on the voter
+15 registration card and returned because the person does not live at the address shall constitute
+16 prima facie evidence that the person no longer resides in the precinct."
+17 SECTION 10.(b) G.S. 163-89 reads as rewritten:
+18 "§ 163-89. Procedures for challenging absentee ballots.
+19 (a) Time for Challenge. – The absentee ballot of any voter received by the county board
+20 of elections pursuant to G.S. 163-231(b)(1) may be challenged no later than 5:00 P.M. on the
+21 fifth business day after the primary or general election or county bond election. The absentee
+22 ballot of any voter received by the county board of elections pursuant to G.S. 163-231(b)(2) may
+23 be challenged no later than 5:00 P.M. on the next business day following the deadline for receipt
+24 of such absentee ballots.
+25 (b) Who May Challenge. – Any registered voter of the same county as the absentee voter
+26 may challenge that voter's absentee ballot.
+27 (c) Form and Nature of Challenge. – Each challenged absentee ballot shall be challenged
+28 separately. The burden of proof shall be on the challenger. Each challenge shall be made in
+29 writing and, if they are available, shall be made on forms prescribed by the State Board of
+30 Elections. Each challenge shall specify the reasons why the ballot does not comply with the
+31 provisions of this Article or why the absentee voter is not legally entitled to vote in the particular
+32 primary or election. The challenge shall be signed by the challenger.
+33 (d) To Whom Challenge Addressed; to Whom Challenge Delivered. – Each challenge
+34 shall be addressed to the county board of elections. It may be filed with the board at its offices or
+35 with the chief judge of the precinct in which the challenger and absentee voter are registered. If
+36 it is delivered to the chief judge, the chief judge shall personally deliver the challenge to the
+37 chairman chair of the county board of elections on the day of the county canvass.
+38 (e) Hearing Procedure. – All challenges filed under this section shall be heard by the
+39 county board of elections on the day set for the canvass of the returns. All members of the board
+40 shall attend the canvass and all members shall be present for the hearing of challenges to absentee
+41 ballots.
+42 Before the board hears a challenge to an absentee ballot, the chairman chair shall (i) mark the
+43 word "challenged" after the voter's name in the register of absentee ballot applications and ballots
+44 issued and in the pollbook of absentee voters.voters and (ii) provide written notice to the
+45 challenged voter that includes the basis for the challenge, the required response steps, and
+46 deadlines for resolution.
+47 The After meeting the notice and response deadlines required by this subsection, when the
+48 board is ready to proceed with a hearing on the challenge, the board then shall hear the
+49 challenger's reasons for the challenge, and it shall make its decision without opening the
+50 container-return envelope or removing the ballots from it.
+Page 10 DRH10694-LUe-177C
+
+General Assembly Of North Carolina Session 2025
+1 The board shall have authority to administer the necessary oaths or affirmations to all
+2 witnesses brought before it to testify to the qualifications of the voter challenged or to the validity
+3 or invalidity of the ballot.
+4 If the challenge is sustained, the chairman chair shall mark the word "sustained" after the
+5 word "challenged" following the voter's name in the register of absentee ballot applications and
+6 ballots issued and in the pollbook of absentee voters; the voter's ballots shall not be counted; and
+7 the container-return envelope shall not be opened but shall be marked "Challenge Sustained." All
+8 envelopes so marked shall be preserved intact by the chairman chair for a period of six months
+9 from canvass day or longer if any contest then is pending concerning the validity of any absentee
+10 ballot.
+11 If the challenge is overruled, the absentee ballots shall be removed from the container-return
+12 envelopes and counted by the board of elections, and the board shall adjust the appropriate
+13 abstracts of returns to show that the ballots have been counted and tallied in the manner provided
+14 for unchallenged absentee ballots.
+15 If the challenge was delivered to the board by the chief judge of the precinct and was
+16 sustained, the board shall reopen the appropriate ballot boxes, remove such ballots, determine
+17 how those ballots were voted, deduct such ballots from the returns, and adjust the appropriate
+18 abstracts of returns.
+19 Any voter whose ballots have been challenged may, either personally or through an
+20 authorized representative, appear before the board at the hearing on the challenge and present
+21 evidence as to the validity of the ballot."
+22
+23 PART XI. ADDITIONAL PROTECTIONS FOR PERSONALLY IDENTIFIABLE
+24 INFORMATION
+25 SECTION 11. G.S. 163-82.10(a1) reads as rewritten:
+26 "(a1) Personal Identifying Information. – Full or partial social security numbers; dates of
+27 birth; the identity of the public agency at which the voter registered under G.S. 163-82.20; any
+28 email address submitted under this Article, Article 20, or Article 21A of this Chapter;
+29 photographs for voter photo identification under G.S. 163-82.8A; photocopies of identification
+30 for voting; and drivers license numbers, whether held by the State Board or a county board of
+31 elections, are confidential and shall not be considered public records and subject to disclosure to
+32 the general public under Chapter 132 of the General Statutes. Cumulative data based on those
+33 items of information may be publicly disclosed as long as information about any individual
+34 cannot be discerned from the disclosed data. The State Board or a county board of elections shall
+35 not disclose any information described under this subsection pursuant to a request by the federal
+36 government or a federal agency or federal department without a court order or an arrest warrant
+37 signed by a judge. Disclosure of information in violation of this subsection shall not give rise to
+38 a civil cause of action. This limitation of liability does not apply to the disclosure of information
+39 in violation of this subsection as a result of gross negligence, wanton conduct, or intentional
+40 wrongdoing that would otherwise be actionable."
+41
+42 PART XII. CLARIFICATION/CANVASSING REQUIREMENTS
+43 SECTION 12. G.S. 163-182.5 reads as rewritten:
+44 "§ 163-182.5. Canvassing votes.
+45 (a) The Canvass. – As used in this Article, the term "canvass" means the entire process
+46 of determining that the votes have been counted and tabulated correctly, culminating in the
+47 authentication of the official election results. The board of elections conducting a canvass has
+48 authority to send for papers and persons and to examine them and pass upon the legality of
+49 disputed ballots.
+50 (b) Canvassing by County Board of Elections. – The county board of elections shall meet
+51 at 11:00 A.M. on the tenth day after every election to complete the canvass of votes cast and to
+DRH10694-LUe-177C Page 11
+
+General Assembly Of North Carolina Session 2025
+1 authenticate the count in every ballot item in the county by determining that the votes have been
+2 counted and tabulated correctly. If, despite due diligence by election officials, the initial counting
+3 of all the votes has not been completed by that time, the county board may hold the canvass
+4 meeting a reasonable time thereafter. The canvass meeting shall be at the county board of
+5 elections office, unless the county board, by unanimous vote of all its members, designates
+6 another site within the county. The county board shall examine the returns from precincts, from
+7 absentee official ballots, from the sample hand-to-eye paper ballot counts, and from provisional
+8 official ballots and shall conduct the canvass.
+9 (c) Canvassing by State Board of Elections. – After each general election, the State Board
+10 of Elections shall meet at 11:00 A.M. on the Tuesday three weeks after election day to complete
+11 the canvass of votes cast in all ballot items within the jurisdiction of the State Board of Elections
+12 and to authenticate the count in every ballot item in the county by determining that the votes have
+13 been counted and tabulated correctly. After each primary, the State Board shall fix the date of its
+14 canvass meeting. If, by the time of its scheduled canvass meeting, the State Board has not
+15 received the county canvasses, the State Board may adjourn for not more than 10 days to secure
+16 the missing abstracts. In obtaining them, the State Board is authorized to secure the originals or
+17 copies from the appropriate clerks of superior court or county boards of elections, at the expense
+18 of the counties.
+19 (d) Notwithstanding any provision of law to the contrary, throughout the canvassing
+20 period, a county board of elections or the State Board, as appropriate, may verify voter eligibility
+21 and count provisional ballots through its canvass meeting at 11:00 A.M. on the tenth day after
+22 the election. If a county board of elections identifies a deficiency, a voter who has voted a
+23 provisional ballot or an absentee ballot shall be allowed to correct such a deficiency through 5:00
+24 P.M. on the day before the tenth day after the election."
+25
+26 PART XIII. EFFECTIVE DATE
+27 SECTION 13. This act is effective when it becomes law and applies to elections
+28 held on or after that date.
+Page 12 DRH10694-LUe-177C
