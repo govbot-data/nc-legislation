@@ -1,0 +1,2713 @@
+Title: 
+Official Title: 
+Source: versions - SL 2026-59
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SESSION LAW 2026-59
+SENATE BILL 445
+AN ACT TO PROVIDE FURTHER REGULATORY RELIEF TO THE CITIZENS OF NORTH
+CAROLINA.
+The General Assembly of North Carolina enacts:
+PART I. BUSINESS AND ADMINISTRATIVE REFORMS
+DE NOVO REVIEW OF AGENCY RULES
+SECTION 1.(a) G.S. 150B-34 reads as rewritten:
+"§ 150B-34. Final decision or order.
+(a) In each contested case the administrative law judge shall make a final decision or
+order that contains findings of fact and conclusions of law. The administrative law judge shall
+decide the case based upon the preponderance of the evidence, giving due regard to evidence.
+The administrative law judge may be informed by the demonstrated knowledge and expertise of
+the agency with respect to facts and inferences within the specialized knowledge of the
+agency.agency but shall apply traditional de novo review to the interpretation of State rules and
+regulations.
+(b) Repealed by Session Laws 1991, c. 35, s. 6.
+(c) Repealed by Session Laws 2011-398, s. 18. For effective date and applicability, see
+editor's note.
+(d) Except for the exemptions contained in G.S. 150B-1, the provisions of this section
+regarding the decision of the administrative law judge shall apply only to agencies subject to
+Article 3 of this Chapter, notwithstanding any other provisions to the contrary relating to
+recommended decisions by administrative law judges.
+(e) An administrative law judge may grant judgment on the pleadings, pursuant to a
+motion made in accordance with G.S. 1A-1, Rule 12(c), or summary judgment, pursuant to a
+motion made in accordance with G.S. 1A-1, Rule 56, that disposes of all issues in the contested
+case. Notwithstanding subsection (a) of this section, a decision granting a motion for judgment
+on the pleadings or summary judgment need not include findings of fact or conclusions of law,
+except as determined by the administrative law judge to be required or allowed by G.S. 1A-1,
+Rule 12(c), or Rule 56."
+SECTION 1.(b) G.S. 150B-51 reads as rewritten:
+"§ 150B-51. Scope and standard of review.
+(a), (a1) Repealed by Sessions Laws, 2011-398, s. 27. For effective date and applicability,
+see editor's note.
+(b) The court reviewing a final decision may affirm the decision or remand the case for
+further proceedings. It may also reverse or modify the decision if the substantial rights of the
+petitioners may have been prejudiced because the findings, inferences, conclusions, or decisions
+are:
+(1) In violation of constitutional provisions;
+(2) In excess of the statutory authority or jurisdiction of the agency or
+administrative law judge;
+*S445-v-7*
+
+(3) Made upon unlawful procedure;
+(4) Affected by other error of law;
+(5) Unsupported by substantial evidence admissible under G.S. 150B-29(a),
+150B-30, or 150B-31 in view of the entire record as submitted; or
+(6) Arbitrary, capricious, or an abuse of discretion.
+(c) In reviewing a final decision in a contested case, the court shall determine whether
+the petitioner is entitled to the relief sought in the petition based upon its review of the final
+decision and the official record. With regard to asserted errors pursuant to subdivisions (1)
+through (4) of subsection (b) of this section, the court shall conduct its review of the final decision
+using the de novo standard of review. With regard to asserted errors pursuant to subdivisions (5)
+and (6) of subsection (b) of this section, the court shall conduct its review of the final decision
+using the whole record standard of review. In conducting its review of the final decision, the
+court may be informed by the agency's interpretation of its own rules or regulations but shall
+apply traditional de novo review to the interpretation of State rules and regulations.
+(d) In reviewing a final decision allowing judgment on the pleadings or summary
+judgment, the court may enter any order allowed by G.S. 1A-1, Rule 12(c) or Rule 56. If the
+order of the court does not fully adjudicate the case, the court shall remand the case to the
+administrative law judge for such further proceedings as are just."
+SECTION 1.(c) This section is effective when it becomes law and applies to actions
+pending or filed on or after that date.
+ORDINANCE EXEMPTION FOR CERTAIN NONCONFORMING ON-PREMISES
+SIGNS
+SECTION 2. G.S. 160D-912.1 is amended by adding a new subsection to read:
+"(e) This section shall not apply to an ordinance regulating on-premises advertising signs
+that was lawfully adopted by a local government, and (i) included an amortization period of 10
+or more years during which a nonconforming sign was allowed to remain in place before it was
+required to be removed or brought into compliance with the current sign ordinance and (ii) the
+date of compliance under the amortization period expired on or prior to July 1, 2024."
+REMOVE DEADLINE FOR EDUCATOR PREPARATION PROGRAM RULE
+ADOPTION
+SECTION 3.(a) All of the following provisions are repealed:
+(1) Section 7(b) of S.L. 2017-189.
+(2) Section 7(f) of S.L. 2017-189.
+(3) Section 4 of S.L. 2019-149.
+SECTION 3.(b) By October 15, 2026, the State Board of Education, in consultation
+with the Department of Public Instruction, The University of North Carolina System Office, the
+Community Colleges System Office, and the North Carolina Independent Colleges and
+Universities, shall report to the Joint Legislative Education Oversight Committee on
+recommendations for an educator preparation program accountability model, including any
+necessary changes to State law that would be required to implement the accountability model.
+FURTHER PROHIBIT PROPERTY RESTRICTIONS ON FLYING THE AMERICAN
+AND NORTH CAROLINA FLAGS
+SECTION 4.(a) G.S. 47C-3-121 reads as rewritten:
+"§ 47C-3-121. American and State flags and political sign displays.
+Notwithstanding any provision in any declaration of covenants, no restriction on the use of
+land shall be construed to:
+(1) Regulate or prohibit the display of the flag of the United States or North
+Carolina, of a size no greater than four feet by six feet, which is displayed in
+Page 2 Session Law 2026-59 Senate Bill 445
+
+accordance with or in a manner consistent with the patriotic customs set forth
+in 4 U.S.C. §§ 5-10, as amended, governing the display and use of the flag of
+the United States unless:States.
+a. For restrictions registered prior to October 1, 2005, the restriction
+specifically uses the following terms:
+1. Flag of the United States of America;
+2. American flag;
+3. United States flag; or
+4. North Carolina flag.
+b. For restrictions registered on or after October 1, 2005, the restriction
+shall be written on the first page of the instrument or conveyance in
+print that is in boldface type, capital letters, and no smaller than the
+largest print used elsewhere in the instrument or conveyance. The
+restriction shall be construed to regulate or prohibit the display of the
+United States or North Carolina flag only if the restriction specifically
+states: "THIS DOCUMENT REGULATES OR PROHIBITS THE
+DISPLAY OF THE FLAG OF THE UNITED STATES OF
+AMERICA OR STATE OF NORTH CAROLINA".
+This subdivision shall apply to owners of property who display the flag of the
+United States or North Carolina on property owned exclusively by them and
+does not apply to common areas, easements, rights-of-way, or other areas
+owned by others.
+…."
+SECTION 4.(b) G.S. 47F-3-121 reads as rewritten:
+"§ 47F-3-121. American and State flags and political sign displays.
+Notwithstanding any provision in any declaration of covenants, no restriction on the use of
+land shall be construed to:
+(1) Regulate or prohibit the display of the flag of the United States or North
+Carolina, of a size no greater than four feet by six feet, which is displayed in
+accordance with or in a manner consistent with the patriotic customs set forth
+in 4 U.S.C. §§ 5-10, as amended, governing the display and use of the flag of
+the United States unless:States.
+a. For restrictions registered prior to October 1, 2005, the restriction
+specifically uses the following terms:
+1. Flag of the United States of America;
+2. American flag;
+3. United States flag; or
+4. North Carolina flag.
+b. For restrictions registered on or after October 1, 2005, the restriction
+shall be written on the first page of the instrument or conveyance in
+print that is in boldface type, capital letters, and no smaller than the
+largest print used elsewhere in the instrument or conveyance. The
+restriction shall be construed to regulate or prohibit the display of the
+United States or North Carolina flag only if the restriction specifically
+states: "THIS DOCUMENT REGULATES OR PROHIBITS THE
+DISPLAY OF THE FLAG OF THE UNITED STATES OF
+AMERICA OR STATE OF NORTH CAROLINA".
+This subdivision shall apply to owners of property who display the flag of the
+United States or North Carolina on property owned exclusively by them and
+does not apply to common areas, easements, rights-of-way, or other areas
+owned by others.
+Senate Bill 445 Session Law 2026-59 Page 3
+
+…."
+SECTION 4.(c) This section is effective when it becomes law.
+CONFORM DEFINITION OF "MANUFACTURED HOME" WITH FEDERAL
+DEFINITION
+SECTION 5.(a) G.S. 25-9-102(53) reads as rewritten:
+"(53) Manufactured home. – A structure, transportable in one or more sections that
+satisfies all of the following requirements:
+a. In the traveling mode, is eight body feet or more in width or 40 body
+feet or more in length, or, when erected on site, is 320 or more square
+feet.
+b. Is built on a permanent chassis and designed to be used as a dwelling
+with or without a permanent foundation when connected to the
+required utilities.
+c. Includes plumbing, heating, air-conditioning, and electrical systems.
+The term includes any structure that meets all of the requirements of this
+subdivision except the size requirements and with respect to which the
+manufacturer voluntarily files a certification required by the United States
+Secretary of Housing and Urban Development and complies with the
+standards established under Title 42 of the United States Code.As defined in
+42 U.S.C. § 5402(6), as amended."
+SECTION 5.(b) G.S. 143-143.9(6) reads as rewritten:
+"(6) Manufactured home. – A structure, transportable in one or more sections,
+which, in the traveling mode, is eight feet or more in width or is 40 feet or
+more in length, or when erected on site, is 320 or more square feet, and which
+is built on a permanent chassis and designed to be used as a dwelling with or
+without a permanent foundation when connected to the required utilities, and
+includes the plumbing, heating, air conditioning and electrical systems
+contained therein.As defined in 42 U.S.C. § 5402(6), as amended."
+SECTION 5.(c) G.S. 143-145(7) reads as rewritten:
+"(7) Manufactured home. – A structure, transportable in one or more sections,
+which in the traveling mode is eight body feet or more in width, or 40 body
+feet or more in length, or, when erected on site, is 320 or more square feet;
+and which is built on a permanent chassis and designed to be used as a
+dwelling, with or without permanent foundation when connected to the
+required utilities, including the plumbing, heating, air conditioning and
+electrical systems contained therein. "Manufactured home" includes any
+structure that meets all of the requirements of this subsection except the size
+requirements and with respect to which the manufacturer voluntarily files a
+certification required by the Secretary of HUD and complies with the
+standards established under the Act. For manufactured homes built on or after
+June 15, 1976, as defined in 42 U.S.C. § 5402(6), as amended. For
+manufactured homes built before June 15, 1976, "manufactured home" means
+a portable manufactured housing unit designed for transportation on its own
+chassis and placement on a temporary or semipermanent foundation having a
+measurement of over 32 feet in length and over eight feet in width.
+"Manufactured home" also means a double-wide manufactured home, which
+is two or more portable manufactured housing units designed for
+transportation on their own chassis that connect on site for placement on a
+temporary or semipermanent foundation having a measurement of over 32 feet
+in length and over eight feet in width."
+Page 4 Session Law 2026-59 Senate Bill 445
+
+SECTION 5.(d) G.S. 20-58.4A(e) reads as rewritten:
+"(e) Notwithstanding any requirement in this Chapter that a lien on a motor vehicle shall
+be noted on the face of the certificate of title, if there are one or more liens or encumbrances on
+the motor vehicle or mobile manufactured home, the Division may electronically transmit the
+lien to the first lienholder and notify the first lienholder of any additional liens. Subsequent lien
+satisfactions may be electronically transmitted to the Division and shall include the name and
+address of the person satisfying the lien."
+SECTION 5.(e) G.S. 24-1.1E(a)(4) reads as rewritten:
+"(4) A "high-cost home loan" means a loan other than a reverse mortgage
+transaction in which:
+a. The principal amount of the loan (or, in the case of an open-end credit
+plan, the borrower's initial maximum credit limit) does not exceed the
+lesser of (i) the conforming loan size limit for a single-family dwelling
+as established from time to time by Fannie Mae, or (ii) three hundred
+thousand dollars ($300,000);
+b. The borrower is a natural person;
+c. The debt is incurred by the borrower primarily for personal, family, or
+household purposes;
+d. The loan is secured by either (i) a security interest in a manufactured
+home (as defined in G.S. 143-147(7) ) G.S. 143-145(7)) which is or
+will be occupied by the borrower as the borrower's principal dwelling,
+or (ii) a mortgage or deed of trust on real estate upon which there is
+located or there is to be located a structure or structures designed
+principally for occupancy of from one to four families which is or will
+be occupied by the borrower as the borrower's principal dwelling; and
+e. The terms of the loan exceed one or more of the thresholds as defined
+in subdivision (6) of this section."
+SECTION 5.(f) G.S. 47-20.6 is amended by adding a new subsection to read:
+"(e) For purposes of this section, the term "manufactured home" is as defined in 42 U.S.C.
+§ 5402(6), as amended."
+SECTION 5.(g) G.S. 41-56(d) reads as rewritten:
+"(d) When spouses become co-owners of a mobile home, in the absence of a contrary
+intention appearing in the instrument of title, the spouses become tenants by the entirety with all
+the incidents of an estate by the entirety in real property, including the right of survivorship in
+the case of death of either spouse. For the purposes of this subsection, it is immaterial whether
+the property at any particular time is classified for any purpose as either real or personal. Nothing
+in this subsection is deemed to limit or prohibit any other type of ownership otherwise authorized
+by law. For the purposes of this subsection, the term "mobile home" means a any of the following:
+(1) A portable manufactured housing unit designed for transportation on its own
+chassis and placement on a temporary or semipermanent foundation having a
+measurement of over 32 feet in length and over eight feet in width.
+(2) As used in this subsection, the term "mobile home" also means a A
+double-wide mobile home consisting of two or more portable manufactured
+housing units that are designed for transportation on their own chassis and are
+connected on site for placement on a temporary or semipermanent foundation
+having a measurement of over 32 feet in length and over eight feet in width.
+(3) A "manufactured home" as defined in 42 U.S.C. § 5402(6), as amended."
+SECTION 5.(h) G.S. 47H-1(5) reads as rewritten:
+"(5) Property. – Either (i) real estate located in this State, upon which there is
+located or there is to be located a structure or structures designed principally
+for occupancy of from one to four families that is or will be occupied by the
+Senate Bill 445 Session Law 2026-59 Page 5
+
+purchaser as the purchaser's principal dwelling, or (ii) a manufactured home,
+as that term is defined in G.S. 143-149.9, G.S. 143-143.9(6), that is located in
+this State and is or will be occupied by a purchaser as the purchaser's principal
+dwelling, if the purchase price is five thousand dollars ($5,000) or more."
+SECTION 5.(i) G.S. 58-36-90(a)(6) reads as rewritten:
+"(6) "Residential property" means real property with not more than four housing
+units located in this State, the contents thereof and valuable interest therein,
+and insurance coverage written in connection with the sale of that property. It
+also includes mobile homes, manufactured homes as defined in
+G.S. 143-143.9(6), modular homes, townhomes, condominiums, and
+insurance on contents of apartments and rental property used for residential
+purposes."
+SECTION 5.(j) This section becomes effective October 1, 2026.
+TEMPORARY EVENT EXEMPTION FOR ELECTRIC WORK
+SECTION 6.(a) G.S. 87-43.1 is amended by adding a new subdivision to read:
+"(12) To any person when that person is temporarily attaching listed single 3-prong
+(NEMA 5-15R or 5-20R) receptacles or power taps to existing temporary
+luminaires or lighting fixtures and plugging those luminaires or fixtures into
+existing permanent receptacles, only when all of the following apply:
+a. The work is performed solely for a permitted international wholesale
+trade show in an exhibition hall, mercantile, or assembly occupancy
+space in this State.
+b. A valid electrical permit is obtained from the local authority having
+jurisdiction prior to the work.
+c. The work is inspected and approved by the local electrical inspector
+before the international wholesale trade show opens."
+SECTION 6.(b) This section is effective when it becomes law and applies to
+permitted events occurring on or after that date.
+EXEMPT CERTAIN INDIVIDUALS FROM BARBER AND COSMETIC ARTS
+LICENSING
+SECTION 7.(a) G.S. 86B-32 reads as rewritten:
+"§ 86B-32. Persons exempt from the provisions of this Article.
+The following persons are exempt from the provisions of this Article while engaged in the
+proper discharge of their duties:
+(1) Persons authorized under the laws of the State to practice medicine and
+surgery, and those working under their supervision.
+(2) Commissioned medical or surgical officers of the United States Army or other
+components of the Armed Forces of the United States, and those working
+under their supervision.
+(3) Registered nurses and licensed practical nurses and those working under their
+supervision.
+(4) Licensed embalmers and funeral directors and those working under their
+supervision.
+(5) Persons who are working in licensed cosmetic shops or beauty schools and
+are licensed by the State Board of Cosmetic Art Examiners pursuant to
+Chapter 88B of the General Statutes.
+(6) Persons who are working in barbershops and are licensed by the State Board
+of Cosmetic Art Examiners pursuant to Chapter 88B of the General Statutes,
+provided that those persons shall comply with G.S. 86B-31.
+Page 6 Session Law 2026-59 Senate Bill 445
+
+(7) Inmates under the jurisdiction of the North Carolina Department of Adult
+Correction.
+(8) Persons who are employed by barbershops and whose duties are expressly
+confined to the shampooing or blow drying of hair, provided that the person
+shall comply with G.S. 86B-31."
+SECTION 7.(b) G.S. 88B-25 reads as rewritten:
+"§ 88B-25. Exemptions.
+The following persons are exempt from the provisions of this Chapter while engaged in the
+proper discharge of their professional duties:
+(1) Undertakers and funeral establishments licensed under G.S. 90-210.25.
+(2) Persons authorized to practice medicine or surgery under Chapter 90 of the
+General Statutes.
+(3) Nurses licensed under Chapter 90 of the General Statutes.
+(4) Commissioned medical or surgical officers of the United States Army, Air
+Force, Navy, Marine Corps, Space Force, or Coast Guard.
+(5) A person employed in a cosmetic art shop whose duties are expressly confined
+to the shampooing or blow drying of hair, provided that the person shall
+comply with rules adopted by the Board relating to sanitary management of
+cosmetic art shops.G.S. 86B-31."
+CLARIFY EXEMPTION FOR STRETCHING SERVICES AT MASSAGE AND
+BODYWORK THERAPY ESTABLISHMENTS
+SECTION 8.(a) G.S. 90-622 reads as rewritten:
+"§ 90-622. Definitions.
+The following definitions apply in this Article:
+…
+(1a) Active stretching. – The provision by a practitioner of resistance or guidance
+while a client engages the client's own muscles to move a part of the client's
+body through a range of motion.
+(1b) Active-assisted stretching. – A combination of passive stretching and active
+stretching.
+(1a)(1c) Board. – The North Carolina Board of Massage and Bodywork Therapy.
+…
+(4b) Passive stretching. – The movement by a practitioner of a part of a client's
+body through a range of motion without muscular effort by the client.
+…
+(7) Stretching services. – The provision to a client of passive stretching, active
+stretching, or active-assisted stretching. Stretching services do not include any
+of the following:
+a. Effleurage, petrissage, or tapotement.
+b. Deep tissue manipulation.
+c. Myofascial release.
+d. Any other system of activity applied to the soft tissues of the human
+body within the meaning of subdivision (3) of this section."
+SECTION 8.(b) G.S. 90-624 is amended by adding a new subdivision to read:
+"(9) The provision of stretching services by a person who provides only stretching
+services, as provided in G.S. 90-624.1."
+SECTION 8.(c) Article 36 of Chapter 90 of the General Statutes is amended by
+adding a new section to read:
+"§ 90-624.1. Stretching services.
+Senate Bill 445 Session Law 2026-59 Page 7
+
+(a) Notwithstanding G.S. 90-622(3)a., a person who provides only stretching services is
+not required to be licensed under this Article with respect to the provision of those stretching
+services.
+(b) A massage and bodywork therapy establishment may employ or contract with one or
+more persons to provide stretching services. This subsection applies regardless of whether a
+person provides stretching services as an employee of the establishment or as an independent
+contractor.
+(c) The license of a massage and bodywork therapy establishment does not extend any
+authorization to practice massage and bodywork therapy to a person who provides only stretching
+services at the establishment, and the person is not authorized to practice massage and bodywork
+therapy pursuant to the establishment's license.
+(d) Nothing in this section shall be construed to do any of the following:
+(1) Authorize a person who is not licensed under this Article to practice massage
+and bodywork therapy.
+(2) Alter, limit, or expand the definition of massage and bodywork therapy in
+G.S. 90-622(3) or the practice of massage and bodywork therapy under this
+Article.
+(3) Alter or limit the ability of a person not licensed under this Article to provide
+stretching services outside of a licensed massage and bodywork therapy
+establishment.
+(4) Affect, limit, or impair any civil remedy otherwise available to a client under
+any other provision of law."
+SECTION 8.(d) G.S. 90-632.16 reads as rewritten:
+"§ 90-632.16. Unlicensed massage and bodywork therapy prohibited at massage and
+bodywork therapy establishments.
+A massage and bodywork therapy establishment shall not employ or contract with any person
+in this State to provide massage and bodywork therapy unless that person holds a current license
+to practice massage and bodywork therapy issued pursuant to this Article. This section does not
+prohibit a massage and bodywork therapy establishment from employing or contracting with a
+person to provide only stretching services as provided in G.S. 90-624.1, and for purposes of this
+section, a person who provides only stretching services is not a person employed or contracted
+to provide massage and bodywork therapy."
+LIMIT LOCAL GLAZING AND TRANSPARENCY REQUIREMENTS
+SECTION 9.(a) Article 7 of Chapter 160D of the General Statutes is amended by
+adding a new section to read:
+"§ 160D-702.1. Glazing and transparency limitations.
+(a) Definitions. – The following definitions apply in this section:
+(1) Glazing requirement. – Any zoning regulation, development regulation,
+design standard, or permitting requirement for windows, doors, storefront
+glass, glass block, transparent or translucent panels, faux windows, or similar
+facade treatments intended to satisfy a transparency or facade-opening
+requirement.
+(2) Ground-floor facade area. – The exterior wall area of a building measured
+from grade to 10 feet above grade, excluding loading docks, service bays,
+mechanical areas, emergency exits, vehicular doors, and other functional areas
+that are not reasonably treated as storefront facade.
+(b) General Limitation. – No local government may adopt or enforce a glazing
+requirement that requires glazing, transparency, windows, doors, storefront glass, faux windows,
+or other transparent or translucent facade materials to exceed thirty-five percent (35%) of the
+ground-floor facade area of a commercial or mixed-use building.
+Page 8 Session Law 2026-59 Senate Bill 445
+
+(c) Limitation for Non-Storefront Uses. – For portions of a commercial or mixed-use
+building used primarily for non-storefront purposes, no local government may adopt or enforce
+a glazing requirement that requires glazing or transparency to exceed twenty percent (20%) of
+the ground-floor facade area. Non-storefront uses include all of the following:
+(1) Religious assembly or sanctuary space.
+(2) Medical or dental examination, treatment, or healthcare services.
+(3) Educational instruction or counseling.
+(4) Civic or nonprofit services.
+(5) Funeral services.
+(6) Lodge or meeting hall use.
+(7) Storage or back-of-house operations.
+(8) Other institutional, assembly, or service uses not primarily operated as walk-in
+retail, restaurant, bar, entertainment, or commercial storefront uses.
+(d) Voluntary Glazing. – The limitations in subsections (b) and (c) of this section apply
+only to glazing or transparency required by a local government. Nothing in this section limits
+glazing voluntarily provided by an owner, developer, architect, or tenant, except that a local
+government may not condition the approval of a development permit, special use permit,
+conditional use permit, variance, or other development approval upon the voluntary provision of
+glazing in excess of the limits in this section.
+(e) Exceptions. – This section does not apply to or affect any of the following:
+(1) The North Carolina Building Code, including emergency egress, accessibility,
+or energy efficiency requirements.
+(2) The North Carolina Fire Code.
+(3) Floodplain or floodproofing requirements.
+(4) Requirements imposed by State or federal law.
+(5) Property located within a local historic district established under
+G.S. 160D-944 or an individually designated local historic landmark
+established under Article 9 of this Chapter.
+(6) Property subject to review by a local historic preservation commission for a
+certificate of appropriateness.
+(7) Property subject to a federal or State historic preservation review requirement,
+including a requirement related to the use of federal or State historic tax
+credits, grants, or funding.
+(8) State or federal requirements for airport safety, military installation safety, or
+other public safety requirements."
+SECTION 9.(b) This section becomes effective October 1, 2026, and any
+development regulation that is inconsistent with G.S. 160D-702.1, as enacted by this section, on
+or after that date is void and unenforceable to the extent of the inconsistency. This section does
+not affect the validity of a development approval issued, or an application for a development
+approval submitted, before the effective date of this section.
+ATV RIDER RESTRICTION MODIFICATION
+SECTION 10.(a) G.S. 20-171.15 reads as rewritten:
+"§ 20-171.15. Age or size restrictions.
+(a) It is unlawful for any parent or legal guardian of a person less than eight years of age
+to knowingly permit that person to operate an all-terrain vehicle.
+(b) Repealed by Session Laws 2015-286, s. 3.13(a), effective October 22, 2015.
+(c) It Except as provided in subsection (c1) of this section, it is unlawful for any parent
+or legal guardian of a person less than 16 years of age to knowingly permit that person to operate
+an all-terrain vehicle in violation of the Age Restriction Warning Label affixed by the
+Senate Bill 445 Session Law 2026-59 Page 9
+
+manufacturer as required by the applicable American National Standards Institute/Specialty
+Vehicle Institute of America (ANSI/SVIA) design standard.
+(c1) Safety Course Rider-Fit Exception. – Subsection (c) of this section does not apply to
+a person less than 16 years of age operating an all-terrain vehicle if all of the following
+requirements are met:
+(1) The person is at least 8 years of age.
+(2) The person is participating in, or has successfully completed, an all-terrain
+vehicle safety course sponsored or approved by the All-Terrain Vehicle Safety
+Institute or another all-terrain vehicle safety course approved by the
+Commissioner of Insurance pursuant to G.S. 20-171.20.
+(3) A course instructor certified or approved to teach a course described in
+subdivision (2) of this subsection determines in writing that, because of the
+person's height, weight, or physical size, the person cannot safely operate an
+all-terrain vehicle that complies with the Age Restriction Warning Label and
+that the all-terrain vehicle to be operated is appropriate for the person.
+(4) The person satisfies all of the following rider-fit requirements with respect to
+the all-terrain vehicle being operated:
+a. Brake reach. – With hands placed in the normal operating position and
+fingers straight out, the first joint from the tip of the middle finger
+extends beyond the brake lever and clutch.
+b. Leg length. – While sitting and with their feet on the pegs, the rider's
+knee is bent at least 45 degrees.
+c. Grip reach. – While sitting upright on the ATV with hands on the
+handlebars and not leaning forward, the rider's upper arm and the
+forearm form a distinct angle.
+d. Handlebar control. – The rider must be able to turn the handlebars from
+lock to lock while maintaining grip on the handlebars and maintaining
+the throttle and brake control.
+(5) The person operates the all-terrain vehicle under the direct supervision of the
+safety course instructor while participating in the course or, after successful
+completion of the course, under the continuous visual supervision of a person
+18 years or older, pursuant to subsection (d) of this section.
+(6) The person complies with all other requirements of this Part, including helmet
+and eye-protection requirements.
+…."
+SECTION 10.(b) G.S. 20-171.20 reads as rewritten:
+"§ 20-171.20. Safety training and certificate.
+Effective October 1, 2006, every all-terrain vehicle operator born on or after January 1, 1990,
+shall possess a safety certificate indicating successful completion of an all-terrain vehicle safety
+course sponsored or approved by the All-Terrain Vehicle Safety Institute or by another all-terrain
+vehicle safety course approved by the Commissioner of Insurance. The North Carolina
+Community College System is authorized to provide all-terrain vehicle safety training, approved
+by the Commissioner, to persons less than 18 years of age. An all-terrain vehicle safety certificate
+issued to a person less than 16 years of age may include a written rider-fit determination by the
+course instructor identifying the type or size of an all-terrain vehicle the instructor has determined
+is appropriate for the person pursuant to G.S. 20-171.15(c1)."
+ALLOW PRIVATE SWIM LESSONS IN PRIVATE POOLS
+SECTION 11.(a) G.S. 130A-280 reads as rewritten:
+"§ 130A-280. Scope and definitions.
+Page 10 Session Law 2026-59 Senate Bill 445
+
+(a) This Part provides for the regulation of public swimming pools in the State as they
+may affect the public health and safety. This Part does not apply to any of the following:
+(1) A private pool serving a single family dwelling and used only by the residents
+of the dwelling and their guests, dwelling, their guests, or a person providing
+swim instruction, regardless of whether their guests or the swim instructor
+gain use of the private pool through a sharing economy platform or pay a fee
+for its use. In all cases in which a fee is exchanged for access to a private pool
+serving a single family dwelling that is used only by the residents of the
+dwelling and their guests, dwelling, their guests, or a person providing swim
+instruction, the private pool shall be maintained in good and safe working
+order.
+(2) Repealed by Session Laws 2025-94, s. 17, effective October 6, 2025.
+(3) Therapeutic pools used in physical therapy programs operated by medical
+facilities licensed by the Department or operated by a licensed physical
+therapist, nor to therapeutic chambers drained, cleaned, and refilled after each
+individual use.
+…."
+SECTION 11.(b) G.S. 130A-39(b) reads as rewritten:
+"(b) A local board of health may adopt a more stringent rule in an area regulated by the
+Commission for Public Health or the Environmental Management Commission where, in the
+opinion of the local board of health, a more stringent rule is required to protect the public health;
+otherwise, the rules of the Commission for Public Health or the rules of the Environmental
+Management Commission shall prevail over local board of health rules. However, a local board
+of health may not adopt a rule concerning a private pool serving a single family dwelling
+otherwise exempt from regulation pursuant to G.S. 130A-280 or a G.S. 130A-280, including
+rules concerning the recreational or instructional use of the exempt private pool. A local board
+of health may not adopt a rule concerning the grading, operating, and permitting of food and
+lodging facilities as listed in Part 6 of Article 8 of this Chapter and as defined in
+G.S. 130A-247(1), and a G.S. 130A-247(1). A local board of health may adopt rules concerning
+wastewater collection, treatment and disposal systems which are not designed to discharge
+effluent to the land surface or surface waters only in accordance with G.S. 130A-335(c)."
+EXTEND ANNUAL REPORTING REQUIREMENTS FOR BUSINESS ENTITIES
+OWNED BY DEPLOYED MEMBERS OF THE ARMED FORCES
+SECTION 12.(a) G.S. 55-16-22(a) reads as rewritten:
+"§ 55-16-22. Annual report.
+(a) Requirement. – Except as provided in G.S. 55-16-22.3 and in subsections (a1) and
+(a2) of this section, each domestic corporation and each foreign corporation authorized to transact
+business in this State shall deliver an annual report directly to the Secretary of State in electronic
+form or in paper form as prescribed by the Secretary of State under this section."
+SECTION 12.(b) Article 16 of Chapter 55 of the General Statutes is amended by
+adding a new section to read:
+"§ 55-16-22.3. Exemptions for corporations owned by deployed members of the Armed
+Forces.
+(a) Definitions. – As used in this section, the following terms have the following
+meanings:
+(1) Armed Forces. – The United States Air Force, Army, Coast Guard, Marine
+Corps, Navy, or Space Force, or any reserve component of the foregoing.
+(2) Deployed member. – A member of the Armed Forces who is removed from
+his or her county of residence pursuant to an official order for a deployment
+Senate Bill 445 Session Law 2026-59 Page 11
+
+period that ends on or after the ninetieth day preceding the due date of the
+annual report required by G.S. 55-16-22.
+(b) Notwithstanding G.S. 55-16-22, an annual report is deemed timely filed if it is filed
+by a domestic or foreign corporation (i) in which more than fifty percent (50%) of the ownership
+interest is owned by one or more deployed members and (ii) within 90 days of the end of the
+deployment period. The following provisions apply:
+(1) Prior to the start of the deployment, the corporation shall file electronically
+with the Secretary of State a sworn affidavit of deployment executed by the
+deployed member that includes the following information:
+a. The full name of the deployed member.
+b. The name of the corporation and the state under whose law it is
+incorporated.
+c. The percentage ownership interest in the corporation currently held by
+the deployed member.
+d. The expected start and end dates of the deployment.
+e. A statement either certifying that the information contained in the most
+recently filed annual report has not changed or setting forth the
+updated information required by G.S. 55-16-22(a3)(2) through (5).
+(2) In the event the deployment is extended beyond the date stated in the affidavit
+of deployment, the corporation shall file electronically with the Secretary of
+State, within 180 days of the end date stated in the affidavit of deployment
+filed with the Secretary of State pursuant to subdivision (1) of this subsection,
+a sworn affidavit of extended deployment by an authorized representative of
+the corporation that includes the following information:
+a. The title or position in the corporation held by the affiant.
+b. The full name of the deployed member.
+c. The name of the corporation and the state under whose law it is
+incorporated.
+d. The percentage ownership interest in the corporation currently held by
+the deployed member.
+e. The expected end date of the extended deployment.
+f. A statement either certifying that the information contained in the most
+recently filed annual report has not changed or setting forth the
+updated information required by G.S. 55-16-22(a3)(2) through (5).
+(3) The due date of the corporation's next annual report is the ninetieth day
+following the end date stated in the affidavit of deployment filed pursuant to
+subdivision (1) of this subsection; provided, however, that if the deployment
+is extended, the due date of the corporation's annual report is the ninetieth day
+following the end date stated in the affidavit of extended deployment filed
+pursuant to subdivision (2) of this subsection.
+(4) The grounds for dissolution under G.S. 55-14-20 apply to corporations that
+are subject to this section only if the period of delinquency for the applicable
+ground is 180 days or more past the end date stated in the affidavit of
+deployment filed with the Secretary of State pursuant to subdivision (1) of this
+subsection.
+(c) Any fees required by G.S. 55-1-22 for documents filed pursuant to subsection (b) of
+this section are waived."
+SECTION 13.(a) G.S. 57D-2-24 reads as rewritten:
+"§ 57D-2-24. Annual report for Secretary of State.
+(a) Excluding professional limited liability companies governed by G.S. 57D-2-02,
+G.S. 57D-2-02 and except as provided in G.S. 57D-2-26, each LLC and each foreign LLC
+Page 12 Session Law 2026-59 Senate Bill 445
+
+authorized to transact business in this State must deliver to the Secretary of State for filing annual
+reports on a form prescribed by, and in the manner required by, the Secretary of State and as
+otherwise provided in subsection (b) of this section. Each annual report must specify the year for
+which the report applies and provide the information required by this subsection. The information
+must be current as of the date the limited liability company completes the report. If the
+information in the limited liability company's most recent annual report has not changed, the
+limited liability company may certify in its annual report that the information has not changed in
+lieu of restating the information.
+The following information must be included in each annual report:
+(1) The name of the limited liability company and, in the case of a foreign LLC,
+any different name that the foreign LLC is authorized under Article 3 of
+Chapter 55D of the General Statutes to use to transact business in this State,
+as provided in the foreign LLC's certificate of authority.
+(2) In the case of a foreign LLC, the name of the jurisdiction under whose law the
+foreign LLC is organized.
+(3) The street address, and the mailing address if different from the street address,
+of the limited liability company's registered office in the State, the county in
+which the registered office is located, the name of its registered agent at that
+office, and a statement of any change of the registered office or registered
+agent.
+(4) The address and telephone number of its principal office.
+(5) The names, titles, and business addresses of the limited liability company's
+principal company officials.
+(6) A brief description of the nature of its business.
+…."
+SECTION 13.(b) Article 2 of Chapter 57D of the General Statutes is amended by
+adding a new section to read:
+"§ 57D-2-26. Exemptions for LLCs owned by deployed members of the Armed Forces.
+(a) Definitions. – As used in this section, the following terms have the following
+meanings:
+(1) Armed Forces. – The United States Air Force, Army, Coast Guard, Marine
+Corps, Navy, or Space Force, or any reserve component of the foregoing.
+(2) Deployed member. – A member of the Armed Forces who is removed from
+his or her county of residence pursuant to an official order for a deployment
+period that ends on or after the ninetieth day preceding the due date of the
+annual report required by G.S. 57D-2-24.
+(b) Notwithstanding G.S. 57D-2-24, an annual report is deemed timely filed if it is filed
+by an LLC or foreign LLC (i) in which more than fifty percent (50%) of the ownership interest
+is owned by one or more deployed members and (ii) by April 15 of the year immediately
+following the end of the deployment period. The following provisions apply:
+(1) Prior to the start of the deployment, the LLC or foreign LLC shall file
+electronically with the Secretary of State a sworn affidavit of deployment
+executed by the deployed member that includes the following information:
+a. The full name of the deployed member.
+b. The name of the LLC or foreign LLC and, for a foreign LLC, any
+different name under which the foreign LLC is authorized to transact
+business in this State and the name of the jurisdiction under whose law
+the foreign LLC is organized.
+c. The percentage ownership interest in the LLC or foreign LLC
+currently held by the deployed member.
+d. The expected start and end dates of the deployment.
+Senate Bill 445 Session Law 2026-59 Page 13
+
+e. A statement either certifying that the information contained in the most
+recently filed annual report has not changed or setting forth the
+updated information required by G.S. 57D-2-24.
+(2) In the event the deployment is extended beyond the date stated in the affidavit
+of deployment, the LLC or foreign LLC shall file electronically with the
+Secretary of State, within 180 days of the end date stated in the affidavit of
+deployment filed with the Secretary of State pursuant to subdivision (1) of this
+subsection, a sworn affidavit of extended deployment by an authorized
+representative of the corporation that includes the following information:
+a. The title or position in the LLC or foreign LLC held by the affiant.
+b. The full name of the deployed member.
+c. The name of the LLC or foreign LLC and, for a foreign LLC, any
+different name under which the foreign LLC is authorized to transact
+business in this State and the name of the jurisdiction under whose law
+the foreign LLC is organized.
+d. The percentage ownership interest in the LLC or foreign LLC
+currently held by the deployed member.
+e. The expected end date of the extended deployment.
+f. A statement either certifying that the information contained in the most
+recently filed annual report has not changed or setting forth the
+updated information required by G.S. 57D-2-24.
+(3) The due date of the LLC's or foreign LLC's next annual report is the ninetieth
+day following the end date stated in the affidavit of deployment filed pursuant
+to subdivision (1) of this subsection; provided, however, that if the
+deployment is extended, the due date of the LLC's or foreign LLC's annual
+report is the ninetieth day following the end date stated in the affidavit of
+extended deployment filed pursuant to subdivision (2) of this subsection.
+(4) The grounds for dissolution under G.S. 57D-6-06 apply to LLCs and foreign
+LLCs that are subject to this section only if the period of delinquency for the
+applicable ground is 180 days or more past the end date stated in the affidavit
+of deployment filed with the Secretary of State pursuant to subdivision (1) of
+this subsection.
+(c) Any fees required by G.S. 57D-1-22 for documents filed pursuant to subsection (b)
+of this section are waived."
+SECTION 14.(a) G.S. 59-84.4 reads as rewritten:
+"§ 59-84.4. Annual report for Secretary of State.
+(a) Each Except as provided in G.S. 59-84.6, each registered limited liability partnership
+and each foreign limited liability partnership authorized to transact business in this State shall
+deliver to the Secretary of State for filing an annual report, in a form prescribed by the Secretary
+of State, that sets forth all of the following:
+(1) The name of the registered limited liability partnership or foreign limited
+liability partnership and the state or country under whose law it is formed.
+(2) The street address, and the mailing address if different from the street address,
+of the registered office, the county in which the registered office is located,
+and the name of its registered agent at that office in this State, and a statement
+of any change of the registered office or registered agent, or both.
+(3) The street address and telephone number of its principal office.
+(4) A brief description of the nature of its business.
+(5) The fiscal year end of the partnership.
+If the information contained in the most recently filed annual report has not changed, a
+certification to that effect may be made instead of setting forth the information required by
+Page 14 Session Law 2026-59 Senate Bill 445
+
+subdivisions (2) through (4) of this subsection. The Secretary of State shall make available the
+form required to file an annual report.
+…."
+SECTION 14.(b) Article 3B of Chapter 59 of the General Statutes is amended by
+adding a new section to read:
+"§ 59-84.6. Exemptions for limited liability partnerships owned by deployed members of
+the Armed Forces.
+(a) Definitions. – As used in this section, the following terms have the following
+meanings:
+(1) Armed Forces. – The United States Air Force, Army, Coast Guard, Marine
+Corps, Navy, or Space Force, or any reserve component of the foregoing.
+(2) Deployed member. – A member of the Armed Forces who is removed from
+his or her county of residence pursuant to an official order for a deployment
+period that ends on or after the ninetieth day preceding the due date of the
+annual report required by G.S. 59-84.4.
+(b) Notwithstanding G.S. 59-84.4, an annual report is deemed timely filed if it is filed by
+a registered or foreign limited liability partnership (i) in which more than fifty percent (50%) of
+the ownership interest is owned by one or more deployed members and (ii) within 90 days of the
+end of the deployment period. The following provisions apply:
+(1) Prior to the start of the deployment, the registered or foreign limited liability
+partnership shall file electronically with the Secretary of State a sworn
+affidavit of deployment executed by the deployed member that includes the
+following information:
+a. The full name of the deployed member.
+b. The name of the registered or foreign limited liability partnership and
+the state or country under whose law it is formed.
+c. The percentage ownership interest in the registered or foreign limited
+liability partnership currently held by the deployed member.
+d. The expected start and end dates of the deployment.
+e. A statement either certifying that the information contained in the most
+recently filed annual report has not changed or setting forth the
+updated information required by G.S. 59-84.4(a)(2) through (5).
+(2) In the event the deployment is extended beyond the date stated in the affidavit
+of deployment, the registered or foreign limited liability partnership shall file
+electronically with the Secretary of State, within 180 days of the end date
+stated in the affidavit of deployment filed with the Secretary of State pursuant
+to subdivision (1) of this subsection, a sworn affidavit of extended deployment
+by an authorized representative of the registered or foreign limited liability
+partnership that includes the following information:
+a. The title or position in the registered or foreign limited liability
+partnership held by the affiant.
+b. The full name of the deployed member.
+c. The name of the registered or foreign limited liability partnership and
+the state or country under whose law it is formed.
+d. The percentage ownership interest in the registered or foreign limited
+liability partnership currently held by the deployed member.
+e. The expected end date of the extended deployment.
+f. A statement either certifying that the information contained in the most
+recently filed annual report has not changed or setting forth the
+updated information required by G.S. 59-84.4(a)(2) through (5).
+Senate Bill 445 Session Law 2026-59 Page 15
+
+(3) The due date of the registered or foreign limited liability partnership's next
+annual report is the ninetieth business day following the end date stated in the
+affidavit of deployment filed pursuant to subdivision (1) of this subsection;
+provided, however, that if the deployment is extended, the due date of the
+registered or foreign limited liability partnership's annual report is the
+ninetieth day following the end date stated in the affidavit of extended
+deployment filed pursuant to subdivision (2) of this subsection.
+(4) The grounds for revocation of registration under G.S. 59-84.4(f) apply to
+registered and foreign limited liability partnerships that are subject to this
+section only if the period of delinquency for the applicable ground is 180 days
+or more past the end date stated in the affidavit of deployment filed with the
+Secretary of State pursuant to subdivision (1) of this subsection.
+(c) Any fees required by G.S. 59-35.2 for documents filed pursuant to subsection (b) of
+this section are waived."
+SECTION 15. G.S. 132-1.2 reads as rewritten:
+"§ 132-1.2. Confidential information.
+Nothing in this Chapter shall be construed to require or authorize a public agency or its
+subdivision to disclose any information that:
+…
+(12) Reveals information contained in an affidavit of deployment or an affidavit of
+extended deployment filed with the Secretary of State pursuant to
+G.S. 55-16-22.3, 57D-2-26, or 59-84.6."
+SECTION 16. The Secretary of State shall make available the form or forms needed
+for the affidavit of deployment and affidavit of extended deployment required by this act and
+shall take any other action necessary to allow business entities to begin filing pursuant to this act
+on October 1, 2026.
+SECTION 17. Sections 12 through 16 of this act become effective October 1, 2026.
+PRIVATE ROAD AND BRIDGE PROGRAM MODIFICATION
+SECTION 17.5.(a) Section 5A.3(c) of S.L. 2026-41 reads as rewritten:
+"SECTION 5A.3.(c) Private Bridge Design Standard. – Within 60 days of the effective date
+of this act, the Department of Transportation (DOT) NCEM shall develop a separate design
+category and standard for private bridges that allow (i) lower design loads for residential and
+agricultural use and (ii) simpler abutments and foundations that maintain residential code
+compliance, including, if appropriate, steel beam and timber deck bridges. NCEM may consult
+with the Department of Transportation in developing this category and standard. A standard
+developed under this subsection shall maintain American Association of State Highway and
+Transportation Officials loading and safety criteria and also allow be based on recognized
+structural design and safety principles, while allowing for engineering flexibility flexibility,
+alternative construction methods, alternative foundation systems, and site-specific construction
+methods designs appropriate for private residential use.and agricultural bridge applications. In
+developing this category and standard, the following criteria must be considered and applied: (i)
+environmental permitting, (ii) engineering performed by a licensed professional engineer when
+required by the project, (iii) compliance with applicable county or municipal development
+ordinances, (iv) floodplain ordinances, (v) local subdivision or zoning ordinances, and (vi)
+applicable building or structural code requirements adopted by the local jurisdiction."
+SECTION 17.5.(b) Section 5A.3 of S.L. 2026-41 is amended by adding a new
+section to read:
+"SECTION 5A.3.(c1) Low-Cost Private Bridges. – For private bridge projects with an
+estimated construction cost of five hundred thousand dollars ($500,000) or less, NCEM shall
+allow qualified design-build delivery by a North Carolina licensed general contractor holding the
+Page 16 Session Law 2026-59 Senate Bill 445
+
+highway classification. The licensed general contractor may retain a licensed professional
+engineer to develop a site-specific bridge design utilizing sound engineering judgment,
+alternative construction methods, and alternative foundation systems. NCEM shall not require
+the use of prescriptive standard bridge plans where a project-specific design, prepared and sealed
+by the licensed professional engineer, demonstrates compliance with the applicable loading and
+safety criteria established under this subsection."
+SECTION 17.5.(c) Section 5A.3(d) of S.L. 2026-41 reads as rewritten:
+"SECTION 5A.3.(d) Contract Modifications. – NCEM shall identify current contracts
+entered into under the Program and seek to renegotiate the contracts with a new design standard
+developed under subsection (c) of this section for private bridges, where appropriate. For new
+contracts, NCEM shall establish expedited procurement tracks, as provided for under this section
+for private bridges, where appropriate. Further, NCEM shall shorten the availability window for
+these expedited projects. NCEM shall implement a standardized or pre-approved design using
+the design standard developed by DOT NCEM under subsection (c) of this section."
+SECTION 17.5.(d) Section 2C.1(a) of S.L. 2025-2 reads as rewritten:
+"SECTION 2C.1.(a) Private Road and Bridge Repair and Replacement Program. – The
+Private Road and Bridge Repair and Replacement Program (Program) is established within
+NCEM for the repair and replacement of private roads and bridges damaged or destroyed by
+Hurricane Helene. NCEM shall may consult with the Department of Transportation in
+administering the Program and shall develop criteria and an application process to select private
+roads and bridges eligible for repair or replacement consistent with this subsection. NCEM may
+use up to two percent (2%) for administrative costs for the Program. NCEM shall prioritize
+applications for the repair and replacement of private roads or bridges that provide the sole option
+for ingress and egress for (i) emergency services to a residential property that is occupied by the
+owner for more than six months of the calendar year, (ii) multiple residential homes, or (iii)
+recreation or commercial facilities. These funds may be used for program costs incurred for the
+engineering, design, and construction of private roads and bridges, funding to nonprofit
+organizations supporting bridge repairs, and may also be used to provide technical support and
+assistance for individuals and local governments to comply with no-rise certification
+requirements required by FEMA under the National Flood Insurance Program."
+SECTION 17.5.(e) The Department of Public Safety, Division of Emergency
+Management shall develop the separate design category and standard required under Section
+5A.3(c) of S.L. 2026-41, as amended by this section, within 60 days of the effective date of this
+act.
+SECTION 17.5.(f) This section is retroactively effective July 1, 2026.
+VOLUNTARY PORTABLE BENEFITS PLAN ACT
+SECTION 17.6.(a) Chapter 66 of the General Statutes is amended by adding a new
+Article to read:
+"Article 53.
+"Voluntary Portable Benefits Plan Act.
+"§ 66-530. Title; definitions.
+(a) This Article is known and may be cited as the "Voluntary Portable Benefits Plan Act."
+(b) The following definitions apply in this Article:
+(1) Bank. – A banking corporation entitled to operate in this State under Chapter
+53C of the General Statutes with deposits insured by the Federal Deposit
+Insurance Corporation.
+(2) Commissioner. – The Commissioner of the North Carolina Department of
+Labor.
+(3) Compensation. – Remuneration for services performed by an independent
+contractor.
+Senate Bill 445 Session Law 2026-59 Page 17
+
+(4) Contribution. – Funds deposited into a portable benefits account.
+(5) Contributor. – A person or entity, other than the account owner and including
+a hiring party, who makes a contribution to a portable benefit account.
+(6) Hiring party. – A person or entity, whether public or private, including an
+internet or application-based company, who hires or enters into a contract for
+the performance of work with an independent contractor.
+(7) Independent contractor. – As defined in G.S. 96-1(b)(19).
+(8) Portable benefit account or account. – An account owned by an independent
+contractor that is administered by a portable benefit account provider and used
+to fund the purchase of one or more portable benefit plans.
+(9) Portable benefit account provider or account provider. – Any of the following
+that administer a portable benefit account:
+a. A bank.
+b. An investment management firm.
+c. A technology provider or program manager that offers services
+through a bank or investment management firm.
+d. Any other person who demonstrates to the satisfaction of the
+Commissioner that the manner in which the person administers
+portable benefit accounts is consistent with the requirements under
+G.S. 66-532.
+(10) Portable benefit plan. – A plan that meets all of the following conditions:
+a. It funds benefits permissible under G.S. 66-531(c).
+b. It is chosen by an independent contractor and is assigned to a
+beneficiary other than a hiring party.
+c. It is administered by a third-party portable benefit plan provider.
+(11) Portable benefit plan provider. – A person or entity licensed or otherwise
+authorized to offer insurance or benefit plans in the State.
+"§ 66-531. Portable benefit accounts; contributions; ownership; applicability.
+(a) Voluntary Contributions; Written Agreement. – Any person or entity, including an
+internet or application-based entity, may make a contribution to a portable benefit account. The
+following provisions apply to a hiring party that makes a contribution to a portable benefit
+account owned by an independent contractor with whom the hiring party has entered into a
+contract for the performance or work:
+(1) The independent contractor must affirmatively opt in through an express
+written agreement that is clear, unambiguous, and prominently displayed
+either in a work contract or a separate invoice. The agreement must indicate
+that the making of contributions by a hiring party and the receipt of
+contributions by an independent contractor are voluntary and must allow the
+independent contractor to opt out at any time.
+(2) The hiring party shall not induce or require an independent contractor to
+maintain an account with a specific portable benefit account provider as a
+condition of receiving contributions.
+(3) The hiring party shall treat contributions as compensation.
+(b) Ownership and Portability. – A portable benefit account is at all times the sole
+property of the independent contractor who owns it. Funds in the account, including contributions
+and earnings, are not subject to claims of a contributor or the account's creditors arising from the
+hiring relationship and do not revert to the hiring party. A hiring party has no ownership,
+reversionary, or control interest in a portable benefit account. The account owner may, at any
+time and without penalty, beyond reasonable disclosed transfer costs, (i) cease contributions, (ii)
+change the portable benefit plans purchased through the account, and (iii) transfer the account
+balance to another qualified portable benefit account provider.
+Page 18 Session Law 2026-59 Senate Bill 445
+
+(c) Permitted Use of Funds. – Portable benefit account funds may be used only to
+purchase portable benefit plans for the benefits listed in this subsection, to pay reasonable and
+disclosed portable benefit account fees, or for distribution to the portable benefit account owner.
+The permissible benefits are:
+(1) Health Savings Accounts.
+(2) Flexible Spending Accounts.
+(3) Health Reimbursement Arrangements.
+(4) Transportation/parking accounts.
+(5) Health insurance.
+(6) Healthcare sharing contributions.
+(7) Healthcare subscriptions.
+(8) Income replacement insurance.
+(9) Disability insurance.
+(10) Life insurance.
+(11) Traditional Individual Retirement Accounts.
+(12) Traditional 401(k).
+(13) Traditional savings accounts.
+(d) Not Evidence of Employer-Employee Relationship. – Contributions by a hiring party
+to a portable benefit account are not treated as evidence that a worker is an employee of the hiring
+party under State unemployment insurance, worker's compensation, or labor laws. Nothing in
+this Article alters, expands, or contracts the test for independent contractor status under any other
+provision of law, and the existence of a portable benefit account or any contribution to it shall
+not be a factor in that determination.
+(e) Inapplicability to State Unemployment Insurance. – Nothing in this Article affects
+entitlement to unemployment insurance benefits under Chapter 96 of the General Statutes.
+"§ 66-532. Portable benefit account providers.
+(a) Selection. – An independent contractor who opts in to receiving contributions from a
+hiring party shall select a portable benefit account provider to administer the funds.
+(b) Limitations. – The following limitations apply with respect to portable benefit
+account providers:
+(1) A hiring party, or an entity controlled by or under common control with a
+hiring party, shall not serve as the portable benefit account provider for an
+independent contractor it engages, except as a pass-through contributor of
+funds.
+(2) A portable benefit account provider shall not condition the distribution of
+funds in a portable benefit account on continued work for any hiring party.
+(c) Segregation of Funds. – A portable benefit account provider shall hold all account
+funds in trust for, or as custodian for, the benefit of the account owner, segregated from the
+provider's own assets and from the assets of a hiring party. Account provider funds shall not be
+commingled with portable benefit account funds.
+(d) Fee Disclosure. – Before an independent contractor opens an account or any
+contributions under G.S. 66-531 are made, the account provider shall disclose, in writing and in
+clear and conspicuous terms, all fees, charges, and penalties associated with the account, and any
+material change shall be disclosed in writing at least 30 days before it takes effect.
+(e) Financial Responsibility. – A portable benefit account provider, other than a bank,
+shall maintain a fidelity bond, errors and omissions coverage, or other financial assurance in an
+amount established by the Commissioner sufficient to protect account owners against loss from
+the account provider's negligence, fraud, or insolvency.
+(f) Record Keeping; Audit. – A portable benefit account provider shall maintain accurate
+records of all contributions, earnings, fees, and distributions for each portable benefit account,
+shall furnish each account owner with a statement no less than quarterly, and shall make its
+Senate Bill 445 Session Law 2026-59 Page 19
+
+records available, upon request, to the Commissioner or the Secretary of Revenue, as applicable.
+The Commissioner may audit an account provider's compliance with this Article.
+(g) Standard of Care. – A portable benefit account provider shall administer each account
+solely in the interest of the account owner and with the care, skill, and diligence that a prudent
+administrator uses.
+(h) Commissioner Approval; Revocation; Rulemaking. – The Commissioner may
+approve a person under G.S. 66-530(b)(9)d. only upon a showing of compliance with this section
+and may suspend or revoke approval for noncompliance after notice and an opportunity to be
+heard. The Commissioner shall maintain and publish a list of approved portable benefit account
+providers. The Commissioner of Labor may adopt rules necessary to make a determination under
+G.S. 66-530(b)(9)d."
+SECTION 17.6.(b) G.S. 105-153.5(b) is amended by adding a new subdivision to
+read:
+"(18) The amount of a contribution made to a portable benefit account under
+G.S. 66-531 during the taxable year to the extent it is included in the taxpayer's
+adjusted gross income."
+SECTION 17.6.(c) G.S. 105-153.5(c) reads as rewritten:
+"(c) Additions. – In calculating North Carolina taxable income, a taxpayer must add to the
+taxpayer's adjusted gross income any of the following items that are not included in the taxpayer's
+adjusted gross income:
+…
+(8) The amount withdrawn from a portable benefit account to the extent this
+amount was withdrawn and not used to pay for a portable benefit plan as
+permitted under Article 53 of Chapter 66 of the General Statutes."
+SECTION 17.6.(d) G.S. 105-163.3(b) reads as rewritten:
+"(b) Exemptions. – The withholding requirement does not apply to the following:
+…
+(6) Compensation deposited into a portable benefit account on behalf of a payee
+in accordance with Article 53 of Chapter 66 of the General Statutes."
+SECTION 17.6.(e) G.S. 105-251.2 is amended by adding a new subsection to read:
+"(c1) Portable Benefit Account Provider. – A portable benefit account provider, as defined
+under G.S. 66-530, must give information to the Secretary when the Secretary requests the
+information. The Secretary may not request the information more than once per calendar year.
+The Secretary may request a portable benefit account provider to provide, on a return, report, or
+otherwise, a portable benefit account owner's name, tax identification number, records of
+contributions and distributions from any portable benefit account owned by an account owner,
+and other information that the Secretary deems necessary to determine compliance with this
+Chapter."
+SECTION 17.6.(f) This section becomes effective January 1, 2027, and applies to
+taxable years beginning on or after that date.
+PART II. JUSTICE AND PUBLIC SAFETY REFORMS
+INCREASE CIVIL PENALTY FOR WATER THEFT
+SECTION 18.(a) G.S. 14-151 reads as rewritten:
+"§ 14-151. Interfering with gas, electric, and steam steam, and water appliances or meters;
+penalties.
+(a) It is unlawful for any person to willfully, with intent to injure or defraud, commit any
+of the following acts:
+…
+Page 20 Session Law 2026-59 Senate Bill 445
+
+(4) Make any connection or reconnection with the gas mains, water pipes, service
+pipes, or wires of any person, furnishing to consumers natural or artificial gas,
+water, or electricity, or turn on or off or in any manner interfere with any valve
+or stopcock or other appliance belonging to that person, and connected with
+the person's service or other pipes or wires, or enlarge the orifices of mixers,
+or use natural gas for heating purposes except through mixers, or electricity
+for any purpose without first procuring from the person a written permit to
+turn on or off the stopcock or valve, or to make the connection or
+reconnections, or to enlarge the orifice of mixers, or to use for heating
+purposes without mixers, or to interfere with the valves, stopcocks, wires, or
+other appliances of them, as the case may be. For the purposes of this
+subsection, "water pipes" means water pipes, fire hydrants, flushing
+assemblies, blow-offs, sampling stations, and all other appurtenances
+connected to a water distribution system, whether above or below ground.
+…
+(e) Whoever is found in a civil action to have violated any provision of this section is
+liable to the electric, gas, or water supplier in triple the amount of losses and damages sustained
+or five thousand dollars ($5,000), whichever is greater.greater, except that whoever is found in a
+civil action to have violated subdivision (a)(4) of this section by the connection or reconnection
+with any water pipe is liable to the water supplier in triple the amount of losses and damages
+sustained or ten thousand dollars ($10,000), whichever is greater, and attorneys' fees.
+…."
+SECTION 18.(b) This section becomes effective December 1, 2026, and applies to
+offenses committed on or after that date.
+INCREASE FINES FOR INTENTIONAL OR RECKLESS LITTERING
+SECTION 19.(a) G.S. 14-399 reads as rewritten:
+"§ 14-399. Littering.
+(a) No person, including any firm, organization, private corporation, or governing body,
+agents or employees of any municipal corporation shall intentionally or recklessly throw, scatter,
+spill or place or intentionally or recklessly cause to be blown, scattered, spilled, thrown or placed
+or otherwise dispose of any litter upon any public property or private property not owned by the
+person within this State or in the waters of this State including any public highway, public park,
+lake, river, ocean, beach, campground, forestland, recreational area, trailer park, highway, road,
+street or alley except:
+(1) When the property is designated by the State or political subdivision thereof
+for the disposal of garbage and refuse, and the person is authorized to use the
+property for this purpose; or
+(2) Into a litter receptacle in a manner that the litter will be prevented from being
+carried away or deposited by the elements upon any part of the private or
+public property or waters.
+…
+(c) Any person who violates subsection (a) of this section in an amount not exceeding 10
+pounds and not for commercial purposes is guilty of a Class 3 misdemeanor punishable by a fine
+of not less than five hundred dollars ($500.00) one thousand dollars ($1,000) nor more than one
+thousand dollars ($1,000) three thousand dollars ($3,000) for the first offense. In addition, the
+court may require the violator to perform community service of not less than eight hours nor
+more than 24 hours. The community service required shall be to pick up litter if feasible, and if
+not feasible, to perform other labor commensurate with the offense committed. Any second or
+subsequent violation of subsection (a) of this section in an amount not exceeding 10 pounds and
+not for commercial purposes within three years after the date of a prior violation is a Class 3
+Senate Bill 445 Session Law 2026-59 Page 21
+
+misdemeanor punishable by a fine of not less than one thousand dollars ($1,000) three thousand
+dollars ($3,000) nor more than three thousand dollars ($3,000). five thousand dollars ($5,000).
+In addition, the court may require the violator to perform community service of not less than 16
+hours nor more than 50 hours. The community service required shall be to pick up litter if
+feasible, and if not feasible, to perform other labor commensurate with the offense committed.
+…
+(d) Any person who violates subsection (a) of this section in an amount exceeding 10
+pounds but not exceeding 500 pounds and not for commercial purposes is guilty of a Class 3
+misdemeanor punishable by a fine of not less than one thousand dollars ($1,000) five thousand
+dollars ($5,000) nor more than three thousand dollars ($3,000). ten thousand dollars ($10,000).
+In addition, the court shall require the violator to perform community service of not less than 50
+hours nor more than 100 hours. The community service required shall be to pick up litter if
+feasible, and if not feasible, to perform other community service commensurate with the offense
+committed.
+…
+(e) Any person who violates subsection (a) of this section in an amount exceeding 500
+pounds or in any quantity for commercial purposes, or who discards litter that is a hazardous
+waste as defined in G.S. 130A-290 is guilty of a Class I felony punishable by a fine of five
+thousand dollars ($5,000). not less than ten thousand dollars ($10,000) nor more than fifteen
+thousand dollars ($15,000). In addition, the court shall require the violator to perform community
+service of not less than 100 hours. The community service required shall be to pick up litter if
+feasible, and if not feasible, to perform other community service commensurate with the offense
+committed.
+…."
+SECTION 19.(b) This section becomes effective December 1, 2026, and applies to
+offenses committed on or after that date.
+PROHIBIT TELEPHONE SOLICITORS FROM MISREPRESENTING CALL
+ORIGINS
+SECTION 20.(a) G.S. 75-100 is amended by adding a new subdivision to read:
+"(10) A telephone number is the property of a telephone subscriber, subject to the
+terms and conditions of the subscriber's contract with a telephone carrier."
+SECTION 20.(b) G.S. 75-101(10) reads as rewritten:
+"(10) Telephone solicitor. – Any individual, business establishment, business, or
+other legal entity doing business in this State that, directly or through
+salespersons or agents, makes or attempts to make telephone solicitations or
+causes telephone solicitations to be made. made, and any agent of that
+individual, business establishment, business, or legal entity. "Telephone
+solicitor" also includes any party defined as a "telemarketer" under the
+Telemarketing Sales Rule."
+SECTION 20.(c) G.S. 75-102 reads as rewritten:
+"§ 75-102. Restrictions on telephone solicitations.
+…
+(i) No telephone solicitor shall cause misleading information to be transmitted to users
+of caller identification technologies or otherwise block or misrepresent the origin of the telephone
+solicitation. solicitation or use any other alteration to the origin of the telephone solicitation that
+displays in a way to give the perception that the call originated from any other origin except the
+actual origin of the telephone solicitation. No provider of telephone caller identification services
+shall be held liable for violations of this subsection committed by other individuals or entities. It
+is not a violation of this subsection for a telephone solicitor to utilize the name and number of
+Page 22 Session Law 2026-59 Senate Bill 445
+
+the entity the solicitation is being made on behalf of rather than the name and number of the
+telephone solicitor.
+(j) A telephone solicitor or its agent that makes telephone solicitations on its behalf,
+provided that the telephone solicitor ensures compliance by its agent, shall keep a record for a
+period of 24 months from the date a telephone solicitation is made of the legal name, any fictitious
+name used, the resident address, the telephone number, and the job title of each individual who
+makes a telephone solicitation for that telephone solicitor. If an individual who makes telephone
+solicitations for a telephone solicitor uses a fictitious name, the fictitious name shall be traceable
+only to the specific individual.
+…."
+SECTION 20.(d) Article 4 of Chapter 75 of the General Statutes is amended by
+adding a new section to read:
+"§ 75-104.1. Telephone carriers.
+(a) A telephone carrier shall not knowingly and intentionally transmit, sell, or otherwise
+provide the numbers of telephone subscribers to any entity the telephone carrier knows (i) will
+use the number to violate provisions of this Article, (ii) has previously used telephone subscriber
+information to violate provisions of this Article, or (iii) has previously provided the information
+to another entity that has violated provisions of this Article.
+(b) A telephone carrier shall not be held liable for a telemarketer's violation of
+G.S. 75-102(i)."
+SECTION 20.(e) G.S. 75-105 reads as rewritten:
+"§ 75-105. Enforcement.
+…
+(b) A telephone subscriber who has received a telephone solicitation from or on behalf
+of a telephone solicitor in violation of this Article may bring any of the following actions in civil
+court:
+(1) An action to enjoin further violations of this Article by the telephone solicitor.
+(2) An action to recover five hundred dollars ($500.00) for the first violation, one
+thousand dollars ($1,000) for the second violation, and five thousand dollars
+($5,000) for the third and any other violation that occurs within two years of
+the first violation.
+(3) An action to recover ten thousand dollars ($10,000) for each call placed in
+knowing violation of G.S. 75-102(i).
+…."
+SECTION 20.(f) This section becomes effective December 1, 2026, and applies to
+phone calls placed on or after that date.
+THIRD-PARTY CRIMINAL HISTORY RECORD CHECK VENDORS FOR CERTAIN
+LOCAL GOVERNMENT CHECKS
+SECTION 21. Notwithstanding G.S. 153A-94.2(b) and G.S. 160A-164.2(b),
+municipalities and counties may enter contracts with third-party vendors supplying criminal
+history record checks to conduct criminal history record checks required pursuant to those
+sections. All contracts entered pursuant to this section shall terminate on or before December 1,
+2026, or when the State Bureau of Investigation request for proposal is awarded, whichever
+occurs later. Third-party vendors conducting criminal history record checks pursuant to this
+authority shall comply with any restrictions or requirements set by law governing fingerprints
+and other information collected by the Bureau for a criminal record check, as required by
+G.S. 143B-1209.09.
+ADD APPROVED FIREARM SAFETY AND TRAINING COURSE
+SECTION 23.(a) G.S. 14-415.12(a)(4) reads as rewritten:
+Senate Bill 445 Session Law 2026-59 Page 23
+
+"(4) The applicant has successfully completed an approved firearms safety and
+training course which involves the actual firing of handguns and instruction
+in the laws of this State governing the carrying of a concealed handgun and
+the use of deadly force. The North Carolina Criminal Justice Education and
+Training Standards Commission shall prepare and publish general guidelines
+for courses and qualifications of instructors which would satisfy the
+requirements of this subdivision. An approved course shall be any course
+which satisfies the requirements of this subdivision and is certified or
+sponsored by any of the following:
+a. The North Carolina Criminal Justice Education and Training
+Standards Commission.
+a1. The North Carolina Concealed Carry Association.
+b. The National Rifle Association.
+b1. The United States Concealed Carry Association.
+b2. U.S. LawShield.
+c. A law enforcement agency, college, private or public institution or
+organization, or firearms training school, taught by instructors
+certified by the North Carolina Criminal Justice Education and
+Training Standards Commission, the North Carolina Concealed Carry
+Association, the United States Concealed Carry Association, U.S.
+LawShield, or the National Rifle Association.
+d. The North Carolina Private Protective Services Board and Secretary
+of Public Safety pursuant to G.S. 74C-13.
+Every instructor of an approved course shall file a copy of the firearms course
+description, outline, and proof of certification annually, or upon modification
+of the course if more frequently, with the North Carolina Criminal Justice
+Education and Training Standards Commission."
+SECTION 23.(b) This section becomes effective October 1, 2026, and applies to
+permit applications submitted on or after that date.
+NO SCHOOLS NEAR GUN RANGES IN BRUNSWICK COUNTY
+SECTION 24.(a) For the purpose of this section, the following definitions apply:
+(1) "School building" means any building or structure suitable for use as a
+classroom, including laboratories, libraries, school eating facilities,
+gymnasiums, or any other facilities used for the instruction of students or the
+administration of educational programs.
+(2) "Sport shooting range" means any area designed and operated for the use of
+rifles, shotguns, pistols, silhouettes, skeet, trap, black powder, or any other
+similar sport shooting.
+SECTION 24.(b) The location of any new school building must be at least 1 mile,
+measured in a straight line from property line to property line, from any existing sport shooting
+range.
+SECTION 24.(c) This section is effective when it becomes law and applies only to
+school buildings constructed in Brunswick County on or after that date.
+NUISANCE IMMUNITY FOR RURAL RECREATIONAL AND HERITAGE EVENTS
+SECTION 25.(a) Chapter 99E of the General Statutes is amended by adding a new
+Article to read:
+"Article 11.
+"Rural Recreational and Heritage Event Nuisance Immunity.
+"§ 99E-95. Nuisance immunity for rural recreational and heritage events.
+Page 24 Session Law 2026-59 Senate Bill 445
+
+(a) For purposes of this Article, the following definitions apply:
+(1) Area of the facility. – The area within a 3-mile radius of the perimeter of the
+property or a contiguous group of properties where a facility is located.
+(2) Facility. – A designated and established area that is regularly used to host or
+conduct one or more rural recreational and heritage events. A facility includes
+the track, course, arena, ring, field, stable, kennel, pen, staging, spectator, and
+parking areas, and any associated grounds, buildings, structures, or
+appurtenances used to conduct or support rural recreational and heritage
+events. A facility does not include real property to the extent it is used only
+for the personal or private use of the property by the property owner or the
+owner's family, guests, or invitees, where that use is not part of a rural
+recreational and heritage event that is conducted on a recurring basis or that is
+open to participants, spectators, or the members of a club, association, or other
+organization that owns, operates, or conducts rural recreational and heritage
+events at the facility.
+(3) Rural recreational and heritage event. – Any of the following when conducted
+at a facility:
+a. Motorized and off-road vehicle events, including motocross, dirt-bike
+events, all-terrain vehicle (ATV) and utility task vehicle (UTV) events,
+go-kart racing, drag racing, autocross and rallycross, monster truck
+events, truck pulls, tractor pulls, mud bogging, mud pulls,
+four-wheel-drive and other off-road events, demolition derbies, lawn
+mower racing, and similar motorized or off-road competitions or
+events.
+b. Horse and farm animal events, including horse shows, rodeos, barrel
+racing, roping and team roping, horse pulls, mounted shooting,
+equestrian competitions, livestock shows, farm animal exhibitions,
+agricultural fair events, and similar animal-based competitions or
+exhibitions.
+(b) A facility shall not be subject to any action brought by a surrounding property owner
+under any nuisance or taking cause of action arising from the conduct of a rural recreational and
+heritage event at the facility if both of the following conditions were met as of the date the
+surrounding property owner purchased real property located within the area of the facility or, if
+the surrounding property owner owned that real property before rural recreational and heritage
+events were first conducted at the facility, as of the date the surrounding property owner first
+constructed a building on that real property:
+(1) The facility was lawfully established and in compliance with all laws,
+ordinances, and permitting requirements applicable to the facility at the time
+of its establishment.
+(2) One or more rural recreational and heritage events have been conducted at the
+facility within the 24 months preceding the date on which the surrounding
+property owner purchased the real property or constructed the building."
+SECTION 25.(b) This section is effective when it becomes law and applies to
+actions commenced on or after that date.
+PART III. ENERGY, ENVIRONMENT, & NATURAL RESOURCES REFORMS
+ALLOW LIQUEFIED PETROLEUM GAS REFILLS DURING EMERGENCIES
+SECTION 26.(a) G.S. 119-54(a) reads as rewritten:
+"(a) It is the purpose of this Article to provide for the adoption and promulgation of a code
+of safety, and such rules and regulations setting forth minimum general standards of safety for
+Senate Bill 445 Session Law 2026-59 Page 25
+
+the design, construction, location, installation, and operation of the equipment used in handling,
+storing, measuring, transporting, distributing, and utilizing liquefied petroleum gases and to
+provide for the administration and enforcement of the code and such rules and regulations thereby
+adopted. Words used in this Article shall be defined as follows:
+(1) "Board" means the North Carolina Board of Agriculture.
+(2) "Commissioner" means the Commissioner of Agriculture or his designated
+agent.
+(3) "Dealer" means any person, firm, or corporation who is engaged in or desires
+to engage in:
+a. The business of selling or otherwise dealing in liquefied petroleum
+gases which require handling, storing, measuring, transporting, or
+distributing liquefied petroleum gas; or
+b. The business of installing, servicing, repairing, adjusting, connecting,
+or disconnecting containers, equipment, or appliances which use
+liquefied gas. A person who engages in any of the aforementioned
+activities only in connection with his or his employer's use of liquefied
+petroleum gas and not as a business shall not be deemed to be a
+"dealer" for the purposes of this Article.
+(3a) "Emergency supplier" means a Class A dealer that provides liquefied
+petroleum gas to a consumer during a qualifying emergency, pursuant to
+G.S. 119-58(c).
+(4) "Liquefied petroleum gas" means any material which is composed
+predominantly of any of the following hydrocarbons, or mixtures of the same:
+propane, propylene, butanes (normal butanes or isobutane), butylenes.
+(5) "Qualifying emergency" means (i) a state of emergency as declared by the
+Governor, General Assembly, or the governing body of a municipality or
+county pursuant to Article 1A of Chapter 166A of the General Statutes, (ii) a
+state of emergency declared by the President of the United States, (iii) when
+severe weather or similar circumstances exist that may result in a person being
+placed in imminent danger of death or injury due to lack of heat caused by a
+lack of liquefied petroleum gas, or (iv) when a waiver from delivery
+limitations affecting the delivery of liquefied petroleum gas has been lawfully
+ordered."
+SECTION 26.(b) G.S. 119-58 reads as rewritten:
+"§ 119-58. Unlawful acts.
+…
+(b) Every supply tank or container with a total capacity greater than 5 gallons and with
+its regulating equipment connected in a service system, shall be identified while in service by the
+supplier with an attached tag, label, or other marking that includes the name name and contact
+information of the person supplying liquefied petroleum gas to the system, and system, and the
+name of the tank or container owner. Except as provided in subsection (c) of this section, it shall
+be unlawful for any person, other than the supplier or the owner of the system, to disconnect,
+interrupt or fill the system with liquefied petroleum gas without the consent of the supplier. If
+another registered supplier is requested by the consumer to connect service and is given
+permission by the consumer to do so, the new supplier shall notify the former supplier before
+disconnecting the former service and connecting the new service and shall cap or plug all
+disconnected equipment outlets outlets, perform a leak test, and leave the equipment in a
+condition consistent with this Article and the rules adopted pursuant to this Article.
+(c) When a qualifying emergency is in effect, a person other than the supplier or the
+owner of the system may fill or refill a properly inspected system, as required by law, with
+liquefied petroleum gas, provided the following conditions are met:
+Page 26 Session Law 2026-59 Senate Bill 445
+
+(1) The consumer demonstrates that they have less than a twenty percent (20%)
+supply of liquefied petroleum gas remaining in the tank or container for use
+as the primary energy for heating or cooking.
+(2) The consumer makes a good-faith effort to procure delivery of liquefied
+petroleum gas from the current supplier or owner.
+(3) The current supplier or owner is unable to make a scheduled fill or refill within
+three business days of the good-faith procurement effort.
+(4) The emergency supplier makes a good-faith effort to contact and obtain
+consent from the current supplier to conduct the emergency refill before
+attempting to do so.
+(5) The emergency supplier attaches a nonpermanent tag to the tank or container
+that includes the name, address, and contact information of the emergency
+supplier, as well as the date of the emergency service. The tag shall not deface
+or otherwise obstruct any name, tag, label, or other marking on the tank or
+container.
+(6) The emergency supplier provides no more than twenty percent (20%) of the
+capacity of the tank or container in liquefied petroleum gas as part of the
+emergency refill performed pursuant to this subsection.
+(7) The emergency supplier makes a good-faith effort to notify the current
+supplier or owner promptly after the emergency service and, within five days
+after an emergency fill or refill has occurred, provides to the current supplier
+or owner written documentation of (i) the name and address of the customer
+and of the emergency supplier, (ii) the date of delivery, (iii) the approximate
+amount of liquefied petroleum gas that was delivered, (iv) whether or not a
+leak was detected by the emergency supplier, and (v) the services provided to
+address any leak detected, as needed."
+SECTION 26.(c) G.S. 119-59 reads as rewritten:
+"§ 119-59. Sanctions for violations.
+(a) Criminal. – A dealer who violates a provision of this Article or a rule adopted under
+it is guilty of a Class 1 misdemeanor.misdemeanor, except that any person that violates
+G.S. 119-58(b) is guilty of a Class A1 misdemeanor.
+(b) Injunction. – The Commissioner or an agent of the Commissioner may apply to any
+superior court judge and the court may temporarily restrain or preliminarily or permanently
+enjoin any violation of this Article or a rule adopted under it.
+(c) Civil Penalty. – The Commissioner may assess a civil penalty against any person who
+violates a provision of this Article or a rule adopted under it. The penalty may not exceed three
+hundred dollars ($300.00) for the first violation, five hundred dollars ($500.00) for a second
+violation, and one thousand dollars ($1,000) for a third or subsequent violation. violation. The
+Commission may assess a civil penalty against any person who violates G.S. 119-58(b) of up to
+one thousand dollars ($1,000) for the first violation, up to two thousand dollars ($2,000) for a
+second violation, and up to three thousand dollars ($3,000) for a third or subsequent violation. In
+determining the amount of a penalty, the Commissioner shall consider the degree and extent of
+harm or potential harm that has resulted or could have resulted from the violation. The clear
+proceeds of civil penalties assessed pursuant to this subsection shall be remitted to the Civil
+Penalty and Forfeiture Fund in accordance with G.S. 115C-457.2.
+(d) Registration. – The Commissioner may deny, suspend, or revoke the registration of a
+dealer who violates a provision of this Article or a rule adopted under it."
+SECTION 26.(d) G.S. 119-60 reads as rewritten:
+"§ 119-60. Liquefied petroleum gas accidents; liability limitations.
+Any person who provides assistance upon request of any police agency, fire department,
+rescue or emergency squad, or any governmental agency in the event of an accident or other
+Senate Bill 445 Session Law 2026-59 Page 27
+
+emergency involving the use, handling, transportation, transmission or storage of liquefied
+petroleum gas, when the reasonably apparent circumstances require prompt decisions and
+actions, or any person acting as an emergency supplier pursuant to G.S. 119-58(c), shall not be
+liable for any civil damages resulting from any act of commission or omission on his part in the
+course of his rendering such assistance unless such acts or omissions amount to willful or wanton
+negligence or intentional wrongdoing. Nothing in this section shall be deemed or construed to
+relieve any person from liability for civil damages (a) where the accident or emergency referred
+to above involved his own facilities or equipment or (b) resulting from any act of commission or
+omission on his part in the course of providing care or assistance in the normal and ordinary
+course of conducting his own business or profession, nor shall this section be construed to relieve
+from liability for civil damages any other tortfeasor not referred to herein. When the assistance
+takes the form of rendering first aid or emergency health care treatment, questions of liability
+shall be governed by G.S. 90-21.14."
+SECTION 26.(e) Notwithstanding G.S. 119-59, the Department of Agriculture and
+Consumer Services shall only issue warnings for the failure of a supplier, pursuant to
+G.S. 119-58(b), to either attach a tag, label, or other marking to a tank or container that includes
+the address and contact information of the person supplying liquefied petroleum gas to the system
+and that identifies whether the tank or container is owned by the supplier, or to conduct a leak
+test.
+SECTION 26.(f) This section becomes effective December 1, 2026, and applies to
+offenses committed on or after that date. Subsection (e) of this section expires December 1, 2027.
+TIME LIMIT FOR DETERMINING NONCOMMERCIAL UNDERGROUND
+STORAGE TANK DISCHARGE RISK AND REQUIRING FURTHER REMEDIATION
+FOR CERTAIN LOW-RISK DISCHARGES
+SECTION 27.(a) G.S. 143-215.94V is amended by adding a new subsection to read:
+"(d1) For noncommercial tanks where the Commission has received the information
+required by subsection (c) of this section from an owner, operator, or landowner, the Commission
+shall, within five years of receipt of such information (i) determine the level of risk of the
+discharge, and cleanup or other measures to be required and (ii) notify the owner, operator, or
+landowner of that determination. For a discharge determined to be low-risk from a
+noncommercial tank, if the Commission fails to notify the owner, operator, or landowner in the
+required time frame, the Commission shall be prohibited from requiring cleanup, further cleanup,
+or further action, including filing of a Notice of Residual Petroleum pursuant to G.S. 143B-279.9
+and G.S. 143B-279.11, unless the Commission later determines that the discharge or release
+poses an unacceptable level of risk or a potentially unacceptable level of risk to human health or
+the environment in which case the Commission shall produce written findings of fact sufficient
+to demonstrate an unacceptable level of risk, or a potentially unacceptable level of risk. Nothing
+in this section shall be construed to impair the Department's and Commission's continuing
+authority to require cleanup, further cleanup, or further action, including filing of a Notice of
+Residual Petroleum pursuant to G.S. 143B-279.9 and G.S. 143B-279.11, for noncommercial
+tanks with discharges determined to be intermediate or high-risk, notwithstanding any
+requirement of this subsection."
+SECTION 27.(b) This section is effective when it becomes law and applies to
+discharges occurring before, on, or after that date as follows: (i) for discharges from
+noncommercial tanks occurring five or more years prior to the effective date of this section for
+which the Commission has not previously notified an owner, operator, or landowner of its
+determination as to the level of risk of the discharge, and actions required in response to the
+discharge, the Commission shall have one year from the effective date of this section to notify
+the owner, operator, or landowner accordingly; and (ii) for all other discharges occurring before
+the effective date of this section for which the Commission has not previously notified an owner,
+Page 28 Session Law 2026-59 Senate Bill 445
+
+operator, or landowner of its determination as to the level of risk of the discharge, and actions
+required in response to the discharge, the Commission shall have five years from the effective
+date of this section to notify the owner, operator, or landowner accordingly.
+RESTORE FEES FOR COMMERCIAL UNDERGROUND STORAGE TANKS AND NO
+QUADRENNIAL ADJUSTMENTS
+SECTION 28.(a) G.S. 143B-279.19(17) is repealed.
+SECTION 28.(b) G.S. 143-215.94C reads as rewritten:
+"§ 143-215.94C. Commercial leaking petroleum underground storage tank cleanup fees.
+(a) For purposes of this subsection, each compartment of a commercial underground
+storage tank that is designed to independently contain a petroleum product is a separate petroleum
+commercial underground storage tank. The owner or operator of a commercial petroleum
+underground storage tank shall pay to the Secretary for deposit into the Commercial Fund an
+annual operating fee of four hundred ninety-eight dollars ($498.00) four hundred twenty dollars
+($420.00) for each petroleum commercial underground storage tank.
+…
+(e) An owner or operator of a commercial underground storage tank who fails to pay an
+annual operating fee due under this section within 30 days of the date that the fee is due shall
+pay, in addition to the fee, a late penalty of six dollars ($6.00) five dollars ($5.00) per day per
+commercial underground storage tank, up to a maximum equal to the annual operating fee due.
+The Department may waive a late penalty in whole or in part if:
+(1) The late penalty was incurred because of the late payment or nonpayment of
+an annual operating fee by a previous owner or operator.
+(2) The late penalty was incurred because of a billing error for which the
+Department is responsible.
+(3) Where the late penalty was incurred because the annual operating fee was not
+paid by the owner or operator due to inadvertence or accident.
+(4) Where payment of the late penalty will prevent the owner or operator from
+complying with any substantive law, rule, or regulation applicable to
+underground storage tanks and intended to prevent or mitigate discharges or
+releases or to facilitate the early detection of discharges or releases.
+…."
+SECTION 28.(c) This section is effective October 1, 2026, and applies to any fees
+due on or after that date.
+RECOGNITION OF COMBINED WASTEWATER CAPACITY
+SECTION 29.(a) Article 21 of Chapter 143 of the General Statutes is amended by
+adding a new section to read:
+"§ 143-215.1D. Recognition of combined treatment and disposal capacity; coordinated
+permitting for facilities served by both the Department and the Department of
+Health and Human Services disposal pathways.
+(a) Definitions. – The following definitions apply to this section:
+(1) Combined permitted capacity. – The sum of the treatment and combined
+discharge and disposal capacity authorized for a single wastewater treatment
+facility under all permits, approvals, authorizations, or discharge capacity
+issued or authorized for that facility by the Department and by the Department
+of Health and Human Services, including capacity authorized under a permit
+issued under G.S. 143-215.1, or a Department of Health and Human Services
+permit, and any permit issued under rules adopted by the Environmental
+Management Commission or the Commission for Public Health.
+Senate Bill 445 Session Law 2026-59 Page 29
+
+(2) Combined wastewater treatment facility. – A treatment facility, the effluent
+from which is discharged, in whole or in part, through a Department permit
+and, in whole or in part, through a Department of Health and Human Services
+permit.
+(3) Department of Health and Human Services permit. – Any permit,
+authorization, written confirmation under G.S. 130A-336.1(p2)(2), or process
+issued or authorized pursuant to Article 11 of Chapter 130A of the General
+Statutes by the Department of Health and Human Services.
+(4) Department permit. – Any permit or authorization issued by the Department
+under this Article.
+(b) Reciprocal Recognition of Permitted Capacity. – For all purposes under this Article
+and Article 11 of Chapter 130A of the General Statutes, the Department and the Department of
+Health and Human Services, and the Commission and the Commission for Public Health, shall
+each recognize and honor a Department permit and a Department of Health and Human Services
+permit for a combined wastewater treatment facility. Neither Department nor Commission shall
+disregard, exclude, or decline to credit capacity authorized under a permit issued by the other
+department, including a Department of Health and Human Services permit, when determining
+the total permitted treatment and disposal capacity of a wastewater treatment facility, including
+in any determination of available capacity, any allocation of capacity, any authorization of a
+sewer system extension, or any imposition or continuation of a sewer system moratorium under
+G.S. 143-215.1, including subsections (f4) and (f5) of that section. The Department shall
+recognize and credit capacity attributable to a wastewater dispersal system as described under
+G.S. 130A-336.1(p2) only upon issuance of written confirmation by the Department of Health
+and Human Services that the proposed design meets all applicable laws and rules pursuant to that
+subsection.
+(c) Jointly Regulated Wastewater Treatment Facilities with Combined Capacity. – Upon
+the written request of the owner or operator of a combined wastewater treatment facility that is
+discharging under a Department of Health and Human Services permit or Department permit, or
+owner or operator of a wastewater treatment facility that seeks to discharge under a Department
+of Health and Human Services permit, a permit issued under G.S. 143-215.1, or both, the
+Department and the Department of Health and Human Services shall authorize a combined
+permitted capacity equal to the sum of the capacities approved under a Department of Health and
+Human Services permit or G.S. 143-215.1, less the combined permitted capacity attributable to
+shared treatment and conveyance components for both systems that may limit the combined
+system capacity to less than the total capacity authorized for the two systems. The Department
+shall issue its permit in accordance with applicable laws, and the Department of Health and
+Human Services shall issue a Department of Health and Human Services permit in accordance
+with Article 11 of Chapter 130A of the General Statutes and rules adopted thereunder. Permits
+and authorizations for jointly regulated wastewater treatment facilities shall be subject to all of
+the following:
+(1) Division of regulatory authority. – Each permitting authority shall be
+responsible only for those portions of the permit that it is authorized by law to
+regulate. The Department and the Department of Health and Human Services,
+issuing or authorizing a permit under Article 11 of Chapter 130A of the
+General Statutes, including a Department of Health and Human Services
+permit, or G.S. 143-215.1, as applicable, shall have equal and independent
+regulatory authority within their respective jurisdictions. Neither permitting
+authority is subordinate to the other, neither has jurisdiction over the other,
+and neither may permit, regulate, inspect, or enforce in place of the other.
+(2) Delineation of jurisdiction. – Each permit shall identify and reference the
+corresponding permit issued by the other permitting authority and shall clearly
+Page 30 Session Law 2026-59 Senate Bill 445
+
+delineate the conditions, components, processes, and portions of the permit
+that are subject to its jurisdiction and enforcement.
+(3) No encroachment. – Neither permitting authority shall encroach upon, assert,
+or exercise the jurisdiction or enforcement authority of the other. The
+permitting, compliance, inspection, and enforcement authority of each
+permitting authority is limited to the portions of the facility and conditions of
+the permit subject to its jurisdiction.
+(4) Severability of permits and conditions. – The conditions of each permit
+subject to this section are severable from the conditions of the permit issued
+by the other permitting authority. The enforcement, modification, suspension,
+revocation, or invalidation of one permit, or of any condition or provision of
+one permit, shall not affect, invalidate, impair, or render unenforceable the
+other permit or any condition or provision of the other permit, which shall
+remain in full force and effect according to its terms.
+(5) Construction. – Nothing in this subsection shall be construed to authorize the
+issuance of a single permit in lieu of the permits otherwise required by law,
+nor shall it be construed to alter, limit, expand, or transfer the permitting,
+compliance, inspection, enforcement, or approval authority of the Department
+or the Department of Health and Human Services.
+(d) Substantive Authority Preserved. – Each discharge or disposal shall remain subject to
+the substantive permitting authority, standards, and rules of the department and commission with
+jurisdiction over that discharge or disposal.
+(e) Sewer System Extension Permits. – The Department shall issue permits, certificates
+of coverage, and authorizations for the extension of a sewer system to a combined wastewater
+treatment facility on the basis of the combined permitted capacity of that facility. In determining
+whether adequate treatment and disposal capacity exists to authorize a sewer system extension,
+the Department shall credit the full combined permitted capacity of the facility and shall not
+deny, limit, delay, or condition the permit, certificate of coverage, authorization, or
+deemed-permitted status on the basis that capacity authorized under a Department of Health and
+Human Services permit is excluded from, or not counted toward, the available capacity of the
+facility. This subsection applies to all sewer system extension permits, certificates of coverage,
+authorizations, and deemed-permitted determinations issued under this Article and under rules
+adopted by the Commission, including 15A NCAC 02T, and applies to any capacity allocation,
+capacity-use, or moratorium determination on which authorization of the extension depends.
+(f) Standards Preserved. – Nothing in this section authorizes the Department, the
+Department of Health and Human Services, the Commission, or the Commission for Public
+Health to reduce, waive, or modify any treatment standard, effluent limitation, groundwater or
+surface water quality standard, design criterion, setback, or operational requirement otherwise
+applicable to either disposal pathway. Each discharge authorized under a permit issued pursuant
+to this section remains subject to the standards, rules, monitoring, and reporting requirements
+applicable to that discharge.
+(g) Coordination. – The Department and the Department of Health and Human Services
+shall enter into a memorandum of agreement establishing procedures for the reciprocal
+recognition of capacity required by subsection (b) of this section and for the issuance of permits
+under subsection (c) of this section, including the allocation of application review
+responsibilities, fees, and ongoing compliance oversight.
+(h) Rules. – The Commission and the Commission for Public Health may adopt
+temporary and permanent rules to implement this section. Rules adopted under this subsection
+shall be consistent with the reciprocal recognition required by subsection (b) of this section and
+shall not impose any requirement that would prevent or delay the crediting of capacity authorized
+under a permit issued by the other Department."
+Senate Bill 445 Session Law 2026-59 Page 31
+
+COMPLIANCE REVIEW REQUIRED FOR LARGE ON-SITE WASTEWATER
+SYSTEMS CONSTRUCTED PURSUANT TO ENGINEERED OPTION PERMIT
+SECTION 29.(b) G.S. 130A-336.1 is amended by adding two new subsections to
+read:
+"(p1) Recognition of Combined Capacity. – Capacity authorized by a permit issued under
+this section, and under a Department of Health and Human Services permit as described under
+G.S. 143-215.1D(a)(3), shall be recognized and credited as provided in G.S. 143-215.1D. The
+Department and the Commission for Public Health shall recognize and honor the treatment and
+discharge capacity authorized for a wastewater treatment facility under a permit issued by the
+Department of Environmental Quality as provided in G.S. 143-215.1D.
+(p2) Large On-Site Wastewater Systems. – A subsurface wastewater dispersal system
+receiving effluent with a design daily flow greater than or equal to 25,000 gallons per day
+proposed to be constructed under this section is subject to all of the following:
+(1) Department review. – Notwithstanding any other provision of this section,
+when a wastewater dispersal system receiving effluent is proposed with a
+design daily flow greater than or equal to 25,000 gallons per day, the
+Department shall conduct a compliance review of the proposed design to
+ensure compliance with all applicable laws and rules. The compliance review
+of the wastewater system may include all supporting engineering, modeling,
+operational, monitoring, soils, site, hydrogeologic, treatment, and disposal
+information, as determined by the Department. The Department may request
+any information or documentation necessary to complete its compliance
+review. If the submittal is incomplete or does not comply with the applicable
+laws and rules, the Department shall issue a letter specifically identifying all
+missing information or the laws and rules with which the submittal does not
+comply, including specific citations to the applicable laws or rules. The
+Department shall have 120 days to complete the compliance review, which
+period shall begin upon the Department's receipt of a completed application,
+and shall be tolled during periods in which the Department awaits additional
+information from an applicant necessary to complete the compliance review.
+If the Department fails to complete the review in the required time frame, the
+compliance review shall be deemed complete.
+(2) Compliance review determination. – Upon completion of a compliance review
+pursuant to subdivision (1) of this subsection, if the Department finds that the
+proposed wastewater system complies with all applicable requirements, the
+Department shall issue written confirmation acknowledging that the proposed
+design meets all applicable laws and rules. A determination by the Department
+that a proposed wastewater system does not comply with applicable laws or
+rules constitutes a final agency decision subject to appeal under G.S. 130A-24
+and Article 3 of Chapter 150B of the General Statutes. The provisions of
+subsection (f) of this section remain effective for systems reviewed by the
+Department pursuant to this subsection.
+(3) Continuing oversight authority. – Recognition of capacity pursuant to
+subsection (p1) of this section shall not be construed to limit, waive, impair,
+or extinguish the authority of the Department under this Article, rules adopted
+pursuant to this Article, or a Department of Health and Human Services permit
+as described under G.S. 143-215.1D(a)(3). The Department shall retain
+authority to inspect, investigate, review, require corrective action, modify,
+suspend, revoke, rescind, invalidate, or otherwise enforce any permit,
+Page 32 Session Law 2026-59 Senate Bill 445
+
+approval, authorization, engineered option permit, or capacity determination
+as authorized by law.
+(4) Previously issued permits and authorizations. – Any Department of Health
+and Human Services permit as described under G.S. 143-215.1D(a)(3) that is
+relied upon for purposes of establishing combined permitted capacity in
+accordance with Article 21 of Chapter 143 of the General Statutes shall remain
+subject to review by the Department of Health and Human Services. The
+Department may require submission of records, engineering analyses,
+operational data, monitoring results, maintenance records, and other
+information reasonably necessary to verify compliance and available capacity.
+(5) Condition of capacity recognition. – Capacity authorized under this Article
+shall not be credited toward combined permitted capacity unless the
+Department determines that the permit or authorization remains valid and that
+the system is operating in substantial compliance with applicable permit
+conditions, operational requirements, and public health protections."
+SECTION 29.(c) The memorandum of agreement between the Department of
+Environmental Quality and Department of Health and Human Services required under subsection
+(g) of G.S. 143-215.1D, as enacted by subsection (a) of this section, shall be executed no later
+than October 31, 2026.
+SECTION 29.(d) This section is effective October 31, 2026.
+GUARANTEED ENERGY SAVINGS CONTRACTS – REFORM AND
+RECODIFICATION
+SECTION 30.(a) Article 3B of Chapter 143 of the General Statutes is amended by
+adding a new Part 3 to be entitled "Guaranteed Energy Savings Contracts."
+SECTION 30.(b) The following provisions are recodified in Part 3 of Article 3B of
+Chapter 143 of the General Statutes, as created by subsection (a) of this section, as set forth in
+the table below:
+Former Citation Recodified Citation
+G.S. 143-64.17B G.S. 143-64.18B
+G.S. 143-64.17D G.S. 143-64.18D
+G.S. 143-64.17E G.S. 143-64.18E
+G.S. 143-64.17F G.S. 143-64.18F
+G.S. 143-64.17G G.S. 143-64.18J
+G.S. 143-64.17H G.S. 143-64.18K
+SECTION 30.(c) Part 3 of Article 3B of Chapter 143 of the General Statutes, as
+created by subsection (a) of this section, as amended by subsection (b) of this section, reads as
+rewritten:
+"Part 3. Guaranteed Energy Savings Contracts.
+"§ 143-64.18A. Solicitation of guaranteed energy savings contracts.
+(a) RFQ Issuance. – Before entering into a guaranteed energy savings contract, a
+governmental unit shall issue a request for qualifications. Notice of the request shall be published
+at least 15 days in advance of the closing date for receipt of qualifications on a State-maintained
+electronic procurement portal accessible to the public and, in the case of a local governmental
+unit, in at least one newspaper of general circulation in the geographic area for which the local
+governmental unit is responsible or on the unit's publicly accessible website.
+(b) Minimum Content of RFQ. – The request for qualifications shall include, at a
+minimum, each of the following:
+(1) The name and address of the governmental unit and a contact person.
+(2) A general description of the facilities and scope of energy conservation
+measures being considered.
+Senate Bill 445 Session Law 2026-59 Page 33
+
+(3) The evaluation criteria and relative criteria weighting to be applied in the
+selection process.
+(4) The closing date and time for receipt of qualifications.
+(5) A statement reserving the right of the governmental unit to reject any or all
+responses.
+(c) Criteria for Selection of Provider. – The governmental unit shall select the qualified
+provider that it determines to best meet the needs of the governmental unit by evaluating all of
+the following and following the procedures set forth in this section:
+(1) Demonstrated competence of the qualified provider.
+(2) The qualified provider's past performance on energy savings projects.
+(3) For State governmental units, the inclusion of a provision in a guaranteed
+energy savings contract that requires the annual measurement and verification
+review to be conducted by an impartial third party whose compensation is
+included in the total cost of the proposed contract.
+(4) Any other criteria stated in the request for qualifications.
+(d) Initial Evaluation; Shortlist. – The governmental unit shall evaluate responses to the
+request for qualifications and develop a shortlist of the most highly qualified respondents based
+on the criteria set forth in subsection (c) of this section. If only one response is received from a
+qualified provider, the governmental unit may proceed with the evaluation and selection of that
+provider without resolicitation, provided that the governmental unit makes a written
+determination that resolicitation is unlikely to increase competition. The determination shall state
+the basis for that conclusion and shall be included in the public award file. For State governmental
+units, if only one response is received, the State Energy Office shall concur in the determination
+before the governmental unit may select the qualified provider.
+(e) Ranking; Selection. – A qualified reviewer shall review the shortlisted respondents'
+qualifications and provide the governmental unit with a written evaluation addressing, at a
+minimum, any material concerns regarding the respondents' ability to perform. The governmental
+unit shall then rank the shortlisted respondents, select the highest-ranked qualified provider, and
+negotiate the terms of a guaranteed energy savings contract. If negotiations with the
+highest-ranked provider are unsuccessful, the governmental unit may proceed to the next-ranked
+provider.
+(f) Investment Grade Audit. – Prior to entering into a guaranteed energy savings contract
+under this section, the qualified provider selected by the governmental unit shall conduct an
+investment grade audit that includes a life cycle cost analysis of each energy conservation
+measure in the final proposal.
+(g) Qualified Reviewer; Final Evaluation. – Prior to a State governmental unit's award of
+a guaranteed energy savings contract under this section, the qualified reviewer shall review the
+qualified provider's final proposal and the terms of the negotiated contract and shall provide the
+governmental unit with a written evaluation addressing whether the negotiated scope is
+materially consistent with the qualifications and approach presented in the RFQ response,
+whether the savings methodology remains technically sound, and whether any changes
+introduced during the negotiation materially affect the projected savings or risk profile.
+(h) State Energy Office Review. – The State Energy Office shall review the qualified
+provider's proposal, cost-benefit analysis, and other relevant documents prior to the governmental
+unit entering a guaranteed energy savings contract. For State governmental units, the State
+Energy Office shall complete its review within 10 business days of receiving the proposal. The
+State Energy Office shall advise the governmental unit on the suitability of the proposed
+guaranteed energy savings contract. However, if the State Energy Office identifies in the proposal
+any instances of noncompliance with the requirements of this Article, the State Energy Office
+shall notify the governmental unit of such noncompliance. A governmental unit may not enter
+Page 34 Session Law 2026-59 Senate Bill 445
+
+into the proposed guaranteed energy savings contract until the State Energy Office has
+determined the proposal to be in compliance with this Article.
+(i) Governmental Unit Authority Preserved. – Nothing in this section shall limit the
+authority of the governmental unit as set forth in Article 3D of this Chapter.
+"§ 143-64.18B. Guaranteed energy savings contracts.
+(a) A governmental unit may enter into a guaranteed energy savings contract with a
+qualified provider if all of the following apply:
+(1) The term of the contract does not exceed 20 years from the date of the
+installation and acceptance by the governmental unit of the energy
+conservation measures provided for under the contract.
+(2) The governmental unit finds that the energy savings resulting from the
+performance of the contract will equal or exceed the total cost of the contract.
+(3) The energy conservation measures to be installed under the contract are for an
+existing building or utility system, or utility consuming device or equipment
+when the utility cost is paid by the governmental unit.
+(b) Before entering into a guaranteed energy savings contract, the governmental unit shall
+provide published notice of the time and place or of the meeting at which it proposes to award
+the contract, the names of the parties to the proposed contract, and the contract's purpose. The
+notice must be published at least 15 days before the date of the proposed award or meeting.
+(c) A qualified provider entering into a guaranteed energy savings contract under this
+Part shall provide security to the governmental unit in the form acceptable to the Office of the
+State Treasurer and in an amount equal to one hundred percent (100%) of the guaranteed savings
+for the term of the guaranteed energy savings contract to assure the provider's faithful
+performance. Any bonds required by this subsection shall be subject to the provisions of Article
+3 of Chapter 44A of the General Statutes. If the savings resulting from a guaranteed energy
+savings contract are not as great as projected under the contract and all required shortfall
+payments to the governmental unit have not been made, the governmental unit may terminate the
+contract without incurring any additional obligation to the qualified provider.
+(d) As used in this section, "total cost" shall include, but not be limited to, costs of
+construction, costs of financing, and costs of maintenance and training during the term of the
+contract less the application of the utility company, State, or federal incentives, grants, or rebates.
+rebates, or capital funding. "Total cost" does not include any obligations on termination of the
+contract before its expiration, provided that those obligations are disclosed when the contract is
+executed.
+(e) A guaranteed energy savings contract may not require the governmental unit to
+purchase a maintenance contract or other maintenance agreement from the qualified provider
+who installs energy conservation measures under the contract if the unit of government takes
+appropriate action to budget for its own forces or another provider to maintain new systems
+installed and existing systems affected by the guaranteed energy savings contract.
+(f) In the case of a State governmental unit, a qualified provider shall, when feasible,
+after the acceptance of the proposal of the qualified provider by the State governmental unit,
+conduct an investment grade audit. During this investment grade audit, the qualified provider
+shall perform in accordance with Part 1 of this Article a life cycle cost analysis of each energy
+conservation measure in the final proposal. If the results of the audit are not within ten percent
+(10%) of both the guaranteed savings contained in the proposal and the total proposal amount,
+either the State governmental unit or the qualified provider may terminate the project without
+incurring any additional obligation to the other party. However, if the State governmental unit
+terminates the project after the audit is conducted and the results of the audit are within ten
+percent (10%) of both the guaranteed savings contained in the proposal and the total proposal
+amount, the State governmental unit shall reimburse the qualified provider the reasonable cost
+Senate Bill 445 Session Law 2026-59 Page 35
+
+incurred in conducting the audit, and the results of the audit shall become the property of the
+State governmental unit.
+(g) A qualified provider shall provide an annual reconciliation statement based upon the
+results of the measurement and verification review. The statement shall disclose any shortfalls or
+surplus between guaranteed energy and operational savings specified in the guaranteed energy
+savings contract and actual, not stipulated, energy and operational savings incurred during a
+given guarantee year. Any guaranteed energy and operational savings shall be determined by
+using one of the measurement and verification methodologies listed in the United States
+Department of Energy's Measurement and Verification Guidelines for Energy Savings
+Performance Contracting, the International Performance Measurement and Verification Protocol
+(IPMVP) maintained by the Efficiency Valuation Organization, or Guideline 14-2002 of the
+American Society of Heating, Refrigerating, and Air-Conditioning Engineers. If due to existing
+data limitations or the nonconformance of specific project characteristics, none of the three
+methodologies listed in this subsection is sufficient for measuring guaranteed savings, the
+qualified provider shall develop an alternate method that is compatible with one of the three
+methodologies and mutually agreeable to the governmental unit. The guarantee year shall consist
+of a 12-month term commencing from the time that the energy conservation measures become
+fully operational. A qualified provider shall pay the governmental unit or its assignee any
+shortfall in the guaranteed energy and operational savings after the total year savings have been
+determined. In the case of a governmental unit, a surplus in any one year shall not be carried
+forward or applied to a shortfall in any other year.
+…."
+GUARANTEED ENERGY SAVINGS CONTRACTS – CONFORMING CHANGES
+SECTION 31.(a) The following statutes are amended by deleting the language "Part
+2 of Article 3B" wherever it appears and substituting "Part 3 of Article 3B": G.S. 115C-47,
+115D-20, 133-4.1, 143-129.4, and 143-135.37.
+SECTION 31.(b) G.S. 160A-20 is amended by deleting the language "Part 2 of
+Article 3B" wherever it appears and substituting "Article 3B."
+SECTION 31.(c) G.S. 143-64.12 is amended by deleting the language "Part 2 of this
+Article" wherever it appears and substituting "Part 3 of this Article."
+SECTION 31.(d) The following statutes are amended by deleting the language
+"G.S. 143-64.17A" wherever it appears and substituting "G.S. 143-64.18A": G.S. 142-61 and
+G.S. 142-63.
+SECTION 31.(e) G.S. 159-151 is amended by deleting the language
+"G.S. 143-64.17A(a1)" wherever it appears and substituting "G.S. 143-64.18A(a1)."
+SECTION 31.(f) G.S. 143-64.17K is amended by deleting the language
+"G.S. 143-64.17A(c1)" wherever it appears and substituting "G.S. 143-64.18A(c1)."
+SECTION 31.(g) G.S. 142-63 is amended by deleting the language
+"G.S. 143-64.17B" wherever it appears and substituting "G.S. 143-64.18B."
+SECTION 31.(h) G.S. 143-64.17L is amended by deleting the language
+"G.S. 143-64.17B(d)" wherever it appears and substituting "G.S. 143-64.18B(d)."
+SECTION 32.(a) G.S. 143-64.17 reads as rewritten:
+"Part 2. Energy Saving Measures for Governmental Units.
+"§ 143-64.17. Definitions.
+As used in this Part:Part and Part 3 of this Article:
+…
+(6) "Request for proposals" means a negotiated procurement initiated by a
+governmental unit by way of a published notice that includes the following:
+a. The name and address of the governmental unit.
+Page 36 Session Law 2026-59 Senate Bill 445
+
+b. The name, address, title, and telephone number of a contact person in
+the governmental unit.
+c. Notice indicating that the governmental unit is requesting qualified
+providers to propose energy conservation measures through a
+guaranteed energy savings contract.
+d. The date, time, and place where proposals must be received.
+e. The evaluation criteria for assessing the proposals.
+f. A statement reserving the right of the governmental unit to reject any
+or all the proposals.
+g. Any other stipulations and clarifications the governmental unit may
+require.
+(7) "State governmental unit" means the State or a department, an agency, a
+board, or a commission of the State, including the Board of Governors of The
+University of North Carolina and its constituent institutions."
+SECTION 32.(b) G.S. 143-64.17A is repealed.
+SECTION 32.(c) The following statutes are amended by deleting the word "Part"
+wherever it appears and substituting the word "Article": G.S. 143-64.17I, 143-64.17J,
+143-64.17K, and 143-64.17L.
+SECTION 33. The Department of Environmental Quality shall adopt temporary
+rules to implement Sections 30 through 32 of this act and shall adopt permanent rules to replace
+the temporary rules. Temporary rules adopted in accordance with this section shall remain in
+effect until permanent rules that replace the temporary rules become effective.
+MINING PERMIT MODIFICATIONS
+SECTION 34.(a) G.S. 74-49 reads as rewritten:
+"§ 74-49. Definitions.
+Wherever used or referred to in this Article, unless a different meaning clearly appears from
+the context:
+…
+(7) "Mining" means any of the following: (i) the breaking of the surface soil in
+order to facilitate or accomplish the extraction or removal of minerals, ores,
+or other solid matter; (ii) any activity or process constituting all or part of a
+process for the extraction or removal of minerals, ores, soils, and other solid
+matter from their original location; or (iii) the preparation, washing, cleaning,
+or other treatment of minerals, ores, or other solid matter so as to make them
+suitable for commercial, industrial, or construction use.
+"Mining" does not include:
+…
+h. Activities undertaken at any time within the mine permit boundaries
+for the production and harvesting of timber and timber products and
+conducted in accordance with standards defined by the Forest Practice
+Guidelines Related to Water Quality, as adopted by the Department of
+Agriculture and Consumer Services. This exemption shall not,
+however, apply to any undisturbed property.
+…."
+SECTION 34.(b) G.S. 74-50 reads as rewritten:
+"§ 74-50. Permits – General.
+…
+(b2) The notice shall inform the owners of record and chief administrative officers of the
+opportunity to submit written comments to the Department regarding the proposed new or
+modified mining operation that adds land to the permitted area and the opportunity to request a
+Senate Bill 445 Session Law 2026-59 Page 37
+
+public hearing regarding the proposed new or modified mining operation. Requests for public
+hearing shall be made within 30 days of issuance of the notice.notice or receipt of the application
+by the Department, whichever is later.
+…
+(c) No permit shall become effective until the operator has deposited with the Department
+an acceptable performance bond or other security pursuant to G.S. 74-54.
+(1) If at any time the bond or other security, or any part thereof, shall lapse for
+any reason other than a release by the Department, excluding cancellation of
+the bond by the surety, and the lapsed bond or security is not replaced by the
+operator within 30 days after notice of the lapse, the permit to which the lapsed
+bond or security pertains shall be automatically revoked.
+(2) If the Department is noticed of pending cancellation of a bond by the surety
+pursuant to G.S. 74-54(a) and the bond is not replaced within 45 days of the
+Department's receipt of the notice, the permit to which the bond or security
+pertains shall be automatically revoked.
+…
+(e) Public comment periods and time frames for conducting public hearings as
+established by this Article shall not be extended nor altered by the Department. When the
+Department holds a public hearing pursuant to G.S. 74-51(c), the 60-day technical review period
+established in G.S. 74-51(b1) shall not conclude until either 30 days following the public hearing
+or the original 60-day technical review period, whichever is later."
+SECTION 34.(c) G.S. 74-51 reads as rewritten:
+"§ 74-51. Permits – Application, granting, conditions.
+…
+(b) Before deciding whether to grant a new permit, the Department shall circulate copies
+of a notice of application for review and comment as it deems advisable. The Department shall
+grant or deny the permit requested as expeditiously as possible, but in no event later than 60 days
+after the application form and any relevant and material supplemental information reasonably
+required shall have been filed with the Department, or if a public hearing is held, within 30 days
+following the hearing and the filing of any relevant and material supplemental information
+reasonably required by the Department. possible. Priority consideration shall be given to
+applicants who submit evidence that the mining proposed will be for the purpose of supplying
+materials to the Board of Transportation. In accordance with G.S. 143B-279.18, except to the
+extent required by federal or State law, the Department shall not refuse to accept an application
+for, nor refuse to issue, a new, modified, or transferred mining permit based solely on the failure
+of an applicant to obtain another permit, authorization, or certification required for the same
+project. For purposes of this section, failure to obtain a permit, authorization, or certification shall
+not include denial of the permit, authorization, or certification by the Department based on the
+standards for approval of the permit, authorization, or certification provided by law.
+(b1) The Department shall act on a permit application as quickly as possible. The
+Department may conduct any inquiry or investigation it considers necessary before acting on an
+application and may require an applicant to submit plans, specifications, and other information
+the Department considers necessary to evaluate the application. If the Department fails to act on
+an application for a new, modified, or transferred mining permit as specified in this subsection
+after the applicant submits all information required by the Department, the application shall be
+deemed approved without modification. The following provisions apply:
+(1) The Department shall perform an administrative review of an application and
+of a resubmittal of an application determined to be incomplete under
+subdivision (3) of this subsection within 10 working days of receipt to
+determine if the information is administratively complete. If complete, the
+Department shall issue a receipt letter or electronic response stating that the
+Page 38 Session Law 2026-59 Senate Bill 445
+
+application is complete and that a 60-calendar day technical review period has
+started as of the original date the application was received. If required items
+or information is not included, the application shall be deemed incomplete,
+and the Department shall issue an application receipt letter or electronic
+response identifying the information required to complete the application
+package before the technical review begins. When the required information is
+received, the Department shall then issue a receipt letter or electronic response
+specifying that it is complete and that the 60-calendar day technical review
+period has started as of the date of receipt of all required information. The
+Department shall develop an application package checklist identifying the
+items and information required for an application to be considered
+administratively complete.
+(2) If, during the 60-calendar day technical review period, the Department
+determines that the application meets the standards for issuance of a new,
+modified, or transferred mining permit, it shall approve the application.
+(3) If, during the 60-calendar day technical review period, the Department
+determines that additional information is required to continue processing the
+application, the Department and the applicant shall comply with the following:
+a. The Department shall issue a letter or electronic response with a list of
+the additional information required to issue the permit.
+b. The applicant shall have up to 180 calendar days from the date the
+letter or electronic response is sent to submit the additional
+information to the Department.
+c. If the applicant is unable to provide the required information within
+the time frame specified in sub-subdivision b. of this subdivision, the
+applicant may request, with good cause, that a one-year extension be
+granted by the Department; if the one-year extension granted by the
+Department is insufficient, the applicant may then request another
+one-year extension granted by the Mining Commission.
+d. If the applicant fails to provide the required information within 180
+calendar days or within any extensions granted by the Department and
+Commission pursuant to sub-subdivision c. of this subdivision, the
+Department shall return the application to the applicant, the
+application is deemed denied, and the applicant must resubmit a
+complete application with a new application fee before the project may
+be reviewed.
+e. Upon receipt of the required information from the applicant, the
+Department shall have 45 calendar days to complete the subsequent
+technical review and issue the permit, issue the permit with
+modifications, deny the permit, or issue a letter or electronic response
+with a list of additional information required to continue processing
+the application, and the review process will proceed in accordance
+with sub-subdivision b. or c. of this subdivision, as applicable.
+f. After issuing a letter or electronic response requesting additional
+information under this subdivision, the Department shall not
+subsequently request additional information that was not previously
+identified as missing or required in that additional information letter
+or electronic response. The Department may, however, request
+additional information if required for the technical review based on
+any new information, changed circumstances, or changed designs
+Senate Bill 445 Session Law 2026-59 Page 39
+
+provided by the applicant in a response provided pursuant to
+sub-subdivision b. or c. of this subdivision, as applicable.
+g. Where the Department identifies information that should have been
+requested, the Department may address this information by including
+conditions in or modifications to the permit upon issuance but shall
+not deny the permit because of the missing information. This
+prohibition on permit denial shall not apply where an application was
+deemed denied under sub-subdivision d. of this subdivision.
+…
+(d) The Department may deny the permit upon finding:
+…
+(7) That the applicant or any parent, subsidiary, or other affiliate of the applicant
+or parent has not been in substantial compliance with this Article, rules
+adopted under this Article, or other laws or rules of this State for the protection
+of the environment or has not corrected all violations that the applicant or any
+parent, subsidiary, or other affiliate of the applicant or parent may have
+committed under this Article or rules adopted under this Article and that
+resulted in:
+a. Revocation of a permit,
+b. Forfeiture of part or all of a bond or other security,
+c. Conviction of a misdemeanor under G.S. 74-64,
+d. Any other court order issued under G.S. 74-64, or
+e. Final assessment of a civil penalty under G.S. 74-64, [or]
+f. Failure to pay the application processing fee required under
+G.S. 74-54.1.
+(8) That the applicant failed to pay the application processing fee required by
+G.S. 74-54.1 within 30 days of receipt of the application by the Department.
+…
+(h) Upon approval of an application, the Department shall set the amount of the
+performance bond or other security that is to be required pursuant to G.S. 74-54. The operator
+shall have 60 days after the Department mails a notice of the required bond to the operator in
+which to deposit the required bond or security with the Department. Department or the permit
+application will be automatically denied. The operating permit shall not be issued until receipt of
+this deposit.
+…."
+SECTION 34.(d) This section becomes effective October 1, 2026, and applies to
+permit applications filed on or after that date.
+EXEMPT CERTAIN COMPOST FACILITIES FROM FINANCIAL ASSURANCE
+REQUIREMENTS
+SECTION 35.(a) G.S. 130A-295.2 is amended by adding a new subsection to read:
+"(k) An owner or operator of a permitted Small or Large Type 1 or Type 2 compost facility
+shall be exempt from financial assurance requirements under this section."
+SECTION 35.(b) This section becomes effective December 1, 2026.
+ALIGN STATUTORY REFERENCE WITH PRESIDENTIAL EXECUTIVE ORDER
+14172
+SECTION 36. G.S. 143-215.94BB(7) reads as rewritten:
+"(7) "Offshore waters" shall include both the territorial sea extending seaward
+from the coastline of North Carolina or any other coastal state bordering the
+Atlantic Ocean, including the Gulf of Mexico, Gulf of America, and the
+Page 40 Session Law 2026-59 Senate Bill 445
+
+exclusive economic zone extending seaward from the territorial sea of each
+such state."
+MOVE ARBOR WEEK FROM MARCH TO NOVEMBER
+SECTION 37. G.S. 103-6 reads as rewritten:
+"§ 103-6. Arbor Week.
+The week in March November of each year containing March November 15 is hereby
+designated as Arbor Week in North Carolina."
+ON-SITE WASTEWATER PRODUCTS FOR STORMWATER
+SECTION 39. The Department of Environmental Quality shall approve for use as a
+new stormwater technology any prefabricated permeable block panel system approved for use in
+the State, as defined in G.S. 130A-343(a)(6a). In developing Minimum Design Criteria for this
+technology, the Department shall ensure that the MDC follows the manufacturer's installation
+and service requirements as closely as possible while still complying with federal requirements.
+When utilized in traffic-rated areas, a person licensed as a professional engineer pursuant to
+Chapter 89C of the General Statutes may use the approved prefabricated permeable block panel
+system upon a showing that the system meets H-20 structural loading requirements. For the
+purposes of this section, "traffic-rated areas" does not include Department of Transportation rated
+areas but does include driveways and private parking areas with impervious or pervious
+pavement areas.
+H162 TECHNICAL CORRECTION
+SECTION 40. Section 2 of S.L. 2026-39 is repealed.
+PART IV. LAND USE AND HOUSING AFFORDABILITY REFORMS
+SITE-SPECIFIC VESTING PLAN CHANGES
+SECTION 41.(a) G.S. 160D-108.1 reads as rewritten:
+"§ 160D-108.1. Vested rights – site-specific vesting plans.
+…
+(c) Approval and Amendment of Plans. – If a site-specific vesting plan is based on an
+approval required by a local development regulation, the local government shall provide
+whatever notice and hearing is required for that underlying approval. A duration of the underlying
+approval that is less than two five years does not affect the duration of the site-specific vesting
+plan established under this section. If the site-specific vesting plan is not based on such an
+approval, an approval required by a development regulation, a legislative hearing with notice as
+required by G.S. 160D-602 shall be held.
+A local government may approve a site-specific vesting plan upon any terms and conditions
+that may reasonably be necessary to protect the public health, safety, and welfare. Conditional
+approval results in a vested right, although failure to abide by the terms and conditions of the
+approval will result in a forfeiture of vested rights. A local government shall not require a
+landowner to waive the landowner's vested rights as a condition of developmental approval. A
+site-specific vesting plan is deemed approved upon the effective date of the local government's
+decision approving the plan or another date determined by the governing board upon approval.
+An approved site-specific vesting plan and its conditions may be amended with the approval of
+the owner and the local government as follows: any substantial modification must be reviewed
+and approved in the same manner as the original approval; minor modifications may be approved
+by staff, if such the modifications are defined and authorized by local regulation.
+…
+(e) Duration and Termination of Vested Right. –
+Senate Bill 445 Session Law 2026-59 Page 41
+
+(1) A vested right for a site-specific vesting plan remains vested for a period of
+two five years. This vesting shall not be extended by any amendments or
+modifications to a site-specific vesting plan unless expressly provided by the
+local government.
+(2) Notwithstanding the provisions of subdivision (1) of this subsection, a local
+government may provide for rights to be vested for a period exceeding two
+five years but not exceeding five eight years where warranted in light of all
+relevant circumstances, including, but not limited to, the size and phasing of
+development, the level of investment, the need for the development, economic
+cycles, and market conditions or other considerations. These determinations
+are in the sound discretion of the local government and shall be made
+following the process specified for the particular form of a site-specific
+vesting plan involved in accordance with subsection (a) of this section.
+(3) Upon issuance of a building permit, the provisions of G.S. 160D-1111 and
+G.S. 160D-1115 apply, except that a permit does not expire and shall not be
+revoked because of the running of time while a vested right under this section
+is outstanding.
+(4) A right vested as provided in this section terminates at the end of the
+applicable vesting period with respect to buildings and uses for which no valid
+building permit applications have been filed.
+(f) Subsequent Changes Prohibited; Exceptions. –
+(1) A vested right, once established as provided for in this section, precludes any
+zoning action development regulation by a local government which would
+change, alter, impair, prevent, diminish, or otherwise delay the development
+or use of the property as set forth in an approved site-specific vesting plan,
+except under one or more of the following conditions:
+a. With the written consent of the affected landowner.
+b. Upon findings, by ordinance after notice and an evidentiary hearing,
+that natural or man-made hazards on or in the immediate vicinity of
+the property, if uncorrected, would pose a serious threat to the public
+health, safety, and welfare if the project were to proceed as
+contemplated in the site-specific vesting plan.
+c. To the extent that the affected landowner receives compensation for
+all costs, expenses, and other losses incurred by the landowner,
+including, but not limited to, all fees paid in consideration of financing,
+and all architectural, planning, marketing, legal, and other consulting
+fees incurred after approval by the local government, together with
+interest as provided under G.S. 160D-106. Compensation shall not
+include any diminution in the value of the property which is caused by
+the action.
+d. Upon findings, by ordinance after notice and an evidentiary hearing,
+that the landowner or the landowner's representative intentionally
+supplied inaccurate information or made material misrepresentations
+that made a difference in the approval by the local government of the
+site-specific vesting plan or the phased development plan.
+e. Upon the enactment or promulgation of a As required by State or
+federal law or regulation that precludes development as contemplated
+in the site-specific vesting plan or the phased development plan, in
+which case the local government may modify the affected provisions,
+upon a finding that the change in State or federal law has a
+Page 42 Session Law 2026-59 Senate Bill 445
+
+fundamental effect on the plan, by ordinance after notice and an
+evidentiary hearing.
+(2) The establishment of a vested right under this section does not preclude
+precludes the application of overlay zoning or other development regulations
+which impose additional requirements but do not affect the allowable type or
+intensity of use, or ordinances or regulations which are general in nature and
+are applicable to all property subject to development regulation by a local
+government, including, but not limited to, building, fire, plumbing, electrical,
+and mechanical codes. Otherwise applicable new development regulations
+become effective with respect to property which is subject to a site-specific
+vesting plan upon the expiration or termination of the vesting rights period
+provided for in this section.
+(3) Notwithstanding any provision of this section, the establishment of a vested
+right does not preclude, change, or impair the authority of a local government
+to adopt and enforce development regulations governing nonconforming
+situations or uses.nonconformities.
+…."
+SECTION 41.(b) This section is effective when it becomes law and applies to permit
+applications filed and appeals filed on or after that date.
+TOLL DISCONTINUANCE PERIOD FOR VESTED RIGHTS DURING EMERGENCY
+DECLARATIONS
+SECTION 42. G.S. 160D-108 reads as rewritten:
+"§ 160D-108. Permit choice and vested rights.
+…
+(d) Duration of Vesting. – Upon issuance of a development permit, the statutory vesting
+granted by subsection (c) of this section for a development project is effective upon filing of the
+application in accordance with G.S. 143-755, for so long as the permit remains valid pursuant to
+law. Unless otherwise specified by this section or other statute, local development permits expire
+one year after issuance unless work authorized by the permit has substantially commenced. A
+local land development regulation may provide for a longer permit expiration period. For the
+purposes of this section, a permit is issued either in the ordinary course of business of the
+applicable governmental agency or by the applicable governmental agency as a court directive.
+Except where a longer vesting period is provided by statute or land development regulation,
+the statutory vesting granted by this section, once established, expires for an uncompleted
+development project if development work is intentionally and voluntarily discontinued for a
+period of not less than 24 consecutive months, and the statutory vesting period granted by this
+section for a nonconforming use of property expires if the use is intentionally and voluntarily
+discontinued for a period of not less than 24 consecutive months. The 24-month discontinuance
+period is automatically tolled during the any of the following:
+(1) The pendency of any board of adjustment proceeding or civil action in a State
+or federal trial or appellate court regarding the validity of a development
+permit, the use of the property, or the existence of the statutory vesting period
+granted by this section.
+(2) The 24-month discontinuance period is also tolled during the The pendency
+of any litigation involving the development project or property that is the
+subject of the vesting.
+(3) The duration of any emergency declaration issued under G.S. 166A-19.20 or
+G.S. 166A-19.22 for which the defined emergency area includes the property,
+in whole or in part.
+…."
+Senate Bill 445 Session Law 2026-59 Page 43
+
+RESIDENTIAL RIGHT OF USE IN COMMERCIAL ZONING DISTRICTS
+SECTION 43. Article 7 of Chapter 160D of the General Statutes is amended by
+adding a new section to read:
+"§ 160D-703.1. Residential right of use in commercial districts.
+(a) Residential Right of Use in Commercial Districts. – A local government zoning
+regulation shall allow all of the following as a use by right on property undergoing
+redevelopment, except for properties that are on or adjacent to sites with known contamination
+that have not been remediated, in all areas zoned for nonagricultural commercial, business, or
+light industrial use:
+(1) The siting of buildings and structures subject to the North Carolina Residential
+Code.
+(2) The siting of multifamily housing structures with more than four residential
+dwelling units.
+(3) Buildings and structures containing both residential dwelling units and
+nonresidential uses, provided that only the residential component of any such
+building or structure is a use by right, regardless of whether the nonresidential
+component requires a permit, special use authorization, or other approval.
+(b) Limitation on Height Restrictions. – A zoning regulation under subsection (a) of this
+section shall not establish a maximum building height of less than 60 feet.
+(c) Definitions. – For purposes of this section, "redevelopment" means the demolition
+and reconstruction of, or rehabilitation and improvement of, an existing structure or structures
+on a parcel, or the clearing and new construction on a parcel that contains or previously contained
+an impervious surface, building, or other structure associated with a prior use. Redevelopment
+does not include the construction of a new primary structure on a vacant parcel that has never
+been developed.
+(d) Applicability. – This section applies only to cities with a population of 80,000 or
+greater that are located in counties with a population of 1,000,000 or greater according to the
+most recent federal decennial census."
+ALLOW CONSTRUCTION AND SITING OF ACCESSORY DWELLING UNITS
+SECTION 44.(a) Part 1 of Article 9 of Chapter 160D of the General Statutes is
+amended by adding a new section to read:
+"§ 160D-917. Accessory dwelling units.
+(a) A local government shall allow the development of at least one accessory dwelling
+unit which conforms to the North Carolina Residential Code, including applicable provisions
+from fire prevention codes, for each single-family detached dwelling in areas zoned for
+residential use that allow for development of single-family detached dwellings. An accessory
+dwelling unit may be built or sited concurrently or after the primary single-family detached
+dwelling has been constructed or sited. Nothing in this section shall prohibit a local government
+from permitting accessory dwelling units in any area not otherwise required under this section.
+(b) In permitting accessory dwelling units under this section, a local government shall
+not do any of the following:
+(1) Prohibit the use of the primary single-family detached dwelling and the
+accessory dwelling for long-term rentals by separate households.
+(2) Require placement in a conditional zoning district.
+(3) Establish minimum parking requirements or other parking restrictions,
+including imposition of additional parking requirements where an existing
+structure is converted for use as an accessory dwelling unit.
+(4) Prohibit the connection of the accessory dwelling unit to existing utilities
+systems serving the primary single-family detached dwelling, provided the
+Page 44 Session Law 2026-59 Senate Bill 445
+
+utility service to that primary single-family detached dwelling has capacity to
+serve both dwellings.
+(5) Charge any fees in excess of those charged for the permitting of a
+single-family detached dwelling similar in nature.
+(6) Set a maximum accessory dwelling unit size of less than 800 square feet or
+greater than 1,000 square feet.
+(c) A local government may do any of the following:
+(1) Impose a setback minimum for accessory dwelling units of 10 feet or the
+setback minimum imposed generally upon lots in the same zoning
+classification, whichever is less.
+(2) Require that accessory dwelling units be located to the side or rear of the
+primary single-family detached dwelling.
+(3) Require that accessory dwelling units be smaller than the primary
+single-family detached dwelling.
+(d) Except as otherwise provided in this section, a local government may regulate
+accessory dwelling units pursuant to this Chapter and nothing in this section shall be construed
+to impair the authority of a local government to adopt and enforce ordinances pursuant to Part 2
+of this Article to comply with State and federal law, rules, and regulations, or permits consistent
+with the interpretations and directions of the State or federal agency issuing the permit.
+(e) Nothing in this section shall apply to any of the following:
+(1) The validity or enforceability of private covenants or other contractual
+agreements among property owners related to dwelling type restrictions.
+(2) Properties located in a historic preservation district established pursuant to
+Part 4 of this Article.
+(3) Properties designated as a National Historic Landmark by the United States
+Department of the Interior.
+(4) An accessory dwelling unit that is not connected to water, well and septic, and
+sewer.
+(f) After an accessory dwelling unit has been permitted for construction on a parcel, the
+parcel may not be further subdivided such that the accessory dwelling unit would be located on
+a different parcel than the primary single-family detached dwelling.
+(g) For the purposes of this section, the term "accessory dwelling unit" means an attached
+or detached residential structure that is used in connection with, or that is an accessory to, a
+primary single-family detached dwelling located on the same parcel as the primary single-family
+detached dwelling and that has less total square footage than the primary single-family detached
+dwelling.
+(h) This section applies only to cities with a population of 50,000 or greater, that are not
+in the coastal area, as that term is defined in G.S. 113A-103."
+SECTION 44.(b) A local government that has enacted an ordinance that meets the
+requirements of this section and G.S. 160D-917, as enacted by this section, is not required to
+adopt a new ordinance.
+SECTION 44.(c) Local governments shall adopt development regulations to
+implement the provisions in this section no later than July 1, 2027. If a local government fails to
+adopt development regulations as required by this section by July 1, 2027, accessory dwelling
+units shall be allowed in that local government without any limitations.
+SECTION 44.(d) Subsection (a) of this section becomes effective January 15, 2027,
+and applies to applications for accessory dwelling unit permits on or after that date. The
+remainder of this section is effective when it becomes law.
+IMPLEMENTATION OF CODE CHANGES FOR USE OF CERTAIN INSULATION IN
+WALLS
+Senate Bill 445 Session Law 2026-59 Page 45
+
+SECTION 45.(a) Definitions. – As used in this section, "Code" means the current
+North Carolina State Building Code collection, and amendments to the Code, as adopted by the
+Council. For purposes of this section and its implementation, "R402 Rules" means provisions
+and tables within Section 402, Building Thermal Envelope, North Carolina – Residential
+Provisions, of the North Carolina Energy Conservation Code. As used in this section, "Council"
+means the Building Code Council and the Residential Code Council.
+SECTION 45.(b) R402 Rules Amendment. – Until the effective date of the rules to
+amend the Code that the Council is required to adopt pursuant to subsection (d) of this section,
+the Council and local governments enforcing the Code shall follow the provisions of subsection
+(c) of this section as it relates to the R402 Rules within the North Carolina Energy Conservation
+Code.
+SECTION 45.(c) Implementation. – Where Table R402.1.2, Insulation and
+Fenestration Requirements by Component, within the R402 Rules, require wood frame wall
+R-values, installing air-impermeable spray foam insulation as cavity insulation, which meets
+R-13 in climate zones 3 and 4, and R-15 insulation in climate zone 5, without installation of
+additional continuous insulation, shall be deemed to satisfy the R-value requirements for the
+wood frame wall in the appropriate climate zone, provided that the building envelope obtains an
+ACH50 blower door test result of less than or equal to 3.0.
+SECTION 45.(d) Additional Rulemaking Authority. – The Council shall adopt rules
+to amend the R402 Rules to be consistent with subsection (c) of this section. Notwithstanding
+G.S. 150B-19(4), the rule adopted by the Council pursuant to this section shall be substantively
+identical to the provisions of subsection (c) of this section. Rules adopted pursuant to this section
+are not subject to Part 3 of Article 2A of Chapter 150B of the General Statutes. Rules adopted
+pursuant to this section shall become effective as provided in G.S. 150B-21.3(b1), as though 10
+or more written objections had been received as provided in G.S. 150B-21.3(b2).
+SECTION 45.(e) Sunset. – This section expires when permanent rules adopted as
+required by subsection (d) of this section become effective.
+AMEND ENERGY RATING INDEX COMPLIANCE ALTERNATIVE
+SECTION 46.(a) Definitions. – As used in this section, "Code" means the current
+North Carolina State Building Code collection, and amendments to the Code, as adopted by the
+Council. For purposes of this section and its implementation, "R406 Rules" means provisions
+and tables within Section 406, Energy Rating Index Compliance Alternative, North Carolina –
+Residential Provisions, of the North Carolina Energy Conservation Code. As used in this section,
+"Council" means the Building Code Council and the Residential Code Council.
+SECTION 46.(b) R406 Rules Amendment. – Until the effective date of the rules to
+amend the Code that the Council is required to adopt pursuant to subsection (d) of this section,
+the Council and local governments enforcing the Code shall follow the provisions of subsection
+(c) of this section as it relates to the R406 Rules within the North Carolina Energy Conservation
+Code.
+SECTION 46.(c) Implementation. – There shall be no requirement that the building
+thermal envelope meets or exceeds the levels of efficiency and Solar Heat Gain Coefficients in
+Tables R406.2.1 and R406.2.2, which shall be deleted from the R406 Rules. The minimum
+standards associated with compliance shall be the ANSI RESNET ICC Standard 301-2022
+"Standard for the Calculation and Labeling of the Energy Performance Index of Dwelling and
+Sleeping Units using an Energy Rating Index."
+SECTION 46.(d) Additional Rulemaking Authority. – The Council shall adopt rules
+to amend the R406 Rules to be consistent with subsection (c) of this section. Notwithstanding
+G.S. 150B-19(4), the rule adopted by the Council pursuant to this section shall be substantively
+identical to the provisions of subsection (c) of this section. Rules adopted pursuant to this section
+are not subject to Part 3 of Article 2A of Chapter 150B of the General Statutes. Rules adopted
+Page 46 Session Law 2026-59 Senate Bill 445
+
+pursuant to this section shall become effective as provided in G.S. 150B-21.3(b1), as though 10
+or more written objections had been received as provided in G.S. 150B-21.3(b2).
+SECTION 46.(e) Sunset. – This section expires when permanent rules adopted as
+required by subsection (d) of this section become effective.
+PLUMBING LICENSE EXEMPTION FOR CERTAIN WATER AND SEWER LINE
+CONNECTIONS SERVING MOBILE HOMES
+SECTION 47.(a) G.S. 87-21 is amended by adding a new subsection to read:
+"(c3) Exemptions. – The provisions of this Article shall not apply to:
+(1) A person who installs or connects a sanitary sewer line serving a manufactured
+home, as defined in G.S. 143-143.9(6), if all of the following conditions are
+met:
+a. The sewer line is 3 or 4 inches in diameter and does not exceed 10
+linear feet in length.
+b. The sewer line connects the manufactured home to an existing septic
+tank, an existing building sewer, or another existing wastewater
+system connection point that has been approved by the local health
+department or other authority having jurisdiction.
+c. The work does not include the design, installation, repair, relocation,
+expansion, replacement, or alteration of the septic tank, drainfield,
+distribution box, pump tank, or any other component of the wastewater
+system.
+d. The work is performed using materials and installation methods that
+comply with the North Carolina State Building Code, the North
+Carolina Regulations for Manufactured Homes adopted by the State
+Fire Marshal, and Article 11 of Chapter 130A of the General Statutes
+and rules adopted under the authority of that Article.
+e. The work remains subject to all required permits and inspections, and
+the sewer line is not covered, backfilled, or otherwise concealed until
+it has been inspected and approved by the authority having
+jurisdiction.
+(2) A person who installs or connects a water line serving a manufactured home,
+as defined in G.S. 143-143.9(6), that does not exceed 100 linear feet between
+an existing water meter and point of connection at the manufactured home, if
+all of the following conditions are met:
+a. The water line connects the manufactured home to an existing water
+line that has been approved by the local health department or other
+authority having jurisdiction.
+b. The work does not include the design, installation, repair, relocation,
+expansion, replacement, or alteration of an existing water line.
+c. The work is performed using materials and installation methods that
+comply with the North Carolina State Building Code, the North
+Carolina Regulations for Manufactured Homes adopted by the State
+Fire Marshal, and Article 10 of Chapter 130A of the General Statutes
+and rules adopted under the authority of that Article.
+d. The work remains subject to all required permits and inspections, and
+the water line is not covered, backfilled, or otherwise concealed until
+it has been inspected and approved by the authority having
+jurisdiction."
+SECTION 47.(b) This section is effective when it becomes law and applies to work
+occurring on or after that date.
+Senate Bill 445 Session Law 2026-59 Page 47
+
+AT-RISK BUILDING CHANGES
+SECTION 48. G.S. 160D-1110.1 reads as rewritten:
+"§ 160D-1110.1. Commercial and multifamily building permits for applications with sealed
+plans; third-party plan review alternatives; at-risk building foundation permits;
+at-risk building structure permits.
+(a) Applicability. – This section applies to commercial and multifamily development
+project building permit applications that have plans and specifications that are complete and
+sealed for construction, as applicable, by a professional engineer licensed under Chapter 89C of
+the General Statutes or an architect licensed under Chapter 83A of the General Statutes.
+…
+(h) At-Risk Building Permit Options. – At-risk building permit options are available to
+an eligible building permit applicant that requested and attended a pre-submittal meeting in
+accordance with subsection (b) of this section to discuss a building project prior to permit
+application. An eligible permit applicant proceeding with an at-risk permit issued by a local
+government pursuant to this subsection assumes all risks of liability, and the local government is
+discharged and released from any liabilities, duties, and responsibilities attributable to the review,
+approval, or construction pursuant to that at-risk permit. In accordance with G.S. 160D-108(e),
+where multiple local development permits are required to complete a development project, a
+permit issued by a local government pursuant to this subsection is not an initial development
+permit for purposes of the vesting protections of G.S. 160D-108(e). The following at-risk
+building permit options are available:
+(1) At-risk building foundation permit. – At the time of permit application, an
+eligible building permit applicant may request an at-risk building foundation
+permit authorizing a permit applicant to proceed with building foundation
+construction. construction and any associated trade permit necessary to
+support the authorized foundation construction. A local government must
+issue an at-risk building foundation permit and any associated trade permit
+necessary for the authorized scope of work if a local government determines
+a permit applicant has submitted all necessary plans and sufficient
+information, as discussed at a pre-submittal meeting pursuant to subsection
+(b) of this section, and received all approvals necessary, for building
+foundation construction and associated trade permit work, notwithstanding
+that other development approvals from the local government, or other State or
+federal agencies, for the project have not yet been obtained. For the purposes
+of this subdivision, a permit applicant must have received an approved erosion
+and sedimentation control plan in accordance with Article 4 of Chapter 113A
+of the General Statutes for land-disturbing activity at a building foundation
+construction site.
+…."
+PROMOTE FEE TRANSPARENCY AND PREDICTABILITY FOR APPLICANTS
+PRIOR TO LOCAL GOVERNMENT DEVELOPMENT PERMIT APPROVAL OR
+ISSUANCE
+SECTION 49.(a) G.S. 160D-102 is amended by adding three new subdivisions to
+read:
+"(16a) Fee estimate. – A statement projecting all fees that may reasonably be assessed
+in the fee statement for the applicant's project, including assumptions applied
+to the category or purpose of the fees to be charged.
+(16b) Fee schedule. – A statement of all current fees that may be collected by a local
+government for the administration and enforcement of provisions set forth in
+Page 48 Session Law 2026-59 Senate Bill 445
+
+this Chapter and Article 8 of Chapter 162A of the General Statutes and impact
+fees, facility fees, and other fees authorized by local act, applicable to each
+project category and purpose, including the data and methodologies used to
+calculate the fee rates.
+(16c) Fee statement. – An itemized statement of any fees applicable to the
+applicant's particular project pursuant to this Chapter."
+SECTION 49.(b) Article 4 of Chapter 160D of the General Statutes is amended by
+adding a new section to read:
+"§ 160D-402.1. Development fee transparency.
+(a) Fee Schedule Publication. – Each local government shall prominently display on the
+local government's official website the local government's current fee schedules. The local
+government shall update the website to reflect any changes to fees, rates, or methodologies used
+to develop fees and rates within 30 days of the adoption of any ordinance amending the fees,
+rates, or methodologies. Each local government shall submit an annual report of its fee schedule,
+fee collections, and compliance with this section to the Local Government Commission.
+(b) Local Government Commission Report. – The Local Government Commission shall
+publish and prominently display on the Commission's website a statewide report of local
+governments' current fee schedules.
+(c) Required Disclosure. – Each local government shall provide to the applicant prior to
+a development approval the current fee schedule and a fee estimate. The local government shall
+deliver information required under this subsection to the applicant within 10 business days after
+submission of a completed application. If the project materially changes after the local
+government has delivered the fee estimate, the local government shall provide a revised estimate
+within 10 business days of receiving the updated project information. The local government shall
+not require payment of any fees specified in subsection (a) of this section before the local
+government provides the estimate.
+(d) Final Fee Statement. – Each local government shall provide to the applicant, in
+writing, a final, binding fee statement of exact fees due when a development approval is issued
+on the application. The final fee amount may not exceed the most recent estimate provided under
+subsection (c) of this section, unless the local government adopts a new fee schedule by
+ordinance.
+(e) Enforcement. – An applicant may commence a civil action in superior court of the
+county in which the applicant's project is located to compel the local government to comply with
+the requirements of this section. Nothing in this section shall limit any remedy otherwise
+available under Article 14 of this Chapter."
+SECTION 49.(c) Nothing in this section shall be construed to limit or otherwise
+affect the power or authority of a local government to impose fees consistent with its statutory
+authority or constitutional requirements. This section shall not be construed to require the
+disclosure of confidential information under G.S. 132-1.2.
+RESIDENTIAL CODE COUNCIL TEMPORARY RULEMAKING AUTHORITY
+SECTION 50.(a) G.S. 150B-21.1(a) is amended by adding a new subdivision to
+read:
+"(18) The need for the Residential Code Council to adopt rules amending the 2018
+and 2024 North Carolina Residential Code, if the temporary rule is adopted
+on or after the date the Residential Code Council becomes fully constituted in
+accordance with the membership requirements of G.S. 143-136.1, as provided
+in Section 5.12(b)(2) of S.L. 2025-2."
+SECTION 50.(b) This section is effective when it becomes law and expires two
+years after the date the Residential Code Council becomes fully constituted in accordance with
+the membership requirements of G.S. 143-136.1.
+Senate Bill 445 Session Law 2026-59 Page 49
+
+EXPAND ALTERNATE INSPECTION METHOD FOR COMPONENTS OR
+ELEMENTS TO INCLUDE HOME POWER INSTALLATIONS
+SECTION 51.(a) G.S. 160D-1106 reads as rewritten:
+"§ 160D-1106. Alternate inspection method for component or element.components,
+elements, or home power installations.
+(a) Notwithstanding the requirements of this Article, a local government shall accept and
+approve, without further responsibility to inspect, a design or other proposal for a component or
+element component, element, or home power installation in the construction of buildings from
+an architect licensed under Chapter 83A of the General Statutes or professional engineer licensed
+under Chapter 89C of the General Statutes provided all of the following apply:
+(1) When required by the North Carolina State Building Code, the submission
+design or other proposal is completed under valid seal of the licensed architect
+or licensed professional engineer.
+(2) Field inspection of the installation or completion of a component or element
+of the component, element, or home power installation within or connected to
+a building is performed by a licensed architect or licensed professional
+engineer or a person under the direct supervisory control of the licensed
+architect or licensed professional engineer.
+(3) The licensed architect or licensed professional engineer under subdivision (2)
+of this subsection provides the local government with a signed written
+document certifying that the component or element of the component,
+element, or home power installation within or connected to a building
+inspected under subdivision (2) of this subsection is in compliance with the
+North Carolina State Building Code. The certification required under this
+subdivision shall be provided by electronic or physical delivery, [and] and its
+receipt shall be promptly acknowledged by the local government through
+reciprocal means. The certification shall be made on forms created by the
+Building Code Council and Residential Code Council responsible Code
+Council which shall include at least the following:
+a. Permit number.
+b. Date of field inspection.
+c. Type of field inspection.
+d. Contractor's name and license number.
+e. Street address of the job location.
+f. Name, address, and telephone number of the person responsible for
+the field inspection.
+g. A description of the component, element, or home power installation
+covered by the certification.
+(a1) In accepting certifications of inspections under subsection (a) of this section, a local
+government shall not require information other than that specified in this section.
+(b) Upon the acceptance and approval receipt of a signed written document by the local
+government as required under subsection (a) of this section, notwithstanding the issuance of a
+certificate of occupancy, the local government, its inspection department, and the inspectors are
+discharged and released from any liabilities, duties, and responsibilities imposed by this Article
+with respect to or in common law from any claim arising out of or attributed to the component
+or element component, element, or home power installation in the construction of the building
+for which the signed written document was submitted.
+(c) With the exception of the requirements contained in subsection (a) of this section, no
+further certification by a licensed architect or licensed professional engineer is required for any
+component or element component, element, or home power installation designed and sealed by
+Page 50 Session Law 2026-59 Senate Bill 445
+
+a licensed architect or licensed professional engineer for the manufacturer of the component or
+element component, element, or home power installation under the North Carolina State Building
+Code.
+(d) As used in this section, the following definitions apply:
+(1) Component. – Any assembly, subassembly, or combination of elements
+designed to be combined with other components to form part of a building or
+structure. Examples of a component include an excavated footing trench
+containing no concrete, a foundation, and a prepared underslab with
+slab-related materials without concrete. The term does not include a system.
+(2) Element. – A combination of products designed to be combined with other
+elements to form all or part of a building component. The term does not
+include a system.
+(3) Home power installation. – An electric generating or energy storage system,
+standby system, or associated equipment, connected at 600 volts or less,
+intended to provide electrical power to a building or structure subject to the
+North Carolina Residential Code that requires a building permit or other
+approval.
+(4) Responsible Code Council. – Either the Building Code Council or Residential
+Code Council in accordance with Article 9 of Chapter 143 of the General
+Statutes."
+SECTION 51.(b) G.S. 143-143.2 reads as rewritten:
+"§ 143-143.2. Electric wiring of houses, buildings, and structures.
+(a) The electric wiring of houses or buildings for lighting or for other purposes shall
+conform to the requirements of the North Carolina State Building Code and any other applicable
+State and local laws.
+(b) In order to protect the property of citizens from the dangers incident to defective
+electric wiring of buildings, it shall be unlawful for any firm or corporation to allow any electric
+current for use in any newly erected building to be turned on without first having had an
+inspection made of the wiring by the appropriate official electrical inspector or inspection
+department and having received from that inspector or department a certificate approving the
+wiring of such building. It shall be unlawful for any person, firm, or corporation engaged in the
+business of selling electricity to furnish initially any electric current for use in any building,
+unless said building shall have first been inspected by the appropriate official electrical inspector
+or inspection department and a certificate given as required by this subsection.
+(c) In the event that there is no legally appointed inspector or inspection department with
+jurisdiction over the property involved, subsections (a) and (b) of this section shall have no force
+or effect.
+(c1) For the purposes of subsection (b) of this section, an inspection made of the wiring of
+a "home power installation," as defined in G.S. 160D-1106(d), may be conducted in accordance
+with G.S. 160D-1106.
+(d) As used in this section, "building" includes any structure."
+SECTION 51.(c) By July 1, 2027, the Residential Code Council shall develop a
+home power installation work certification as required by G.S. 160D-1106, as amended by
+subsection (a) of this section, and make it available on the Office of the State Fire Marshal's
+website.
+SECTION 51.(d) The Residential Code Council may adopt or amend rules to
+implement provisions enacted by this section, to become effective July 1, 2027.
+SECTION 51.(e) Subsections (a) and (b) of this section become effective July 1,
+2027. The remainder of this section is effective when it becomes law.
+Senate Bill 445 Session Law 2026-59 Page 51
+
+AUTHORITY FOR LANDLORDS OF MOBILE HOME PARKS SITED PRIOR TO 1989
+TO BILL TENANTS FOR MASTER-METERED WATER SERVICE
+SECTION 52. G.S. 62-110(g) reads as rewritten:
+"(g) In addition to the authority to issue a certificate of public convenience and necessity
+and establish rates otherwise granted in this Chapter, for the purpose of encouraging water
+conservation, the Commission may, consistent with the public interest, adopt procedures that
+allow (i) a lessor of any leased residential premises, as that term is defined under G.S. 42-59(3),
+to charge for the costs of providing water or sewer service to persons who occupy the leased
+premises, (ii) an owners' association, as that term is defined under G.S. 47F-1-103(3), to charge
+for the costs of providing water or sewer service to persons who occupy townhomes within a
+planned community, as that term is defined under G.S. 47F-1-103(23), and (iii) a unit owners'
+association, as that term is defined under G.S. 47C-1-103(3), to charge for the costs of providing
+water or sewer service to persons who occupy a condominium, as that term is defined under
+G.S. 47C-1-103(7). For purposes of this subsection, the term "townhome" means a single-family
+dwelling unit constructed in a group of three or more attached units. The following provisions
+shall apply:
+…
+(1a) If the leased premises are contiguous dwelling units built prior to 1989, or a
+mobile home located within a mobile home park sited prior to 1989, and the
+lessor determines that the measurement of the lessee's total water usage is
+impractical or not economical, the lessor may allocate the cost for water and
+sewer service to the lessee using equipment that measures the lessee's hot
+water usage. In that case, each lessee shall be billed a percentage of the lessor's
+water and sewer costs for water usage in the dwelling units based upon the hot
+water used in the lessee's dwelling unit. The percentage of total water usage
+allocated for each dwelling unit shall be equal to that dwelling unit's
+individually submetered hot water usage divided by all submetered hot water
+usage in all dwelling units. The following conditions apply to billing for water
+and sewer service under this subdivision:
+a. A lessor shall not utilize a ratio utility billing system or other allocation
+billing system that does not rely on individually submetered hot water
+usage to determine the allocation of water and sewer costs.
+b. The lessor shall not include in a lessee's bill the cost of water and sewer
+service used in common areas or water loss due to leaks in the lessor's
+water mains. A lessor shall not bill or attempt to collect for excess
+water usage resulting from a plumbing malfunction or other condition
+that is not known to the lessee or that has been reported to the lessor.
+c. All equipment used to measure water usage shall comply with
+guidelines promulgated by the American Water Works Association.
+d. The lessor shall maintain records for a minimum of 12 months that
+demonstrate how each lessee's allocated costs were calculated for
+water and sewer service. Upon advanced written notice to the lessor, a
+lessee may inspect the records during reasonable business hours.
+e. Bills for water and sewer service sent by the lessor to the lessee shall
+contain all the following information:
+1. The amount of water and sewer services allocated to the lessee
+during the billing period.
+2. The method used to determine the amount of water and sewer
+services allocated to the lessee.
+3. Beginning and ending dates for the billing period.
+Page 52 Session Law 2026-59 Senate Bill 445
+
+4. The past-due date, which shall not be less than 25 days after
+the bill is mailed.
+5. A local or toll-free telephone number and address that the
+lessee can use to obtain more information about the bill.
+…."
+PART V. SEVERABILITY AND EFFECTIVE DATE
+SECTION 53.(a) If any provision of this act or its application is held invalid, the
+invalidity does not affect other provisions or applications of this act that can be given effect
+without the invalid provisions or application and, to this end, the provisions of this act are
+severable.
+SECTION 53.(b) Except as otherwise provided, this act is effective when it becomes
+law.
+In the General Assembly read three times and ratified this the 6th day of August, 2026.
+s/ Rachel Hunt
+President of the Senate
+s/ Mike Schietzelt
+Presiding Officer of the House of Representatives
+s/ Josh Stein
+Governor
+Approved 8:03 a.m. this 11th day of August, 2026
+Senate Bill 445 Session Law 2026-59 Page 53

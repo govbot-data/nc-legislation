@@ -1,0 +1,2527 @@
+Title: 
+Official Title: 
+Source: versions - SL 2026-61
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+GENERAL ASSEMBLY OF NORTH CAROLINA
+SESSION 2025
+SESSION LAW 2026-61
+HOUSE BILL 268
+AN ACT TO MAKE ADDITIONAL TECHNICAL, CLARIFYING, AND OTHER CHANGES
+TO THE CURRENT OPERATIONS APPROPRIATIONS ACT OF 2026 AND TO OTHER
+ACTS.
+The General Assembly of North Carolina enacts:
+PART I. GENERAL PROVISIONS
+APPLICABILITY TO S.L. 2026-42
+SECTION 1.1. For purposes of this act, references to S.L. 2026-41 and the
+Committee Report in Section 45.2 of that act include, where appropriate, any relevant
+amendments contained in S.L. 2026-42.
+STABILIZATION AND INFLATION RESERVE/TECHNICAL CORRECTION FOR
+CERTAIN TRANSFERS
+SECTION 1.2. Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, funds transferred under Section 2.2(f)
+of S.L. 2026-41 from the Stabilization and Inflation Reserve, as established in Section 2.2(q) of
+S.L. 2022-74, for the 2026-2027 fiscal year are adjusted as follows:
+(1) The transfer to the Office of the State Auditor (Budget Code: 13300) is
+reduced by the sum of five hundred thousand dollars ($500,000).
+(2) The transfer to the State Board of Elections (Budget Code: 18025) is increased
+by the sum of five hundred thousand dollars ($500,000).
+CLARIFY DIRECTED GRANT DISBURSEMENT THRESHOLDS
+SECTION 1.3. Section 5.2(b)(2) of S.L. 2026-41 reads as rewritten:
+"(2) Directed grants shall be distributed as follows:
+a. A directed grant of one hundred thousand dollars ($100,000) or less
+may be disbursed as a single lump sum in the discretion of the Director
+of the Budget.
+b. A directed grant of more than one hundred thousand dollars
+($100,000) but less than and one million dollars ($1,000,000) or less
+shall be disbursed in monthly or quarterly installments in the discretion
+of the Director of the Budget.
+c. A directed grant of more than one million dollars ($1,000,000) shall
+be disbursed in installments of twenty-five percent (25%), with the
+initial installment disbursed up front and each subsequent installment
+disbursed only after the non-State entity has expended the funds
+previously disbursed.
+A State agency administering a directed grant shall make the first distribution
+of funds to a non-State entity that has met all applicable requirements
+*H268-v-4*
+
+necessary to receive that distribution as soon as practicable, but no later than
+100 days after the date this act becomes law."
+CLARIFY STATE BUDGET ACT BUDGET ADJUSTMENT AUTHORIZATION
+SECTION 1.4. G.S. 143C-6-4(b2), as amended by S.L. 2026-41, reads as rewritten:
+"(b2) Subsection (b) of this section shall not be construed to authorize either of the
+following:
+(1) Budget adjustments that cause General Fund expenditures, excluding
+expenditures from General Fund receipts, to exceed General Fund
+appropriations for a department.
+(2) Budget adjustments using that use prior year earned revenue revenue, other
+than those adjustments necessary to accomplish either of the following:
+a. revert Revert the funds pursuant to G.S. 143C-1-2(b).
+b. Offset federal overdraws occurring in June that are required to be
+repaid during the next month."
+REPEAL CLAREMONT BUILDING HEIGHT LIMITATION
+SECTION 1.5. Section 10 of S.L. 2026-25 is repealed.
+KERNERSVILLE ETJ
+SECTION 1.6.(a) Section 4 of S.L. 2026-22 is repealed.
+SECTION 1.6.(b) Notwithstanding G.S. 160D-202 or any other provision of law,
+the Town of Kernersville shall not exercise any powers of extraterritorial jurisdiction as provided
+in Article 2 of Chapter 160D of the General Statutes or its predecessor, Article 19 of Chapter
+160A of the General Statutes, over the territory identified by Forsyth County Parcel Identification
+Number 6896-04-9921.
+SECTION 1.6.(c) The relinquishment of jurisdiction by the Town of Kernersville
+over the area identified in subsection (b) of this section shall become effective on the date this
+act becomes law. Notwithstanding G.S. 160D-202(h), the property described in this section is
+subject to the planning and development regulation jurisdiction, including the zoning authority,
+of Forsyth County.
+LOCAL GOVERNMENT COMMISSION BOARD TECHNICAL CORRECTIONS
+SECTION 1.7.(a) G.S. 159-3(a), as amended by Section 5.10(b) of S.L. 2026-41,
+reads as rewritten:
+"(a) Membership. – The Local Government Commission consists of nine
+members.members as follows:
+(1) The State Treasurer, who shall serve as an ex officio voting member and as
+chairman for the duration of their term in office.
+(2) the The State Auditor, who shall serve as an ex officio voting member for the
+duration of their term in office.
+(3) and theThe Secretary of Revenue each serve ex officio; the remaining six
+members are appointed to four-year terms as follows: onewho shall serve as
+an ex officio voting member for the duration of their term in office.
+(4) A voting member appointed by the Governor, subject to confirmation by the
+General Assembly by joint resolution, who shall be or have been the mayor or
+a member of the governing board of a city, for a term of four years.
+(5) two Two voting members appointed by the General Assembly upon the
+recommendation of the President Pro Tempore in accordance with
+G.S. 120-121,G.S.120-121, each for a term of four years.
+Page 2 Session Law 2026-61 House Bill 268
+
+(6) two Two voting members appointed by the General Assembly upon the
+recommendation of the Speaker of the House in accordance with
+G.S. 120-121, G.S.120-121, each for a term of four years.
+(7) and oneOne voting member appointed by the State Treasurer. The member
+appointed by the Governor shall be or have been the mayor or a member of
+the governing board of a city and oneTreasurer, subject to confirmation by the
+General Assembly by joint resolution, who shall be or have been a member of
+a county board of commissioners. The State Treasurer is chairman ex officio
+of the Local Government Commission.commissioners, for a term of four
+years.
+Membership on the Commission is an office that may be held concurrently with one other
+office, as permitted by G.S. 128-1.1."
+SECTION 1.7.(b) G.S. 159-4(a) reads as rewritten:
+"(a) The State Auditor, the State Treasurer, the Secretary of State, and the Secretary of
+Revenue shall constitute the executive committee of the Local Government Commission. The
+executive committee is vested with all the powers of the Commission when it is not in session,
+except that the executive committee may not overrule, reverse, or disregard any action of the full
+Commission. Action of the executive committee shall be taken by resolution adopted by a
+majority of those present and voting. Any All three members of the executive committee
+constitute a quorum. The chairman may call meetings of the executive committee at any time."
+SECTION 1.7.(c) Section 5.10 of S.L. 2026-41 reads as rewritten:
+"…
+"SECTION 5.10.(b1) Staggering. – Notwithstanding G.S. 159-3, as amended by this
+section, the current members of the Local Government Commission (Commission) excluding ex
+officio members, shall each finish their current respective terms on the Commission. Prior to the
+expiration or termination of each member's current term, the new member for that seat shall be
+appointed pursuant to G.S. 159-3, as amended by this section. If a vacancy occurs before the
+expiration of a member's current term, the vacancy shall be filled pursuant to G.S. 159-3, as
+amended by this section. The newly created seats shall be filled in the following manner: for one
+upon recommendation by the President Pro Tempore of the Senate, one upon recommendation
+by the Speaker of the House of Representatives, and one appointment by the State Treasurer
+Treasurer. shall be filled within 30 days of this section becoming law as described below. The
+three newly created seats that become eligible for appointment after this section becomes law
+shall be appointed for four-year terms in the following order:
+(1) The first seat which becomes available seat held by the Secretary of State ex
+officio on the date this section becomes law shall be filled by the
+recommendation of the President Pro Tempore of the Senate.appointed by the
+General Assembly upon the recommendation of the President Pro Tempore of
+the Senate. The General Assembly upon the recommendation of the President
+Pro Tempore shall appoint to fill any vacancy occurring in this seat prior to
+June 30, 2029, and thereafter.
+(2) The second seat which becomes available shall be filled by the
+recommendation of the Speaker of the House of Representatives.The term of
+the member appointed by the Governor serving as a current or former member
+of the governing board of a city shall continue until June 30, 2029. After this
+date, the appointment to this seat remains with the Governor. The Governor
+shall appoint to any vacancy occurring in this seat prior to June 30, 2029, and
+thereafter.
+(3) The third seat which becomes available shall be filled by the appointment by
+the State Treasurer.The term of the member appointed by the Governor
+serving as an at-large member shall continue until June 30, 2029. After this
+House Bill 268 Session Law 2026-61 Page 3
+
+date, the appointment to this seat shall be made by the General Assembly upon
+the recommendation of the Speaker of the House of Representatives.
+Notwithstanding this provision, if the seat becomes vacant prior to June 30,
+2029, the Speaker shall make an appointment to the seat to fill any partial term
+and shall appoint to the seat thereafter.
+(4) The term of the member appointed by the Governor serving as a current or
+former member of a county board of commissioners shall continue until June
+30, 2029. After this date, the appointment to this seat shall be made by the
+State Treasurer. Notwithstanding this provision, if the seat becomes vacant
+prior to June 30, 2029, the State Treasurer shall make an appointment to the
+seat to fill any partial term and shall appoint to the seat thereafter.
+(5) The term of the member appointed by the General Assembly upon the
+recommendation of the President Pro Tempore of the Senate serving as an
+at-large member shall continue until June 30, 2029. After this date, the
+appointment to this seat remains with the President Pro Tempore. The General
+Assembly upon the recommendation of the President Pro Tempore shall
+appoint to fill any vacancy occurring in this seat prior to June 30, 2029, and
+thereafter.
+(6) The term of the member appointed by the General Assembly upon the
+recommendation of the Speaker of the House of Representatives serving as an
+at-large member shall continue until June 30, 2029. After this date, the
+appointment to this seat remains with the Speaker. The General Assembly
+upon the recommendation of the Speaker shall appoint to fill any vacancy
+occurring in this seat prior to June 30, 2029, and thereafter.
+"SECTION 5.10.(b2) The Local Government Commission shall may adopt temporary rules
+rules, as necessary, to implement the provisions of subsections (b) and (b1) of this section and
+shall adopt permanent rules to replace the any temporary rules. Those temporary rules shall
+remain in effect until permanent rules that replace those rules becomes become effective.
+…."
+EDPNC BOARD APPOINTMENT AUTHORITY
+SECTION 1.8. G.S. 143B-431.01(d)(2)a. reads as rewritten:
+"a. The board shall be composed of 18 voting members as follows: the
+Secretary of Commerce, as an ex officio member, four members and
+the chair appointed by the Governor, two members appointed by the
+State Treasurer, two members appointed by the Commissioner of
+Labor, four members appointed by the Speaker of the House of
+Representatives, and four members appointed by the President Pro
+Tempore of the Senate. The Governor, the State Treasurer, the
+Commissioner of Labor, the Speaker of the House of Representatives,
+and the President Pro Tempore of the Senate shall each use best efforts
+to select members so as to reflect the diversity of the State's geography.
+The Speaker of the House and the President Pro Tempore shall each
+select their appointed members so that one-fourth come from a
+development tier one area, one-fourth come from a development tier
+two area, and no two members come from the same Collaboration for
+Prosperity Zone. The State Treasurer and the Commissioner of Labor
+shall each select their appointed members so that one-half come from
+a development tier one area and one-half come from a development
+tier two area. at least one of each of their respective choices comes
+from a development tier one or tier two area. The Governor shall select
+Page 4 Session Law 2026-61 House Bill 268
+
+appointed members so that at least one member comes from a
+development tier one area, at least one member comes from a
+development tier two area, and no more than two members come from
+the same Collaboration for Prosperity Zone. The Governor, the State
+Treasurer, and the Commissioner of Labor shall use best efforts to
+ensure that each member appointed by their respective offices has
+expertise in one or more of the following areas:
+1. Agribusiness, as recommended by the Commissioner of
+Agriculture.
+2. Financial services.
+3. Information technology.
+4. Biotechnology or life sciences.
+5. Energy.
+6. Manufacturing.
+7. Military or defense.
+8. Tourism, as recommended by the North Carolina Travel and
+Tourism Coalition.
+9. Tourism, as recommended by the North Carolina Travel
+Industry Association."
+PART II. DISASTER RELIEF
+DIVISION OF COMMUNITY REVITALIZATION CASHFLOW NEEDS AND
+DIRECTED GRANT MODIFICATIONS FOR HURRICANE HELENE
+SECTION 2.1.(a) Section 5A.2(d) of S.L. 2026-41 reads as rewritten:
+"SECTION 5A.2.(d) Allocations. – The funds appropriated in Section 2.2(j) of this act to
+the Helene Fund shall be allocated, totaling seven hundred six million one hundred twenty-eight
+thousand five hundred thirty-nine dollars ($706,128,539) in nonrecurring funds for the
+2026-2027 fiscal year, as follows:
+(1) Five hundred fifteen million dollars ($515,000,000) to NCEM as follows:
+a. Four hundred fifty million dollars ($450,000,000) to provide the
+nonfederal share for federal disaster recovery programs for Hurricane
+Helene. Up to twenty million dollars ($20,000,000) of these funds may
+be used by DCR for cashflow needs for Community Development
+Block Grant – Disaster Recovery-Related programs, including the
+Temporary Relocation Assistance Program, established in Section
+5A.7 of this act; provided that any nonfederal share needs be
+prioritized over this use. At the conclusion of the Temporary
+Relocation Assistance Program, all funds in this subdivision shall be
+used for the nonfederal share for federal disaster recovery programs
+for Hurricane Helene.
+…
+(2) Ninety-nine million six hundred thousand dollars ($99,600,000) to OSBM as
+follows:
+…
+b. Twenty-seven million dollars ($27,000,000) for a directed grant to
+Madison County for purposes consistent with the Local Government
+Capital Grant Program. These funds do not preclude Madison County
+from applying separately to the Program and do not count toward its
+respective caps or maximums awarded from the Program.
+House Bill 268 Session Law 2026-61 Page 5
+
+c. Five million dollars ($5,000,000) for a directed grant to the Veterans
+Restoration Quarters of Asheville Buncombe Community Christian
+Ministry to cover the cost of facility repairs and reconstruction
+expenses not covered by FEMA Public Assistance.
+d. Two million six hundred thousand dollars ($2,600,000) to disburse
+grants to long-term recovery groups in counties in the affected area
+that were designated, in whole or in part, by the United States
+Department of Housing and Urban Development as the most impacted
+and distressed counties from Hurricane Helene. Each county shall
+receive any equal portion of these funds, respectively. These funds
+shall only be used for direct assistance activities in the counties
+identified in this sub-subdivision, and no funds shall be expended for
+staffing or administrative services."
+SECTION 2.1.(b) The grants allocated by the Office of State Budget and
+Management to Madison County and the Veterans Restoration Quarters of Asheville Buncombe
+Community Christian Ministry under Section 5A.2(d)(2)b. and c. of S.L. 2026-41, as amended
+by this section, are exempt from the requirements of Section 5.2(b)(2) of S.L. 2026-41.
+EXPAND ALLOWABLE USES FOR DISASTER RECOVERY MATCH FUNDS
+SECTION 2.2.(a) Section 5.9(d) of S.L. 2021-180, as amended by Section 1.4 of
+S.L. 2021-189, reads as rewritten:
+"SECTION 5.9.(d) Establishment of the State Match Fund. – There is established the State
+Match Fund (Fund) in the Department of Public Safety, Division of Emergency Management
+(Division). Any funds appropriated to the Fund shall remain available for expenditure as provided
+in this section unless directed otherwise by the General Assembly. The Division shall use the
+funds in the Fund for the State's share of costs associated with FEMA disaster response,
+preparedness, and recovery programs. The Division may also use the funds in the Fund to repay
+costs associated with federal deobligations."
+SECTION 2.2.(b) Section 4.1 of S.L. 2024-51 is amended by adding a new
+subsection to read:
+"SECTION 4.1.(d) Allowable Use of Match Funds. – To the extent that State funds are
+appropriated to the Helene Fund to provide the State match or nonfederal share for federal
+disaster assistance programs, those funds may also be used to repay costs associated with federal
+deobligations."
+SECTION 2.2.(c) Any State funds appropriated to provide the State match or
+nonfederal share for federal disaster assistance programs, other than the funds identified in
+subsections (a) and (b) of this section, may also be used to repay costs associated with federal
+deobligations.
+AMEND DISASTER RECOVERY BUDGET FUND
+SECTION 2.3. Notwithstanding S.L. 2026-41 or the Committee Report described in
+Section 45.2 of that act to the contrary, the Committee Report shall be revised to change the
+Budget Fund listed in Item 111 on Page E44 from 206657 to 206664.
+MODIFICATION TO PREVIOUS 2022 DISASTER RECOVERY ALLOCATION
+SECTION 2.4. Effective the date this act becomes law, any funds remaining under
+the allocation pursuant to Section 5.4(a)(3)c. of S.L. 2022-74 may be used by Star Telephone
+Membership Corporation to purchase equipment and acquire additional land for employee traffic.
+AMEND THE REVERSION DATE FOR THE AGRICULTURAL DISASTER CROP
+LOSS PROGRAM
+Page 6 Session Law 2026-61 House Bill 268
+
+SECTION 2.5. Section 5A.2(b) of S.L. 2026-41 reads as rewritten:
+"SECTION 5A.2.(b) Reallocation of Certain Funds; Maximum Amount; Determination
+Date. – On October 1, 2026, January 1, 2027, of the funds appropriated to the Department of
+Agriculture and Consumer Services for the Program established pursuant to Subpart II-D of S.L.
+2025-2, up to twenty million dollars ($20,000,000) of unencumbered funds shall be allocated to
+the North Carolina Forest Service for wildfire mitigation in the affected area. Any funds in excess
+of that amount shall revert to the State Emergency Response and Disaster Relief Fund and remain
+unappropriated."
+AMEND LIST OF ELIGIBLE DAMS UNDER DAM SAFETY GRANT PROGRAM
+SECTION 2.6. Section 5A.2(d)(4)a. of S.L. 2026-41 reads as rewritten:
+"a. Twenty million dollars ($20,000,000) for the Dam Safety Grant
+Program in accordance with G.S. 143-215.32B, as amended by
+Section 5A.4 of this act. Of these funds, the Department shall disburse
+grants to the following dams, identified by National Inventory of Dams
+Identification Number: NC04652, NC01862, NC03036, NC00311,
+NC06533, NC00373, NC08003, NC01404, NC00187, and NC00242.
+NC00242, NC01850, and NC00290. No project shall receive a grant
+in excess of four million dollars ($4,000,000). Funds remaining after
+the aforementioned disbursements shall be allocated in accordance
+with G.S. 143-215.32B, as amended by Section 5A.4 of this act. The
+Department shall report to the Joint Legislative Oversight Committee
+on Agriculture and Natural and Economic Resources and the Fiscal
+Research Division on any unmet needs from this disbursement of
+funds."
+SMALL BUSINESS INFRASTRUCTURE GRANT PROGRAM MODIFICATIONS
+SECTION 2.7.(a) Part II-F of S.L. 2025-2 is amended by adding a new subsection
+to read:
+"SECTION 2F.1.(c1) Certain Project Eligibility. – A qualifying infrastructure need for
+which permitting had been obtained, or for which construction had commenced, prior to
+Hurricane Helene shall be eligible for a grant under this section, provided the qualifying
+infrastructure need otherwise satisfies all program eligibility requirements. A grant awarded
+pursuant to this subsection shall be limited to the actual costs incurred to repair damage directly
+attributable to Hurricane Helene and shall not include cost increases or escalations unrelated to
+such storm damage. A grant awarded under this subsection may be used for qualifying
+infrastructure constructed by a private entity, provided the infrastructure is dedicated, conveyed,
+or otherwise transferred to a public entity upon completion."
+SECTION 2.7.(b) Prior Applications. – If the Department identifies prior closed or
+denied applications under the Program that would have qualified under Section 2F.1(c1) of S.L.
+2025-2, as amended by this section, then the Department shall reconsider those applications
+under the additional criteria consistent with this section.
+SECTION 2.7.(c) Reporting Requirement. – The reporting requirements under
+Section 2F.1(h) of S.L. 2025-2 apply to this section.
+SECTION 2.7.(d) Applicability. – This section is applicable to applications pending
+or submitted to the Department of Commerce for the Small Business Infrastructure Grant
+Program on the date this section becomes law.
+SECTION 2.7.(e) Effective Date. – This section is effective when it becomes law.
+GOLDEN LEAF – HURRICANE HELENE BRIDGE LOAN MODIFICATIONS
+House Bill 268 Session Law 2026-61 Page 7
+
+SECTION 2.8.(a) Section 4C.3 of S.L. 2024-53, as amended by Section 1.1 of S.L.
+2025-97, reads as rewritten:
+"…
+"SECTION 4C.3.(b) Definitions. – The following definitions apply in this section:
+…
+(2) Interest-only period. – A period of time, not to exceed 24 months 30 months
+from the date that a loan is awarded, within which a qualifying business may
+make interest-only payments on a loan.
+…
+"SECTION 4C.3.(c) Use of Funds. – The following shall apply to the program and to loans
+made under the program:
+…
+(6) Loans are made pursuant to an agreement with a qualifying business that
+includes at least the following:
+a. A provision requiring a qualifying business to certify in writing that it
+will use a loan provided under the program for purposes consistent
+with subdivision (1) of this subsection; provided, that neither Golden
+LEAF nor Golden LEAF's authorized lenders shall be required to
+verify the actual expenditures of borrowers under the program.
+b. A provision requiring a qualifying business to certify in writing the
+business's total estimated losses.
+c. A provision requiring the qualifying business to first repay the loan
+amount with any federal assistance, insurance proceeds, or other
+reimbursement received by the business that represents a duplication
+of benefits if such reimbursement would exceed the business's total
+estimated loss under sub-subdivision b. of this subdivision when added
+to the loan amount received by the business under this section;
+provided that, the repayment does not disqualify or impair the federal
+assistance available to the business.
+d. A provision requiring the loan is secured through a Uniform
+Commercial Code financing statement.
+e. A provision requiring recapture of loan funds if a business fails to
+comply with the requirements of the program. The lender shall
+recapture loan funds only if the lender determines there is a reasonable
+expectation that the recovery of funds will exceed the cost of
+recovery.recovery; provided, however, that no such determination
+shall be required in instances where the lender reasonably believes that
+loan funds were not used for purposes consistent with subdivision (1)
+of this subsection.
+…."
+SECTION 2.8.(b) This section is effective when it becomes law and applies (i)
+retroactively to loans made under the program and (ii) to suspected instances of fraud occurring
+before, on, or after that date.
+PART III. EDUCATION
+CHANGE TO BUDGET FUND REDUCTION FOR ENTERPRISE RESOURCE
+PLANNING
+SECTION 3.1. Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, of the funds reduced from the
+Community Colleges System for Budget Code 16800-105320, the reduction of the sum of three
+Page 8 Session Law 2026-61 House Bill 268
+
+million five hundred thousand dollars ($3,500,000) in recurring funds beginning with the
+2026-2027 fiscal year for Enterprise Resource Planning shall instead be reduced from Budget
+Code 16800-105415 for the same purposes.
+CHANGE TO BUDGET FUND FOR APPROPRIATION FOR CUSTOMER
+RELATIONSHIP MANAGEMENT SYSTEM
+SECTION 3.2. Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, of the funds appropriated to the
+Community Colleges System to Budget Code 16800-105320, the sum of ten million dollars
+($10,000,000) in nonrecurring funds for the 2026-2027 fiscal year appropriated for Customer
+Relationship Management System shall instead be appropriated to Budget Code 16800-105415
+for the same purposes.
+CHANGE TO BUDGET FUND FOR APPROPRIATION FOR SHORT-TERM
+WORKFORCE CREDENTIALS FINANCIAL ASSISTANCE
+SECTION 3.3. Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, of the funds appropriated to the
+Community Colleges System to Budget Code 16800-105470, the sum of one million dollars
+($1,000,000) in nonrecurring funds for the 2026-2027 fiscal year for Short-Term Workforce
+Credentials Financial Assistance shall instead be appropriated to Budget Code 16800-105412 for
+the same purposes.
+TECHNICAL CHANGE TO PERFORMANCE FUNDING REDUCTION FOR
+COMMUNITY COLLEGES
+SECTION 3.4.(a) G.S. 115D-31.3, as amended by Section 6.11 of S.L. 2026-41,
+reads as rewritten:
+"§ 115D-31.3. Institutional performance accountability.
+(a) Implementation of Accountability Measures and Performance Standards. – The State
+Board of Community Colleges shall adopt and implement a system of accountability measures
+and performance standards for the Community College System. At least once every three years,
+the State Board of Community Colleges shall review, and revise if necessary, the accountability
+measures and performance standards to ensure that they are appropriate for use in recognition of
+successful institutional performance. If the State Board determines that accountability measures
+and performance standards must be revised following a review required by this subsection, the
+State Board shall report to the Joint Legislative Education Oversight Committee prior to the
+implementation of any proposed revisions.
+(b) through (d) Repealed by Session Laws 2000-67, s. 9.7, effective July 1, 2000.
+(e) Mandatory Performance Measures. – The State Board of Community Colleges shall
+evaluate each college on the progress of basic skills students.
+(1) Repealed by Session Laws 2026-41, s. 6.11, effective July 1, 2026.
+(2) Repealed by Session Laws 2016-94, s. 10.1, effective July 1, 2016.
+(3) Repealed by Session Laws 2026-41, s. 6.11, effective July 1, 2026.
+(3a) Repealed by Session Laws 2026-41, s. 6.11, effective July 1, 2026.
+(3b) Repealed by Session Laws 2026-41, s. 6.11, effective July 1, 2026.
+(4), (5) Repealed by Session Laws 2016-94, s. 10.1, effective July 1, 2016.
+(5a) Repealed by Session Laws 2026-41, s. 6.11, effective July 1, 2026.
+(6) Repealed by Session Laws 2012-142, s. 8.5, effective July 1, 2012.
+(7) Repealed by Session Laws 2026-41, s. 6.11, effective July 1, 2026.
+(8) Repealed by Session Laws 2012-142, s. 8.5, effective July 1, 2012.
+(9) Repealed by Session Laws 2026-41, s. 6.11, effective July 1, 2026.
+House Bill 268 Session Law 2026-61 Page 9
+
+(f) Publication of Performance Ratings. – Each college shall publish its performance on
+the measures set out in subsection (e) and standards adopted by the State Board pursuant to
+subsection (a) of this section (i) annually in its electronic catalog or on the internet and (ii) in its
+printed catalog each time the catalog is reprinted.
+The Community Colleges System Office shall publish the performance of all colleges on all
+measures.
+(g) Recognition of Successful Institutional Performance. – For the purpose of recognition
+of successful institutional performance, the State Board of Community Colleges shall evaluate
+each college on the progress of basic skill students based on the performance measures set out in
+subsection (e) and standards adopted pursuant to subsection (a) of this section. Subject to the
+availability of funds, To the extent funds are made available for this purpose, the State Board
+may shall allocate funds among colleges based on the evaluation of each institution's
+performance, including at least the following components:
+(1) Program quality evaluated by determining a college's rate of basic skills
+student success on each measure and standard adopted by the State Board
+pursuant to subsection (a) of this section as compared to a systemwide
+performance baseline and goal.
+(2) Program impact on basic skills student outcomes evaluated by the number of
+basic skills students succeeding on each measure.measure and standard
+adopted by the State Board pursuant to subsection (a) of this section.
+A college may use funds allocated to it pursuant to this subsection for one-time,
+performance-based bonuses for faculty and staff. Notwithstanding G.S. 135-1(7a), a bonus
+awarded with funds pursuant to this subsection is not compensation under Article 1 of Chapter
+135 of the General Statutes.
+(g1) Carryforward of Funds Allocated Based on Performance. – A college that receives
+funds under subsection (g) of this section may retain and carry forward an amount up to or equal
+to its performance-based funding allocation for that year into the next fiscal year."
+SECTION 3.4.(b) This section is effective when it becomes law.
+TECHNICAL CHANGE TO WORKFORCE DIPLOMA PROGRAM REPORTING
+SECTION 3.5. Section 6.8(e) of S.L. 2026-41 reads as rewritten:
+"SECTION 6.8.(e) Report. – The State Board of Community Colleges, in consultation with
+each qualifying third-party entity, shall submit a report by August 15, 2028, to the Joint
+Legislative Education Oversight Committee, the Office of Learning Research at the University
+of North Carolina, Committee and the Fiscal Research Division on the impact of the Program,
+including at least the following information:
+(1) The number of participants.
+(2) The number of credits earned by participants.
+(3) The number of employability skills certifications issued to participants.
+(4) The number and type of workforce credentials earned by participants.
+(5) The number of participants who received a high school diploma.
+(6) The average funding provided per participant who received a high school
+diploma.
+(7) The percentage of participants who received a high school diploma."
+ADJUST APPRENTICESHIP STUDY REPORT DEADLINE
+SECTION 3.6. Section 6.5 of S.L. 2026-41 reads as rewritten:
+"SECTION 6.5. ApprenticeshipNC shall study and report the following to the Joint
+Legislative Education Oversight Committee:
+(1) No later than December 31, 2026, March 15, 2027, the feasibility of designing
+and implementing State funding incentives for employers and other
+Page 10 Session Law 2026-61 House Bill 268
+
+apprenticeship sponsors for the purpose of (i) increasing the availability of
+registered apprenticeship programs and (ii) improving apprentice enrollment,
+completion, post-completion education, and labor market outcomes. As part
+of this study, ApprenticeshipNC shall examine alternative incentive structures
+and design considerations to identify approaches that are most likely to
+increase apprenticeship starts and completions, support positive
+post-completion outcomes, and ensure the efficient use of State funds.
+ApprenticeshipNC may consult or contract with relevant subject-matter
+experts, including nonprofit and for-profit entities, subject to the availability
+of funds to support the study. The study and report required in this subdivision
+shall include at least all of the following:
+…."
+TECHNICAL CORRECTION TO REFERENCE FOR SHIFTING TRANSFER OF
+SUPPLEMENTAL EXCEPTIONAL CHILDREN FUNDING FOR THE REGIONAL
+SCHOOL
+SECTION 3.7. Section 7.57(c) of S.L. 2026-41 reads as rewritten:
+"SECTION 7.57.(c) G.S. 115C-229.55(b)(2), G.S. 115C-229.55(d)(2), as enacted by this
+act, reads as rewritten:
+…."
+CHANGE TO BUDGET FUND REDUCTION FOR THE NORTH CAROLINA
+ASSOCIATION OF SCHOOL BUSINESS OFFICIALS
+SECTION 3.8. Notwithstanding the Committee Report described in Section 45.2 of
+S.L. 2026-41, of the funds to be reduced from the Department of Public Instruction for Budget
+Code 13510-101191, the sum of two million two hundred twenty-five thousand dollars
+($2,225,000) in recurring funds beginning with the 2026-2027 fiscal year to eliminate funding
+for the Department of Public Instruction to contract with the North Carolina Association of
+School Business Officials shall instead be reduced from Budget Code 13510-101030.
+PERMIT TEACHREADYNC PROGRAM TO BEGIN IN THE 2026-2027 SCHOOL
+YEAR
+SECTION 3.9. Section 7.24(l) of S.L. 2026-41 reads as rewritten:
+"SECTION 7.24.(l) This section becomes effective July 1, 2026. The Notwithstanding
+G.S. 115C-269.67, as enacted by subsection (g) of this section, the Department of Public
+Instruction shall issue the initial request for applications for the TeachReadyNC Program
+pursuant to G.S. 115C-269.67, as enacted by subsection (g) of this section, by November 1, 2026,
+G.S. 115C-269.67 by October 1, 2026, for applications to establish registered teacher
+apprenticeship programs beginning in as soon as practicable and no later than the 2027-2028
+school year. Notwithstanding G.S. 115C-269.67(h), as enacted by subsection (g) of this section,
+the Department shall provide its initial report on the impact of the TeachReadyNC Program by
+March 15, 2028. Subsection (i) of this section applies beginning with the 2026-2027 school year
+or academic year, as appropriate."
+CLARIFY LIABILITY OF GOVERNING BODIES OF PUBLIC SCHOOL UNITS
+RELATED TO CARDIAC EMERGENCY RESPONSE PLANS AND USE OF AEDS
+SECTION 3.10. G.S. 115C-375.6(e), as enacted by S.L. 2026-41, reads as rewritten:
+"(e) Any governing body of a public school unit employee unit, its members, designees,
+agents, volunteers, or employees authorized by the State Board of Education or the governing
+body of a public school unit, or its designee, to act under this section shall not be liable in civil
+damages for any authorized act or for any omission relating to that act unless the act or omission
+House Bill 268 Session Law 2026-61 Page 11
+
+amounts to gross negligence, wanton conduct, or intentional wrongdoing. Any person, serving
+in a voluntary position at the request of or with the permission or consent of the governing body
+of a public school unit or its designee, who has been given the authority by the governing body
+of a public school unit or its designee to give emergency health care when reasonably apparent
+circumstances indicate that any delay would seriously worsen the physical condition or endanger
+the life of a person experiencing a medical emergency on school grounds shall not be liable in
+civil damages for any authorized act or for any omission relating to the act unless the act amounts
+to gross negligence, wanton conduct, or intentional wrongdoing."
+CLARIFY ALLOWABLE NUMBER OF HOURS FOR RELEASED TIME RELIGIOUS
+INSTRUCTION
+SECTION 3.11. G.S. 115C-407.45(6), as enacted by S.L. 2026-41, reads as
+rewritten:
+"(6) Time limitations. – The public school unit shall excuse one hour of released
+time religious instruction at a minimum. A school principal shall not authorize
+excused absences totaling more than four hours of released time religious
+instruction in a single calendar week.authorize excused absences for at least
+one, but no more than four, hours of released time religious instruction per
+calendar week."
+NORTH CAROLINA HIGH SCHOOL REDESIGN COMMISSION
+SECTION 3.12.(a) Commission Established. – There is established the North
+Carolina High School Redesign Commission (Commission). The Commission shall be located
+administratively in the Department of Public Instruction but shall exercise all of its prescribed
+powers independently of the Department. The purpose of the Commission is to explore and
+recommend changes to policies and systems governing high school and higher education that
+will better prepare North Carolina students for success as they transition to higher education or
+the workforce.
+SECTION 3.12.(b) Commission Membership. – The Commission shall consist of
+15 members as follows:
+(1) Two members appointed by the General Assembly upon recommendation of
+the Speaker of the House of Representatives.
+(2) Two members appointed by the General Assembly upon recommendation of
+the President Pro Tempore of the Senate.
+(3) One member appointed by the Governor.
+(4) The State Superintendent of Public Instruction or his or her designee.
+(5) The President of The University of North Carolina or his or her designee.
+(6) The President of North Carolina Independent Colleges and Universities or his
+or her designee.
+(7) The President of the North Carolina Community College System or his or her
+designee.
+(8) The chief executive officers of each of the following organizations, or their
+designees: MyFutureNC, the North Carolina Chamber of Commerce, BEST
+NC, and SparkNC.
+(9) One chief administrative officer or president of a community college
+participating in a program, project, or initiative developed pursuant to this act
+and one superintendent of a local school administrative unit participating in a
+program, project, or initiative developed pursuant to this act or their respective
+designees. These members shall be appointed by the chair of the Commission
+elected pursuant to subsection (c) of this section.
+Page 12 Session Law 2026-61 House Bill 268
+
+SECTION 3.12.(c) Commission Chair; Schedule; Quorum. – The Commission shall
+elect a chair from the members appointed by the General Assembly. Each member shall have one
+vote for the chair, except those members to be appointed by the chair pursuant to subdivision (9)
+of subsection (b) of this section who shall be appointed after a chair is elected. The Commission
+shall meet at least four times annually. The Commission shall meet on the call of the chair or as
+additionally provided by the Commission. A quorum is six members of the Commission.
+Members may not vote by proxy.
+SECTION 3.12.(d) Commission Member Terms. – All members shall be appointed
+to terms for the entire duration of the Commission. Any vacancy in a term shall be filled by the
+appointing authority for the remainder of the unexpired term.
+SECTION 3.12.(e) Commission Duties. – The Commission shall examine promising
+practices in North Carolina and nationally to inform the Commission's recommendations. At a
+minimum, the Commission shall consider the following:
+(1) Flexible requirements for high school diplomas that are relevant to the
+knowledge, skills, and abilities students will need for success in the future
+workforce.
+(2) Access to apprenticeships, internships, clinical experiences, and other
+high-quality, work-based learning experiences while in high school.
+(3) Opportunities for students to earn industry recognized credentials while in
+high school.
+(4) Partnerships between public school units and North Carolina Community
+Colleges, The University of North Carolina, and North Carolina Independent
+Colleges and Universities for the purposes of facilitating subdivisions (1)
+through (3) of this subsection.
+(5) Personalized pathways for students to satisfy core graduation requirements.
+(6) Modular credit-bearing alternatives to semester or yearlong courses.
+(7) Competency-based alternatives to time bound courses.
+(8) Strategies for extending learning beyond school walls at scale via community
+connected experiences, including incorporating incentives for local businesses
+to partner with schools.
+(9) Uses of artificial intelligence to expand student opportunities to engage in
+career exploration and work-based learning experiences.
+(10) Alternative funding models to enable the development of a statewide learning
+ecosystem that encourages subdivisions (1) through (9) of this subsection.
+(11) Career exploration opportunities for students in middle school and the first
+two years of high school that prepare students to engage successfully in a
+redesigned high school experience.
+(12) Evaluation of the programs, projects, and initiatives established by this act,
+and any other competency-based education (CBE) programs or high school
+redesign efforts taking place in the State. The Commission shall partner with
+the Office of Learning Research at the North Carolina Collaboratory to
+conduct these evaluations.
+SECTION 3.12.(f) Meetings and Organization. – The chair shall designate one or
+more of the organizations identified in subdivision (8) of subsection (b) of this section to plan
+and manage Commission meetings and draft reports. Designated organizations shall provide
+administrative staff for meetings. Funds appropriated to the Department of Public Instruction to
+be used to contract with one or more organizations to plan and manage Commission meetings
+shall be divided equally among the organizations designated by the chair unless otherwise agreed
+by the chair and all designated organizations.
+SECTION 3.12.(g) Report. – The Commission shall submit a report to the Joint
+Legislative Education Oversight Committee by April 30, 2027, and annually thereafter. The
+House Bill 268 Session Law 2026-61 Page 13
+
+reports shall include all recommendations approved by a majority of Commission members and
+a summary of any evaluations of the efficacy of any CBE programs and high school redesign
+efforts implemented during the current school year.
+SECTION 3.12.(h) Termination. – The Commission shall terminate on June 30,
+2031, or upon filing of its final annual report, whichever occurs first.
+ALLOW FRIDAY INSTITUTE TO CARRYFORWARD NONRECURRING FUNDS
+FOR AI PROFESSIONAL DEVELOPMENT MODULES
+SECTION 3.13. Section 7.39 of S.L. 2026-41 is amended by adding a new
+subsection to read:
+"SECTION 7.39.(r) The four hundred thousand dollars ($400,000) in nonrecurring funds
+appropriated to the Board of Governors of The University of North Carolina in this act for the
+2026-2027 fiscal year to be allocated to North Carolina State University for the Friday Institute
+to implement subsections (m) and (n) of this section shall not revert at the end of the 2026-2027
+fiscal year but shall remain available until the end of the 2027-2028 fiscal year."
+CLARIFY BONUSES FOR SCHOOL NUTRITION AND CUSTODIAL PERSONNEL
+SECTION 3.14. Section 7A.13 of S.L. 2026-41 reads as rewritten:
+"SECTION 7A.13.(a) No later than October 31, 2026, the Department of Public Instruction
+shall administer a bonus of one thousand seven hundred fifty dollars ($1,750) to all school
+nutrition and custodial personnel employed in by local school administrative units.
+"SECTION 7A.13.(b) For purposes of this section, the term "school nutrition and custodial
+personnel" refers to persons who meet all of the following criteria:
+(1) Provide school nutrition or custodial services in the unit.
+(2) Are not licensed by the State Board of Education.
+(3) Are employed in by a local school administrative unit as of October 1, 2026.
+This criterion does not include employment in a local school administrative
+unit when the employer is not the local school administrative unit.
+(4) Receive salaries that are supported in whole or in part by receipt funds or local
+funds.
+…."
+REMOVE DEADLINE FOR EDUCATOR PREPARATION PROGRAM RULE
+ADOPTION
+SECTION 3.15.(a) All of the following provisions are repealed:
+(1) Section 7(b) of S.L. 2017-189.
+(2) Section 7(f) of S.L. 2017-189.
+(3) Section 4 of S.L. 2019-149.
+SECTION 3.15.(b) By October 15, 2026, the State Board of Education, in
+consultation with the Department of Public Instruction, The University of North Carolina System
+Office, the Community Colleges System Office, and the North Carolina Independent Colleges
+and Universities, shall report to the Joint Legislative Education Oversight Committee on
+recommendations for an educator preparation program accountability model, including any
+necessary changes to State law that would be required to implement the accountability model.
+SECTION 3.15.(c) This section is effective when it becomes law.
+UNC SYSTEM HEALTH CARE ACCESS FUND
+SECTION 3.16.(a) G.S. 116-36.10, as enacted by Section 8.20 of S.L. 2026-41,
+reads as rewritten:
+"§ 116-36.10. Rural Residency Medical Education and Training UNC System Health Care
+Access Fund.
+Page 14 Session Law 2026-61 House Bill 268
+
+(a) Fund Established. – There is established the Rural Residency Medical Education and
+Training Fund (Fund) UNC System Health Care Access Fund (Fund) as a nonreverting,
+interest-bearing special fund. The Fund shall consist of funds appropriated by the General
+Assembly and the interest earned on those funds. The Fund shall be used to support expenses
+forfor the following:
+(1) Expenses for training, residency programs, and associated capital
+improvement projects for the following:
+(1)a. Medical schools and health affairs programs operated by constituent
+institutions of The University of North Carolina, including the medical
+schools and health affairs programs at East Carolina University and
+the University of North Carolina at Chapel Hill.
+(2)b. Private and public health care entities in the State.
+(2) The development and expansion of courses at constituent institutions of The
+University of North Carolina that lead to a degree in a field related to health
+care.
+…."
+SECTION 3.16.(b) Section 8.20(b) of S.L. 2026-41 reads as rewritten:
+"SECTION 8.20.(b) Notwithstanding any provision of S.L. 2023-134 or the Committee
+Report referenced in Section 43.2 of that act to the contrary, law to the contrary, including the
+Committee Report referenced in Section 45.2 of this act, S.L. 2023-134, the Committee Report
+referenced in Section 43.2 of S.L. 2023-134, and Section 2.5 of S.L. 2026-42, The University of
+North Carolina System Office shall allocate to the Rural Residency Medical Education and
+Training Fund UNC System Health Care Access Fund established pursuant to G.S. 116-36.10,
+as enacted by this section, all funds that were appropriated to the Board of Governors all of the
+following funds:
+(1) Funds that were appropriated to the Board of Governors of The University of
+North Carolina for the 2023-2025 fiscal biennium pursuant to S.L. 2023-134
+for the Rural Residency Medical Education and Training Fund established by
+the Board of Governors of The University of North Carolina pursuant to that
+act.
+(2) The following amounts for the 2026-2027 fiscal year for the Rural Residency
+Medical Education Training Fund in accordance with the Committee Report
+referenced in Section 45.2 of this act:
+a. The four million eight hundred ninety-eight thousand two hundred
+sixteen dollars ($4,898,216) in recurring funds appropriated to the
+Board of Governors.
+b. The four million five hundred thousand dollars ($4,500,000) in
+nonrecurring funds in receipts budgeted from the Rural Health Care
+Stabilization Fund.
+(3) The nine million dollars ($9,000,000) in recurring funds and the nine million
+five hundred thousand dollars ($9,500,000) in nonrecurring funds
+appropriated to the Board of Governors for the 2026-2027 fiscal year for
+Healthcare Workforce Programs Expansion in accordance with the
+Committee Report referenced in Section 45.2 of this act, as amended by
+Section 2.5 of S.L. 2026-42."
+EXTEND DEADLINE FOR PUBLIC SCHOOL OPEN ENROLLMENT STUDY
+SECTION 3.17. Section 8.23(b) of S.L. 2026-41 reads as rewritten:
+"SECTION 8.23.(b) The Collaboratory shall report its findings, including any
+recommended legislation, to the Joint Legislative Education Oversight Committee by April 15,
+June 1, 2027."
+House Bill 268 Session Law 2026-61 Page 15
+
+COLLABORATORY SHELLFISH STUDY EXTENSION
+SECTION 3.18. Notwithstanding Section 7(c) of S.L. 2026-11, the North Carolina
+Collaboratory (Collaboratory) shall submit the final report for the Collaboratory's comprehensive
+study on shellfish aquaculture regulations to the Joint Legislative Oversight Committee on
+Agriculture and Natural and Economic Resources no later than December 1, 2027.
+COLLABORATORY REPORT ON RECOVERY COURT STUDY RESULTS
+SECTION 3.19.(a) Section 8.11 of S.L. 2023-134 reads as rewritten:
+"SECTION 8.11.(a) Of the funds appropriated in this act from the Opioid Abatement
+Reserve established pursuant to Section 9F.1 of S.L. 2021-180, as amended by Section 9F.1 of
+S.L. 2022-74, to the Board of Governors of The University of North Carolina to be allocated to
+the University of North Carolina at Chapel Hill for the North Carolina Collaboratory
+(Collaboratory), the Collaboratory shall study in two phases existing judicially managed
+accountability and recovery courts (JMARCs), including those drug treatment courts and
+JMARCs partially or fully exempted from Article 62 of Chapter 7A of the General Statutes under
+G.S. 7A-802. These funds shall not revert at the end of the 2023-2024 fiscal year but shall remain
+available until expended. Phase I shall study programmatic aspects of JMARCs, including
+program capacity, funding sources, demand, expansion potential, and jurisdictional needs. Phase
+II shall evaluate processes and intended outcomes for each type of JMARC, including adult drug
+treatment, impaired driving, family treatment, adult mental health, veterans, and juvenile drug
+treatment. Phase II shall include comparisons of outcomes between JMARC participants and
+appropriate comparison groups, as well as a cost-benefit evaluation of the different types of
+JMARCs. JMARCs are authorized to share participant information with the Collaboratory and
+the University of North Carolina at Wilmington (UNCW) for purposes of this study. Information
+or data about individual JMARC participants received by the Collaboratory or UNCW shall be
+confidential and not public record, shall be withheld from public inspection, shall be used only
+for the purposes of this study, and may not be publicly disclosed except as deidentified and
+aggregated information or data.
+"SECTION 8.11.(b) No later than October 1, 2024, the Collaboratory shall report on the
+results of Phase I of the study required by subsection (a) of this section section, and no later than
+March 15, 2028, the Collaboratory shall report on the results of Phase II of the study required by
+subsection (a) of this section to the following entities:
+(1) The Joint Legislative Oversight Committee on Health and Human Services.
+(2) The Joint Legislative Oversight Committee on Justice and Public Safety.
+(3) The Joint Legislative Education Oversight Committee.
+(4) The chairs of the House and Senate Appropriations Committees on Health and
+Human Services.
+(5) The chairs of the House and Senate Appropriations Committees on Justice and
+Public Safety.
+(6) The chairs of the House and Senate Appropriations Committees on Education.
+"SECTION 8.11.(c) The report on Phase I of the study required by subsection (b) of this
+section shall include, at a minimum, each of the following:
+(1) Executive summary of the study and its findings.
+(2) Summary of each JMARC's operating model.
+(3) Summary of each JMARC's funding sources.
+(4) Analysis of demand and capacity for each JMARC.
+(5) Summary of need and local interest for additional JMARCs.
+(6) Feasibility of JMARCs operating across counties and across judicial districts.
+(7) Proposed JMARC expansion plan.
+Page 16 Session Law 2026-61 House Bill 268
+
+(8) List of funding sources to support the expansion plan outlined in subdivision
+(7) of this subsection.
+"SECTION 8.11.(c1) The report on Phase II of the study required by subsection (b) of this
+section shall include, at a minimum, each of the following:
+(1) Executive summary of the study and its findings.
+(2) Evaluation of processes and intended outcomes for the different types of
+JMARCs.
+(3) Deidentified and aggregated results of the comparisons of outcomes between
+JMARC participants and appropriate comparison groups for the different
+types of JMARCs.
+(4) A cost-benefit evaluation of the different types of JMARCs.
+"SECTION 8.11.(d) This section is effective when it becomes law."
+SECTION 3.19.(b) This section is effective retroactively to October 3, 2023.
+WATER SAFETY ACT REVISIONS
+SECTION 3.20.(a) Notwithstanding any provision of S.L. 2026-41 or the
+Committee Report described in Section 45.2 of that act to the contrary, funds provided to the
+Collaboratory for scientific research on PFAS shall be used for research activities described in
+Section 8.27 of S.L. 2026-41, as amended by subsection (b) of this section.
+SECTION 3.20.(b) Section 8.27 of S.L. 2026-41 reads as rewritten:
+"SECTION 8.27.(a) PFAS Emerging Contaminant Research Funding. – Funds appropriated
+in this act to the North Carolina Collaboratory at the University of North Carolina at Chapel Hill
+(Collaboratory) for PFAS research activities will be used to support scientific research on
+emerging contaminants (including PFAS, 1,4-dioxane, and any other compounds the
+Collaboratory identifies as significant and in need of additional research) conducted by or in
+collaboration with public or nonprofit academic institutions, including any of the following:
+(1) Detection methods for known and emerging PFAS and
+1,4-dioxane.contaminants.
+(2) Fate and transport of PFAS and 1,4-dioxane emerging contaminants in
+environmental media.
+(3) Innovative remediation, filtration, and destruction technologies for PFAS and
+1,4-dioxane.emerging contaminants.
+(4) Public health and toxicological impact assessments of PFAS and
+1,4-dioxane.emerging contaminants.
+(5) Evaluation of the health impacts of PFAS mixtures and 1,4-dioxane emerging
+contaminants found in the State's drinking water to more closely model
+real-world public health scenarios.
+(6) Replacement compounds for PFAS and 1,4-dioxane.emerging contaminants.
+(7) Other topics the Collaboratory finds relevant to the characterization,
+biological transport, treatment, or control of emerging contaminants.
+…
+"SECTION 8.27.(f) Industrial Discharger and SIU Study Phases. – The North Carolina
+Collaboratory (Collaboratory), in cooperation with the Department of Environmental Quality
+(DEQ), shall conduct a two-phased study to identify and quantify measurable PFAS discharges
+in the State by collecting samples from POTW permit holders and certain NPDES permit holders
+following sampling protocols defined by the Collaboratory, Collaboratory in consultation with
+DEQ, as set forth in the following schedule:
+(1) Phase 1 shall include collection by DEQ or the POTW and analysis by the
+Collaboratory of influent, effluent, and sludge samples from (i) every
+permitted POTW in the State receiving effluent from one or more significant
+industrial users (SIUs) and (ii) every facility holding an NPDES permit for
+House Bill 268 Session Law 2026-61 Page 17
+
+direct discharge of process wastewater from an industrial or commercial
+operation. The Collaboratory and DEQ shall complete sampling and analysis
+of samples collected during this phase no later than December 31, 2027.
+(2) Phase 2 shall include collection by DEQ or the POTW and analysis by the
+Collaboratory of influent and effluent samples collected from every SIU
+discharging to a POTW, whether the pretreatment program applicable to that
+SIU is administered by the POTW and certified by the Environmental
+Management Commission (EMC) under G.S. 143-215.3(a)(14) or
+administered by DEQ. DEQ may retain secondary samples from samples
+collected in this Phase for analysis in compliance with subdivision (3) of this
+subsection. Phase. The Collaboratory and DEQ shall Collaboratory, DEQ, or
+the POTW may begin Phase 2 for SIUs of a POTW at the same time or upon
+completion of Phase 1 sampling for that POTW and complete sampling and
+analysis for all SIUs no later than December 31, 2028.
+(3) Research data generated by the Collaboratory or its researchers as set forth in
+this section may be used for regulatory recommendations but may not be used
+for regulatory actions by the State of North Carolina. DEQ shall take
+regulatory actions only in compliance with the sampling and analytic
+protocols required under DEQ's delegation of NPDES and pretreatment
+program authority from the Environmental Protection Agency.
+(4) The Collaboratory may also include in the analysis and report required by
+subsection (g) of this section any PFAS analytical data collected by a POTW
+or DEQ and provided to the Collaboratory.
+"SECTION 8.27.(g) Industrial Discharger and SIU Study Analysis and Report. – The
+Collaboratory or its research teams shall conduct targeted PFAS analysis, adsorbable organic
+fluorine (AOF) analysis, and total oxidizable precursor (TOP) analysis on samples collected in
+both Phase 1 and Phase 2.
+(1) Phase 1 report. – No later than March 31, 2028, the Collaboratory shall submit
+to DEQ, the EMC, and the Environmental Review Commission (ERC) a final
+report of a summary of the Phase 1 results, which shall be anonymized or
+aggregated based on county POTW, county, or river basin and shall also
+include regulatory recommendations for numerical mass-loading reduction
+thresholds. All research data gathered and analyzed by the Collaboratory as
+part of Phase 1, with the exception of the actual contents contained within the
+report released publicly, shall be exempt from disclosure as a public record as
+set forth in G.S. 116-43.17.
+(2) Phase 2 report. – No later than March 31, 2029, the Collaboratory shall submit
+to DEQ, the EMC, and the ERC a final report of a summary of the results,
+which shall also include regulatory recommendations for numerical
+mass-loading reduction thresholds. Upon publication of the report, the
+supporting data from Phase 2 will be a public record as defined by G.S. 132-1,
+unless exempted under G.S. 116-43.17 or another applicable provision of law.
+…."
+CLARIFY APPLICABILITY OF EARLY GRADUATE HIGH SCHOOL
+SCHOLARSHIP FUNDS
+SECTION 3.21. Section 8A.13 of S.L. 2026-41 reads as rewritten:
+"SECTION 8A.13. Notwithstanding Part 7 of Article 23 of Chapter 116 of the General
+Statutes, the one million dollars ($1,000,000) in nonrecurring funds appropriated in this act for
+the 2026-2027 fiscal year to the Reserve Fund for Early Graduate Scholarships for the Early
+Graduate Scholarship Program shall be used to provide scholarships to students beginning in the
+Page 18 Session Law 2026-61 House Bill 268
+
+2027-2028 academic year.year beginning with students graduating high school in the 2025-2026
+school year."
+CLARIFY PUBLIC RECORDS EXEMPTION FOR OPPORTUNITY SCHOLARSHIP
+TESTING RECORDS
+SECTION 3.22.(a) G.S. 115C-562.5, as amended by Section 8A.12 of S.L. 2026-41
+and Section 2.8 of S.L. 2026-42, reads as rewritten:
+"§ 115C-562.5. Obligations of nonpublic schools accepting eligible students receiving
+scholarship grants.
+(a) A nonpublic school that accepts eligible students receiving scholarship grants shall
+comply with the following:
+…
+(4) Administer, at least once in each school year, tests as provided in this
+subdivision. This individual test data is subject to collection by the Authority.
+Test performance data reported to collected by the Authority under this
+subdivision is not a public record under Chapter 132 of the General Statutes.
+Tests shall be administered to all eligible students enrolled in grades three and
+higher whose tuition and fees are paid in whole or in part with a scholarship
+grant as follows:
+a. The nationally standardized test designated by the Authority in grades
+three and eight.
+b. The ACT in grade 11.
+c. A nationally standardized test or other nationally standardized
+equivalent measurement selected by the chief administrative officer of
+the nonpublic school in all other grades four and higher. For grades
+four through seven, the nationally standardized test or other equivalent
+measurement selected must measure achievement in the areas of
+English grammar, reading, spelling, and mathematics. For grades nine,
+10, and 12, the nationally standardized test or other equivalent
+measurement selected must measure either (i) achievement in the areas
+of English grammar, reading, spelling, and mathematics or (ii)
+competencies in the verbal and quantitative areas.
+…
+(b1) A nonpublic school that accepts eligible students receiving scholarship grants shall
+annually certify compliance with subdivision (4) of subsection (a) of this section and shall retain
+records of the test administration for a period of four years. Each year the Authority shall select
+at least four percent (4%) of nonpublic schools to verify testing administration in accordance
+with subdivision (4) of subsection (a) of this section.
+…."
+SECTION 3.22.(b) This section is effective July 1, 2026, and applies beginning with
+the 2026-2027 school year.
+ADVISE NC CARRYFORWARD
+SECTION 3.23. Section 8A.14 of S.L. 2026-41 is amended by adding the following
+new subsection to read:
+"SECTION 8A.14.(c) The two million five hundred thousand dollars ($2,500,000) in
+nonrecurring funds appropriated to the Board of Governors of The University of North Carolina
+in this act for the 2026-2027 fiscal year to be allocated to the State Education Assistance
+Authority for the Advise NC College Access Initiative in accordance with G.S. 116-209.32, as
+enacted by subsection (a) of this section, shall not revert at the end of the 2026-2027 fiscal year
+but shall remain available until the end of the 2027-2028 fiscal year."
+House Bill 268 Session Law 2026-61 Page 19
+
+SPECIFY PROCEDURE FOLLOWING REMOVAL OF AN EDUCATOR
+PREPARATION PROGRAM FROM THE TEACHING FELLOWS PROGRAM
+SECTION 3.24. G.S. 116-209.62(f1), as enacted by Section 8.5 of S.L. 2026-41,
+reads as rewritten:
+"(f1) Program Reevaluation. – The Commission, in consultation with the System Office of
+The University of North Carolina and the Authority, shall develop a process to reevaluate all
+educator preparation programs participating in the Program on the basis of effectiveness. Under
+the process developed pursuant to this subsection, the Commission shall reevaluate all
+participating educator preparation programs at least every six years. The Commission may
+stagger the reevaluation process among participating educator preparation programs as
+necessary. At the conclusion of the reevaluation process, the Commission may remove an
+educator preparation program from the Program. If the Commission removes an educator
+preparation program, the Commission shall ensure that any loan recipients enrolled in the
+educator preparation program in that academic year remain eligible to receive a forgivable loan
+under the Program.The Director shall notify the Authority of any educator preparation program
+removed from the Program by February 1 prior to the academic year in which the educator
+preparation program will no longer be eligible to participate. Notwithstanding subsection (g) of
+this section, any selected student that is eligible to receive a loan in the next academic year that
+is enrolled in the educator preparation program that is being removed may continue to receive a
+forgivable loan for completion of the Program leading to initial teacher licensure or transfer to
+another selected institution upon approval of the Director."
+CONFORM NURSING FELLOWS PILOT PROGRAM TO EXISTING FORGIVABLE
+LOAN PROGRAMS ADMINISTERED BY THE STATE EDUCATION ASSISTANCE
+AUTHORITY
+SECTION 3.25. Section 8A.10 of S.L. 2026-41 reads as rewritten:
+"SECTION 8A.10.(a) Definitions. – The following definitions shall apply in this section:
+…
+(5) Eligible nursing student. – A nursing student who is enrolled in and admitted
+to a qualifying degree program at a qualifying institution of higher education
+beginning in the 2027-2028 or 2028-2029 academic year.
+…
+"SECTION 8A.10.(b) Program. – There is established the Nursing Fellows Pilot Program.
+The purpose of the Program is to recruit, prepare, and support eligible nursing students enrolling
+at qualifying institutions of higher education beginning in either the 2027-2028 academic year or
+the 2028-2029 academic year for preparation as highly effective nurses and highly effective
+instructors in qualifying instruction programs. The Program shall be used to provide forgivable
+loans to eligible nursing students who are (i) enrolled in and admitted to a qualifying degree
+program and (ii) interested in preparing to become nurses in the State or nurse instructors in
+qualifying instruction programs.
+…
+"SECTION 8A.10.(d) Allocation of Funds. – Of the nonrecurring funds appropriated to the
+Board of Governors of The University of North Carolina and allocated to the Authority in the
+2026-2027 fiscal year for the Program, the Authority shall do the following:
+(1) Program expenses. – Transfer five percent (5%) to the Community Colleges
+System Office and five percent (5%) to the Dean for program expenses. These
+funds shall not revert at the end of the 2026-2027 fiscal year but shall remain
+available until they are expended or until loans are no longer provided under
+the Program, whichever comes first. These funds shall be used by each
+respective program director for the following purposes:
+Page 20 Session Law 2026-61 House Bill 268
+
+a. The Program's administrative costs.
+b. Extracurricular enhancement activities of the Program.
+c. Mentoring and coaching support to forgivable loan recipients.
+(2) Program administration. – Use up to four percent (4%) for other
+administrative costs associated with the Program. These funds shall not revert
+at the end of the 2026-2027 fiscal year but shall remain available until
+expended or there are no longer any loans outstanding under the Program,
+whichever comes first.
+(3) Forgivable loans. – After transferring the following amounts pursuant to
+subdivisions (1) and (2) of this subsection, of the remaining funds, the
+Authority shall transfer thirty percent (30%) to the Community Colleges
+System Office to be divided equally among each qualifying community
+college and seventy percent (70%) to WSSU. These funds shall be used by
+each respective program director for the award of forgivable loans under the
+Program.Of the funds remaining after taking the actions described in
+subdivisions (1) and (2) of this subsection, the Authority shall award
+forgivable loans under the Program according to the following distribution of
+funds:
+a. Thirty percent (30%) divided equally among each qualifying
+community college.
+b. Seventy percent (70%) for WSSU.
+…
+"SECTION 8A.10.(f) Awards of Forgivable Loans. – The Program shall provide Authority
+shall award forgivable loans to selected students who are initially enrolled in and admitted to a
+qualifying degree program that is an associate degree program or a Bachelor of Science degree
+program. Loan payments shall be provided each year for completion of the respective degree
+program. Students shall be eligible to receive additional loan payments for a Master of Science
+in nursing education at WSSU if the students enroll in the Master of Science in nursing degree
+program at WSSU within two years of completion of a Bachelor of Science in nursing program
+at WSSU. Forgivable loans may be used for tuition, fees, the cost of books, and expenses related
+to completion of the qualifying degree program. obtaining licensure as a registered nurse.
+Forgivable loans shall be awarded per academic term as follows:
+(1) For students enrolled in and admitted to an associate degree in nursing
+program at a qualifying community college, in amounts of up to two thousand
+five dollars ($2,500) per semester or one thousand two hundred fifty dollars
+($1,250) per summer session, for up to four academic terms.
+(2) For students enrolled in and admitted to a qualifying Bachelor of Science in
+nursing degree program at WSSU, in amounts of up to five thousand dollars
+($5,000) per semester or two thousand five hundred dollars ($2,500) per
+summer session, for up to five academic terms.
+(3) For students enrolled in and admitted to a qualifying Master of Science in
+nursing degree program at WSSU, in amounts of up to five thousand dollars
+($5,000) per semester or two thousand five hundred dollars ($2,500) per
+summer session, for up to four additional academic terms.
+"SECTION 8A.10.(g) Administration of Forgivable Loan Awards. – Upon the naming of
+recipients of the forgivable loans by the Community College Director and the Dean, the directors
+shall transfer their decisions to the Authority. The Authority, in coordination with the directors,
+shall perform all of the administrative functions necessary to implement this section, including
+rulemaking, disseminating information, acting as a liaison with participating institutions of
+higher education, awarding forgivable loans, implementing forgivable loan agreements, loan
+monitoring, loan canceling through service and collection, determining the acceptability of
+House Bill 268 Session Law 2026-61 Page 21
+
+service repayment agreements, enforcing the agreements, and all other functions necessary for
+the execution, payment, and enforcement of promissory notes required under this section.
+…
+"SECTION 8A.10.(i) Forgiveness. – For every year a qualifying nurse remains a qualifying
+nurse or a qualifying nurse instructor remains a qualifying nurse instructor, the Authority shall
+forgive one-third of the total the loan amount received under the Program over the course of one
+year of enrollment in the applicable qualifying degree program or programs and any interest
+accrued on that amount. The Authority shall also forgive the loan if it finds that it is impossible
+for the recipient to work for up to three years, within 10 years after completion of the latest
+applicable qualifying degree program, because of the death or permanent disability of the
+recipient. If the recipient repays the forgivable loan by cash payments, all indebtedness shall be
+repaid within 10 years after completion of the latest applicable qualifying degree program
+supported by the forgivable loan. If the recipient completes the applicable qualifying degree
+program, payment of principal and interest shall begin no later than the first day of September
+after the completion of the program. Should a recipient present extenuating circumstances, the
+Authority may extend the period to repay the loan in cash to no more than a total of 12 years.
+…."
+COMPETITIVE SPEECH AND DEBATE GRANT PROGRAM
+SECTION 3.26.(a) Part VII of S.L. 2026-41 is amended by adding a new section to
+read:
+"SECTION 7.64.(a) Program; Purpose. – There is established the Competitive Speech and
+Debate Team Grant Program (Program) for the 2026-2027 school year. The purpose of the
+Program is to allow each public school serving students in grades nine through 12 to form a
+speech and debate team and to allow the team to participate in speech and debate competitions.
+The Department of Public Instruction (Department) shall administer the Program in accordance
+with this section.
+"SECTION 7.64.(b) Eligibility. – Any public school unit that includes a school that serves
+students in grades nine through 12 is eligible to apply to the Department for a grant to develop,
+maintain, or expand an educational and competitive speech and debate team.
+"SECTION 7.64.(c) Applications; Criteria and Guidelines. – The Department shall develop
+and publish an application process for the Program. Applications shall include, at a minimum, a
+proposed budget for the speech and debate team.
+"SECTION 7.64.(d) Award; Use of Funds. – The Department shall award grants to selected
+applicants by October 31, 2026. The Department shall determine the amount of each award up
+to a maximum of ten thousand dollars ($10,000) per team per school year. Funds may be used
+for any of the following purposes:
+(1) Provide stipends for coaches. Each team award may only include two stipends,
+one lead team coach stipend of up to two thousand five hundred dollars
+($2,500) and one assistant team coach stipend of one thousand five hundred
+dollars ($1,500).
+(2) Make payments associated with participation in a speech and debate league or
+competition.
+(3) Travel to and from speech and debate competitions.
+"SECTION 7.64.(e) Team Participation. – Speech and debate teams receiving funds through
+the Program shall participate in the Tarheel Forensic League and the National Speech and Debate
+Association.
+"SECTION 7.64.(f) Student Eligibility. – If a student is enrolled in a school that does not
+offer a speech and debate team, the student is eligible to participate on the speech and debate
+team at the public school located geographically closest to where the student resides that has a
+team and is participating in the Program. A student joining a team under the authority of this
+Page 22 Session Law 2026-61 House Bill 268
+
+section shall be responsible for transportation to and from the school where the team meets.
+Nothing in this section prohibits a school from enforcing guidelines for student participation in
+extracurricular activities, such as academic performance requirements, nor does it prohibit a
+speech and debate team from conducting a selection process for the team, so long as the student
+is able to participate in the selection process as if the student were enrolled in that school.
+"SECTION 7.64.(g) Reporting. – No later than May 15, 2027, the Department shall report
+the following information to the Joint Legislative Education Oversight Committee and the Fiscal
+Research Division:
+(1) The public school units receiving grants and the amount of the grant.
+(2) A description of how the grants were used.
+(3) The public school units that applied for grants but did not receive one.
+(4) The extent to which students participating in speech and debate programs
+funded by the Program experienced measurable improvement in academic
+performance.
+(5) Any other information the Department deems relevant to evaluating the
+impact and effectiveness of the Program."
+SECTION 3.26.(b) Notwithstanding the Committee Report referenced in Section
+45.2 of S.L. 2026-41, the funds appropriated to the Department of Public Instruction for Budget
+Code 13510-101180 shall be increased by the sum of two hundred fifty thousand dollars
+($250,000) in nonrecurring funds for the 2026-2027 fiscal year for the Department to administer
+the Competitive Speech and Debate Team Grant Program in accordance with Section 7.64 of
+S.L. 2026-41, as enacted by this act.
+PART IV. HEALTH AND HUMAN SERVICES
+BASE BUDGET ADJUSTMENTS FOR SNAP EXPANSION ITEMS
+SECTION 4.1. When developing the base budget, as defined by G.S. 143C-1-1, for
+the Department of Health and Human Services (DHHS) for each year of the 2027-2029 fiscal
+biennium, the Office of State Budget and Management, in collaboration with the DHHS, shall
+adjust the requirements and receipts for the items funded by Section 9B.7 of S.L. 2026-41 to
+avoid an increase in the net General Fund appropriation for these items.
+ALLOW ADDITIONAL NONRECURRING FUNDS FOR DOLLY PARTON'S
+IMAGINATION LIBRARY TO NOT REVERT
+SECTION 4.2. Section 9D.7 of S.L. 2026-41 is amended by adding a new subsection
+to read:
+"SECTION 9D.7.(b1) The additional nonrecurring funds provided in this act for Dolly
+Parton's Imagination Library shall not revert on June 30, 2027, but shall remain available until
+June 30, 2032, at which time the funds shall revert to the appropriate fund."
+MEDICAID HOSPITAL ASSESSMENTS TECHNICAL CORRECTION
+SECTION 4.3.(a) G.S. 108A-146.12(i) reads as rewritten:
+"(i) For each State fiscal year after the 2025-2026 2024-2025 fiscal year, the postpartum
+coverage component shall be increased over the prior year's quarterly amount by the Medicare
+Economic Index."
+SECTION 4.3.(b) This section is effective when it becomes law.
+HYPERBARIC OXYGEN THERAPY TREATMENT DIRECTED GRANT
+SECTION 4.4. Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, the following shall occur:
+House Bill 268 Session Law 2026-61 Page 23
+
+(1) The State Controller shall transfer one million five hundred thousand dollars
+($1,500,000) in nonrecurring funds for the 2026-2027 fiscal year to the
+Department of Health and Human Services, Division of Mental Health,
+Developmental Disabilities, and Substance Use Services, for a directed grant
+to HBOT 4 Heroes, a nonprofit corporation, for the provision of hyperbaric
+oxygen therapy treatment for veterans with a diagnosis of traumatic brain
+injury or posttraumatic stress disorder.
+(2) Funds provided as a directed grant to The Community Foundation of NC East,
+Inc., on Page C67, Item 151 of the Committee Report shall be decreased by
+the sum of one million five hundred thousand dollars ($1,500,000) in
+nonrecurring funds for the 2026-2027 fiscal year.
+COMPETITIVE GRANTS TO SHERIFFS' OFFICES FOR ADDICTION TREATMENT
+IN JAILS
+SECTION 4.5. G.S. 112C-314(d)(1), as enacted by Section 9G.3(c) of S.L. 2026-41,
+reads as rewritten:
+"(1) The Director of the Section Division of Community Corrections Supervision
+of the Department of Public Safety Adult Correction or the Director's
+designee."
+TECHNICAL ADJUSTMENTS/TRANSFER OF JUUL SETTLEMENT FUNDS
+SECTION 4.6.(a) Section 9H.10 of S.L. 2026-41 reads as rewritten:
+"SECTION 9H.10.(a) The State Controller shall transfer the sum of twenty-two million five
+hundred thousand dollars ($22,500,000) in nonrecurring funds for the 2025-2026 fiscal year from
+funds available for the Department of Health and Human Services in the Carry Forward Reserve
+to the Youth Electronic Nicotine Dependence Abatement Fund created by Section 9G.10(a) of
+S.L. 2021-180, as amended by Section 9G.3(a) of S.L. 2022-74. This transfer is not an
+"appropriation made by law," as that phrase is used in Section 7(1) of Article V of the North
+Carolina Constitution.
+"SECTION 9H.10.(a1) Effective July 1, 2026, and pursuant to subsection (a) of this section,
+the beginning fund balance for Budget Code 24433 is increased by twenty-two million five
+hundred thousand dollars ($22,500,000) in nonrecurring funds for the 2026-2027 fiscal year.
+"SECTION 9H.10.(b) This Except as otherwise provided, this section becomes effective
+June 30, 2026."
+SECTION 4.6.(b) Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, the Department of Health and Human
+Services shall not make the technical adjustment described on Page C97, Item 275 of the
+Committee Report.
+ADJUST BUDGETED AMOUNTS FOR NC HEALTH WORKS COUNTY COSTS
+SECTION 4.7. Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, the requirements and receipts
+budgeted to Budget Fund 133507 on Page C115, Item 323 of the Committee Report shall each
+be increased by the sum of thirty-one million eight hundred ninety-seven thousand seven hundred
+eighty-eight dollars ($31,897,788) in recurring funds for the 2026-2027 fiscal year.
+CHILDREN'S HOME SOCIETY RECIPIENT CLARIFICATION
+SECTION 4.8. Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, the directed grant provided to the
+Children's Home Society Foundation, Inc., on Page C110, Item 293 of the Committee Report
+shall instead be provided to the Children's Home Society of North Carolina.
+Page 24 Session Law 2026-61 House Bill 268
+
+TECHNICAL MODIFICATIONS TO THE GUARDIANSHIP ASSISTANCE
+PROGRAM BOILERPLATE TO ALIGN WITH S.L. 2025-16
+SECTION 4.9. Section 9J.4 of S.L. 2026-41 reads as rewritten:
+"SECTION 9J.4. Of the funds available for the provision of foster care services, the
+Department of Health and Human Services, Division of Social Services, may continue to provide
+for the financial support of children who are deemed to be (i) in a permanent family placement
+setting, (ii) eligible for legal guardianship, and (iii) otherwise unlikely to receive permanency.
+No additional expenses shall be incurred beyond the funds budgeted for foster care for the
+Guardianship Assistance Program (GAP). The Guardianship Assistance Program (GAP) or
+Kinship Guardianship Assistance Program (KinGAP). The GAP and KinGAP shall include
+provisions for extending guardianship services for individuals and youth who exited foster care
+through the Guardianship Assistance Program after 14 either guardianship assistance program at
+10 years of age or older or who have attained the age of 18 years and opt to continue to receive
+guardianship services until reaching 21 years of age if the individual is (i) completing secondary
+education or a program leading to an equivalent credential, (ii) enrolled in an institution that
+provides postsecondary or vocational education, (iii) participating in a program or activity
+designed to promote, or remove barriers to, employment, (iv) employed for at least 80 hours per
+month, or (v) incapable of completing the educational or employment requirements of this section
+due to a medical condition or disability. The Guardianship Assistance Program GAP and
+KinGAP rates shall reimburse the legal guardian for room and board and be set at the same rate
+as the foster care room and board rates in accordance with rates established under
+G.S. 108A-49.1."
+FUNDING ADJUSTMENT TO THE RESPONSIBLE FATHERHOOD NC PROGRAM
+SECTION 4.10.(a) Notwithstanding any provision of S.L. 2026-41 or the
+Committee Report described in Section 45.2 of that act to the contrary, funds provided for the
+grants portion of the Responsible Fatherhood NC Program on Page C110, Item 296, of the
+Committee Report shall be reduced by the sum of two hundred fifty thousand dollars ($250,000)
+in nonrecurring funds for the 2026-2027 fiscal year.
+SECTION 4.10.(b) Section 9J.13(a) of S.L. 2026-41 reads as rewritten:
+"SECTION 9J.13.(a) Allocation of Funds. – Of the funds appropriated in this act from the
+General Fund to the Department of Health and Human Services, Division of Social Services
+(Division), the sum of three million dollars ($3,000,000) two million seven hundred fifty
+thousand dollars ($2,750,000) in nonrecurring funds for the 2026-2027 fiscal year shall be used
+to implement the provisions of this section. The Division shall allocate the funds provided under
+this section as follows:
+(1) Up to two million dollars ($2,000,000) shall be used to contract for the
+Program Manager authorized by subsection (c) of this section.
+(2) The remainder of the funds shall be used for the grants authorized in
+accordance with subsections (e) and (f) of this section."
+AUTHORIZATION TO USE CERTAIN UNEXPENDED FEDERAL BLOCK GRANT
+FUNDS
+SECTION 4.11. Section 9M.1(a) of S.L. 2026-41 reads as rewritten:
+"SECTION 9M.1.(a) Except as otherwise provided, appropriations from federal Block
+Grant funds are made for the fiscal year ending June 30, 2027, according to the following
+schedule:
+…
+House Bill 268 Session Law 2026-61 Page 25
+
+CHILD CARE AND DEVELOPMENT FUND BLOCK GRANT
+Local Program Expenditures
+Division of Child Development and Early Education
+01. Child Care Services $384,089,929
+$444,089,929
+…
+TOTAL CHILD CARE AND DEVELOPMENT
+FUND BLOCK GRANT $506,199,981
+$566,199,981
+…
+COMMUNITY SERVICES BLOCK GRANT
+01. Community Action Agencies $21,483,238
+$23,314,140
+…
+TOTAL COMMUNITY SERVICES
+BLOCK GRANT $23,487,020
+$25,317,922
+…."
+PART V. AGRICULTURE AND NATURAL AND ECONOMIC RESOURCES
+TRANSFER FARM TO SCHOOL PROGRAM FUNDING
+SECTION 5.1. Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, funds provided to the Department of
+Public Instruction for the North Carolina Farm to School program on Page B22, Item 75 of the
+Committee Report shall instead be appropriated to the Department of Agriculture and Consumer
+Services in the same amount and for the same purpose.
+DACS VACANT POSITION FUNDING RESTORATION/ADDITIONAL FUNDING
+CHANGES
+SECTION 5.2.(a) DACS Vacant Position Funding Restored. – Notwithstanding any
+provision of S.L. 2026-41 or the Committee Report described in Section 45.2 of that act to the
+contrary, there is appropriated from the General Fund to the Department of Agriculture and
+Consumer Services the sum of three million seven hundred fifty-seven thousand five hundred
+fifty nine dollars ($3,757,559) in recurring funds beginning in the 2026-2027 fiscal year to restore
+the vacant position funding eliminated by that act, as provided on Page D5, Item 7 of the
+Committee Report.
+SECTION 5.2.(b) NCFS Equipment Funding; Recurring Funds Reduction. –
+Notwithstanding any provision of S.L. 2026-41 or the Committee Report described in Section
+45.2 of that act to the contrary, of the funds appropriated by that act to the North Carolina Forest
+Page 26 Session Law 2026-61 House Bill 268
+
+Service, the allocation for emergency equipment repair and replacement needs, as provided on
+Page D7, Item 16 of the Committee Report, is reduced by the sum of two million dollars
+($2,000,000) in recurring funds beginning in the 2026-2027 fiscal year.
+SECTION 5.2.(c) NCFS Equipment Funding; Additional Nonrecurring Funds. –
+There is appropriated from the General Fund to the North Carolina Forest Service the sum of two
+million dollars ($2,000,000) in nonrecurring funds for the 2026-2027 fiscal year for emergency
+equipment repair and replacement needs.
+SECTION 5.2.(d) NCFS Prescribed Burning; Recurring Funds Reduction. –
+Notwithstanding any provision of S.L. 2026-41 or the Committee Report described in Section
+45.2 of that act to the contrary, of the funds appropriated by that act to the North Carolina Forest
+Service, the allocation for the Prescribed Burning Cost Share Program described in Article 80A
+of Chapter 106 of the General Statutes is reduced by the sum of one million dollars ($1,000,000)
+in recurring funds beginning in the 2026-2027 fiscal year.
+SECTION 5.2.(e) NCFS Prescribed Burning; Additional Nonrecurring Funds. –
+There is appropriated from the General Fund to the North Carolina Forest Service the sum of one
+million dollars ($1,000,000) in nonrecurring funds for the 2026-2027 fiscal year to implement
+the Prescribed Burning Cost Share Program described in Article 80A of Chapter 106 of the
+General Statutes.
+SPORTS CHAMPIONSHIP EVENTS INCENTIVE
+SECTION 5.3.(a) Appropriation. – Provided the Piedmont Triad Charitable
+Foundation (Foundation) enters into (i) an agreement with the Department of Commerce
+(Department) comporting with the requirements of subsection (b) of this section and (ii) an
+agreement with a sports championship tour organizer, there is appropriated to the Department
+from the Economic Development Project Reserve established in Section 2.2(m) of S.L. 2021-180
+the sum of ten million dollars ($10,000,000) in nonrecurring funds for the 2026-2027 fiscal year
+to be provided to the Foundation as a directed grant for the purpose of securing the required
+qualifying events. The provisions of G.S. 143C-6-23(d) and the guidelines and rules adopted
+pursuant thereto do not apply to funds appropriated in this section. Provided the requirements of
+the agreement continue to be met, it is the intent of the General Assembly to appropriate
+additional funds in future acts in the aggregate amount of thirty million dollars ($30,000,000)
+over an additional three fiscal years to continue holding qualifying events. As used in this section,
+(i) the term "sports championship tour organizer" means the PGA TOUR, Inc., (PGA), including
+any affiliated entity that can contract for and obligate the PGA, provided the PGA enters into a
+binding agreement with the Foundation requiring the PGA to hold at least four annual,
+consecutive qualifying events and (ii) the term "qualifying event" means a PGA Tour
+Championship Series Event that is held for the highest tier ranking of professional golfers who
+qualify through PGA qualifications from the previous year, that is held in the City of Greensboro,
+and that is in addition to any event meeting the same criteria held in the same year in the State.
+All qualifying events required by this subsection must be held after January 1, 2028, and before
+December 31, 2031. The Foundation will report to the Department annually on June 1 of each
+year following the year the agreement is entered into on the qualifying events required by this
+section that have been fulfilled. The report required by this section may cease in the year after
+the year in which the Foundation reports all such qualifying event requirements have been
+fulfilled.
+SECTION 5.3.(b) Agreement. – The Department and the Foundation shall enter into
+an agreement, which is binding and constitutes a continuing contractual obligation of the State
+and the Foundation for hosting the events identified in subsection (a) of this section. The
+agreement must (i) include all of the performance criteria, remedies, and other safeguards
+required by the Department to secure the State's benefit derived from holding the required events
+and (ii) require the Foundation to repay a proportionate amount of the grant for failure by the
+House Bill 268 Session Law 2026-61 Page 27
+
+Foundation to meet and maintain the applicable performance criteria on which the grant was
+based.
+SECTION 5.3.(c) Report. – On September 1 of each year that requirements set forth
+in the agreement entered into pursuant to subsection (b) of this section remain unfulfilled, the
+Department shall report to the committees or subcommittees responsible for appropriations for
+natural and economic resources in both the House of Representatives and the Senate, to the Joint
+Legislative Economic Development and Global Engagement Oversight Committee, and to the
+Fiscal Research Division. The report shall include an executive summary of the performance
+criteria, remedies, and safeguards required by the Department, a description of the current status
+of the project, the amount of grant paid under the agreement, and the number and classification
+of events required and held in this State.
+RESTORE COMMERCE DEPARTMENT CULTURE AND COMMUNITY
+ENGAGEMENT POSITION
+SECTION 5.4.(a) There is appropriated from the General Fund to the Department
+of Commerce the sum of twenty-three thousand four hundred eighty-nine dollars ($23,489) in
+recurring funds beginning in the 2026-2027 fiscal year, notwithstanding any provision of S.L.
+2026-41 or the Committee Report described in Section 45.2 of that act (Committee Report) to
+the contrary, to support the following full-time equivalent position to coordinate the Department's
+obligations under the Equal Employment Opportunity Act: Agency HR Consultant II (position
+number 60077158).
+SECTION 5.4.(b) Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, funds allocated to the Department of
+Commerce for "Administrative Operating Costs," as provided on Page D16, Item 35 of the
+Committee Report, shall be reduced by the sum of seventy thousand four hundred sixty-eight
+dollars ($70,468) in recurring funds beginning in the 2026-2027 fiscal year.
+INDIA/IRELAND TRADE COMMISSIONS ADMINISTRATIVE FUNDING
+SECTION 5.5. There is appropriated from the General Fund to the Department of
+Commerce the sum of twenty thousand dollars ($20,000) in recurring funds beginning in the
+2026-2027 fiscal year to be equally allocated to the North Carolina – India Trade Commission
+and the North Carolina – Ireland Trade Commission (jointly, the "Commissions") established
+under Part XI of S.L. 2026-41. The Commissions shall use funds appropriated under this section
+for administrative expenses.
+RESTORE COMMERCE DEPARTMENT ENERGY AND INFRASTRUCTURE
+OFFICE
+SECTION 5.6. There is appropriated from the General Fund to the Department of
+Commerce the sum of one hundred eighty-eight thousand four hundred thirty-one dollars
+($188,431) in recurring funds beginning in the 2026-2027 fiscal year to support the continued
+operation of the Energy and Infrastructure Office, notwithstanding any provision of S.L. 2026-41
+or the Committee Report described in Section 45.2 of that act to the contrary. The Department
+shall use funds allocated under this section to support the position of Assistant Secretary for
+Clean Energy Economic Development (position number 60078206).
+MILITARY WORLD GAMES FUNDING
+SECTION 5.7. There is appropriated from the General Fund to the Department of
+Commerce ("Department") the sum of twenty-five million dollars ($25,000,000) in nonrecurring
+funds for the 2026-2027 fiscal year to support the 2027 Military World Games ("Games") in this
+State. The Department shall provide a report on the use of funds appropriated under this section
+to the Joint Legislative Commission on Governmental Operations no later than October 1 of
+Page 28 Session Law 2026-61 House Bill 268
+
+every year following the conclusion of each fiscal year in which funds appropriated under this
+section are expended or encumbered. Funds appropriated under this section shall not revert at the
+end of the 2026-2027 fiscal year. Funds appropriated under this section that have not been
+expended or encumbered by June 30, 2028, shall revert to the General Fund. Of the funds
+appropriated under this section, the allocation and expenditure of seventeen million five hundred
+thousand dollars ($17,500,000) by the Department is contingent upon the local organizing
+committee for the Games (i) securing commitments by August 1, 2026, for participation in the
+Games from at least 50 countries with a minimum of 7,500 total participants and (ii) receiving a
+Special Event Assessment Rating Level 1 or Level 2 designation from the United States
+Department of Homeland Security prior to June 25, 2027. For purposes of this section,
+"participants" includes all members of a country's official delegation, including athletes, coaches,
+support staff, and other officials. The remaining seven million five hundred thousand dollars
+($7,500,000) appropriated under this section shall be used by the Department to reserve facilities
+at the University of North Carolina at Charlotte ("University") for hosting the Games and shall
+be disbursed from the Department to the University as soon as practicable after this section
+becomes effective.
+MICRO-BUDGET PRODUCTION AWARD CLARIFICATION
+SECTION 5.8. G.S. 143B-437.02C(a) is amended by adding a new subdivision to
+read:
+"(7) A production that is awarded a grant under this section is not eligible to receive
+a grant under G.S. 143B-437.02A."
+FILM AND ENTERTAINMENT GRANT FUNDING
+SECTION 5.8A. There is appropriated from the General Fund to the Department of
+Commerce the nonrecurring sum of fifteen million dollars ($15,000,000) for the 2026-2027 fiscal
+year to be allocated to the Film and Entertainment Grant Fund established under
+G.S. 143B-437.02A.
+TOWN OF SYLVA DIRECTED GRANT CHANGES
+SECTION 5.9. Funds allocated to the Town of Sylva (Town) by Section 12.3(c)(5)
+of S.L. 2026-41 for repairs to the public works maintenance building may, notwithstanding that
+section, be used by the Town for repairs to buildings owned by the Town and for other public
+works facilities.
+DEQ EMERGING CONTAMINANT FUNDING CLARIFICATION
+SECTION 5.10. The Department of Environmental Quality may use funds
+appropriated in S.L. 2026-41 for emerging contaminant research, as provided on Page D37, Item
+70 of the Committee Report described in Section 45.2 of that act, to support and expand the
+capacity of the Division of Water Resources' laboratory operations.
+UST PROGRAM BUDGET CODE ADJUSTMENTS
+SECTION 5.11. Notwithstanding the Committee Report described in Section 45.2
+of S.L. 2026-41, funds transferred in that act from the Commercial Leaking UST Fund (Budget
+Code 64305-603100) to Budget Code 14300-102187 for administration shall instead be
+transferred to Budget Code 14300-102189.
+NCUC EMERGENCY LOAN PROGRAM – RULEMAKING MODIFICATION
+SECTION 5.12. G.S. 159G-42 reads as rewritten:
+"§ 159G-42. Disbursement of loan or grant.
+House Bill 268 Session Law 2026-61 Page 29
+
+Except in the case of loan disbursements from the NCUC Emergency Reserve, the
+Department must disburse the proceeds of a loan or grant to a recipient in a series of payments
+based on the progress of the project for which the loan or grant was awarded. To obtain a
+payment, a loan or grant recipient must submit a request for payment to the Department and
+document the expenditures for which the payment is requested. The Department shall may
+establish rules governing the disbursement of loan proceeds from the NCUC Emergency Reserve
+which Reserve. The disbursement of loan proceeds from the NCUC Emergency Reserve may
+include advance disbursements or up-front payments."
+WASTEWATER AND DRINKING WATER GRANT CHANGES
+SECTION 5.13. G.S. 159G-36(c), as amended by Section 12.2(h) of S.L. 2026-41,
+reads as rewritten:
+"(c) Certain Reserve Recipient Limit. – The following limits apply to the loan or grant
+types made from the Wastewater Reserve or the Drinking Water Reserve to the same local
+government unit or nonprofit water corporation:
+(1) The amount of loans awarded for a fiscal year may not exceed three million
+dollars ($3,000,000).
+(2) The amount of loans awarded for three consecutive fiscal years for targeted
+interest rate projects may not exceed three million dollars ($3,000,000).
+(3) The amount of project grants awarded for three consecutive fiscal years may
+not exceed three million dollars ($3,000,000).
+(4) The amount of merger/regionalization feasibility grants awarded for three
+consecutive a fiscal years year may not exceed seventy-five thousand dollars
+($75,000).
+(5) The amount of asset inventory and assessment grants awarded for three
+consecutive fiscal years may not exceed two hundred twenty-five thousand
+dollars ($225,000)."
+EXEMPT DEPARTMENT OF LABOR FROM DIT
+SECTION 5.14. G.S. 143B-1320(b), as amended by Section 20.6 of S.L. 2026-41,
+reads as rewritten:
+"(b) Exemptions. – Except as otherwise specifically provided by law, this Article does not
+apply to the following entities: the General Assembly, the Judicial Department, the Community
+Colleges System Office, The University of North Carolina and its constituent institutions, the
+Office of the State Auditor, the State Board of Elections, the State Highway Patrol, the State
+Bureau of Investigation, and the Department of State Treasurer. Treasurer, and the Department
+of Labor. These entities may elect to participate in the information technology programs,
+services, or contracts offered by the Department, including information technology procurement,
+in accordance with the statutes, policies, and rules of the Department. The election shall be made
+in writing, as follows:
+…
+(11) For the Department of Labor, by the Commissioner of Labor."
+OSBM GRANTS/FUNDS REALLOCATION
+SECTION 5.15.(a) Section 4.7 of S.L. 2026-42 is repealed.
+SECTION 5.15.(b) Notwithstanding any provision of S.L. 2026-41 or the
+Committee Report described in Section 45.2 of that act to the contrary, of the funds appropriated
+by those acts to the Department of Natural and Cultural Resources, the allocation for the Great
+Trails Fund described in Section 14.10 of S.L. 2026-41 is reduced by the sum of one million
+ninety thousand dollars ($1,090,000) in nonrecurring funds for the 2026-2027 fiscal year.
+Page 30 Session Law 2026-61 House Bill 268
+
+SECTION 5.15.(c) There is appropriated from the General Fund to the Office of
+State Budget and Management the sum of one million forty thousand dollars ($1,040,000) in
+nonrecurring funds for the 2026-2027 fiscal year to provide directed grants to the following
+entities in the following amounts:
+(1) One hundred thousand dollars ($100,000) to the Town of Hope Mills.
+(2) Fifty thousand dollars ($50,000) to the Richmond County Sheriff's
+Department.
+(3) Five hundred thousand dollars ($500,000) to Baptist Children's Homes of
+North Carolina, Inc., a nonprofit corporation.
+(4) Fifty thousand dollars ($50,000) to the Town of Autryville for any public
+purpose.
+(5) Two hundred fifty thousand dollars ($250,000) to The Samantha and Kyle
+Busch Bundle of Joy Fund, a nonprofit corporation.
+(6) Ninety thousand dollars ($90,000) to the South Caldwell Optimist Club, Inc.,
+a nonprofit corporation.
+NORTH CAROLINA MUSEUM OF ART/FUNDING CHANGES
+SECTION 5.16. Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, funds allocated to the North Carolina
+Museum of Art (Museum) to support the position of a curator of Judaic art, as provided on Page
+D73, Item 187 of the Committee Report, may be used by the Museum for operational expenses.
+RESTORE DNCR OFFICE OF EDUCATION AND OUTREACH
+SECTION 5.17.(a) There is appropriated from the General Fund to the Department
+of Natural and Cultural Resources the sum of four hundred eighty one thousand nine hundred
+sixty five dollars ($481,965) in recurring funds beginning in the 2026-2027 fiscal year to support
+the continued operation of the Office of Education and Outreach (Learning Happens Here),
+notwithstanding any provision of S.L. 2026-41 or the Committee Report described in Section
+45.2 of that act (Committee Report) to the contrary. The Department shall use funds allocated
+under this section to support the following six full-time equivalent positions:
+Position Number Title
+(1) 60083311 Program Analyst I.
+(2) 65023190 Program Analyst II.
+(3) 60035952 Policy Development Analyst.
+(4) 60083943 Program Coordinator IV.
+(5) 65023194 Program Coordinator III.
+(6) 65026518 Program Coordinator III.
+SECTION 5.17.(b) The Department of Natural and Cultural Resources shall transfer
+position number 60083311 to Budget Fund 105101. The Department shall no longer support
+position number 60083311 from Department receipts but, consistent with subsection (a) of this
+section, shall support this position from General Fund appropriations to Budget Fund 105101.
+The Department may use any savings from budgeted receipts effectuated by this transfer to
+support operations of the Office of Archives and History.
+SECTION 5.17.(c) Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, funds allocated to the Department of
+Natural and Cultural Resources for software subscriptions, as provided on Page D71, Item 175
+of the Committee Report, shall be reduced by the sum of four hundred eighty-one thousand nine
+hundred sixty-five dollars ($481,965) in recurring funds beginning in the 2026-2027 fiscal year.
+WRC OPERATING FUNDS
+House Bill 268 Session Law 2026-61 Page 31
+
+SECTION 5.18. There is appropriated from the General Fund to the Wildlife
+Resources Commission the sum of one million dollars ($1,000,000) in recurring funds beginning
+in the 2026-2027 fiscal year to be used to support the operations of the Commission.
+PART VI. JUSTICE AND PUBLIC SAFETY
+REVISE EFFECTIVE DATE FOR TRANSFER OF MAGISTRATE
+SECTION 6.1. Section 16.3 of S.L. 2026-41 is amended by adding a new subsection
+to read:
+"SECTION 16.3.(c) Subsection (b) of this section and the corresponding revision to the
+number of magistrates in Franklin and Vance Counties set forth in subsection (a) of this section
+become effective July 13, 2026."
+INCREASE DOLLAR LIMIT ON IOLTA GRANTS
+SECTION 6.3. Section 16.25(e)(4)b. of S.L. 2026-41 reads as rewritten:
+"b. All unexpended and unencumbered funds received prior to July 1,
+2025, for programs designed to improve the administration of justice
+as may be proposed by the IOLTA Board of Trustees and approved
+annually by the North Carolina Supreme Court. No more than two
+million five hundred thousand dollars ($2,000,000) ($2,500,000) may
+be used per fiscal year for grants authorized under this
+sub-subdivision."
+PROVIDE FUNDING FOR SECOND CHANCE INITIATIVE AT CAMPBELL
+UNIVERSITY
+SECTION 6.4.(a) There is appropriated from the General Fund to the Department
+of Adult Correction the sum of one million dollars ($1,000,000) in nonrecurring funds for the
+2026-2027 fiscal year to provide a directed grant to Campbell University to support the Second
+Chance Initiative at the University.
+SECTION 6.4.(b) The requirements set forth in Section 5.2 of S.L. 2026-41 apply
+to the directed grant provided in subsection (a) of this section.
+ADJUST DATE BY WHICH THE DEPARTMENT OF PUBLIC SAFETY IS TO MOVE
+OUT OF THE ARCHDALE BUILDING
+SECTION 6.5. Section 19.6 of S.L. 2026-41 reads as rewritten:
+"SECTION 19.6. By December 1, 2026, April 1, 2027, all Department of Public Safety
+employees and contractors working at the Archdale Building located on North Salisbury Street
+in the City of Raleigh shall vacate that property and move to the building housing the North
+Carolina Education Lottery located on Capital Boulevard in the City of Raleigh. The Department
+of Administration shall take all steps necessary to effectuate the move required by this section."
+ADJUST FUNDING FOR THE TRANSFER OF SAMARCAND TRAINING ACADEMY
+TO THE STATE BUREAU OF INVESTIGATION
+SECTION 6.6. Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report referenced in Section 45.2 of that act, the reduction in funds to Budget Fund 102607 set
+forth in Item 96 on page E39 of the Committee Report and the increase in funds to Budget Fund
+108500 set forth on Page E51, Item 128 of the Committee Report shall both be reduced by the
+sum of one hundred sixteen thousand two hundred ninety-seven dollars ($116,297) in recurring
+funds beginning in the 2026-2027 fiscal year.
+Page 32 Session Law 2026-61 House Bill 268
+
+ADDITIONAL FUNDING FOR OPERATIONAL COSTS RELATED TO FACILITY
+CLOSING
+SECTION 6.7. There is appropriated from the General Fund to the Department of
+Public Safety the sum of one hundred five thousand dollars ($105,000) in nonrecurring funds for
+the 2026-2027 fiscal year to be used for operational costs incurred by the Department from the
+closing of a National Guard facility.
+AMEND VARIOUS JPS BUDGET FUNDS
+SECTION 6.8. Notwithstanding any provision of the Committee Report described
+in Section 45.2 of S.L. 2026-41 to the contrary, the Committee Report shall be revised as follows:
+(1) The Budget Fund listed on Page E39, Item 92 of the Committee Report shall
+be 102608 instead of 102601.
+(2) The Budget Fund listed on Page E39, Item 93 of the Committee Report shall
+be 102608 instead of 102601.
+(3) The Budget Fund listed on E40, Item 99 of the Committee Report shall be
+102652 instead of 102640.
+(4) The Budget Fund listed on Page E40, Item 100 of the Committee Report shall
+be 102652 instead of 102640.
+(5) The Budget Fund listed on Page E40, Item 101 of the Committee Report shall
+be 102686 instead of 102680.
+(6) The Budget Fund listed on Page E41, Item 102 of the Committee Report shall
+be 102686 instead of 102680.
+INCREASE NUMBER OF EXEMPT POSITIONS UNDER THE STATE HUMAN
+RESOURCES ACT AT THE STATE BUREAU OF INVESTIGATION
+SECTION 6.9.(a) G.S. 126-5(c1)(39) reads as rewritten:
+"(39) Employees of the State Bureau of Investigation, that the Director of the State
+Bureau of Investigation, at any time, in the Director of the State Bureau of
+Investigation's discretion, exempts from the application of this Chapter by
+means of a letter to the Director of the Office of State Human Resources
+designating these employees. The Director of the State Bureau of
+Investigation may exempt no more than 10 15 employees under the
+authorization set forth in this subdivision."
+SECTION 6.9.(b) G.S. 126A-15(8)cc. reads as rewritten:
+"cc. No more than 10 15 employees of the State Bureau of Investigation
+designated by the Director of the State Bureau of Investigation."
+ADJUST MANAGEMENT AND ADMINISTRATION OF THE OPERATING BUDGET
+OF THE SAMARCAND TRAINING ACADEMY
+SECTION 6.10. G.S. 143B-1209(b1), as enacted by Section 20.12(d) of S.L.
+2026-41, is repealed.
+EXEMPT STATE BUREAU OF INVESTIGATION FROM CERTAIN
+PROCUREMENT, CONTRACT, AND PUBLIC CONTRACT REQUIREMENTS
+SECTION 6.11. Article 13A of Chapter 143B of the General Statutes is amended by
+adding a new section to read:
+"§ 143B-1208.4A. Exemption of the State Bureau of Investigation from certain purchasing
+and contracting requirements.
+The State Bureau of Investigation (Bureau) may elect to be exempted from oversight by the
+Department of Administration on the matters of purchasing, contracts, acquisition and
+maintenance of real property, and leasing of office space under G.S. 143-341(2), (4)d. and d1.,
+House Bill 268 Session Law 2026-61 Page 33
+
+and (8)d. and Article 6 of Chapter 146 of the General Statutes. This election shall be made in
+writing by the Director of the Bureau and shall be sent to the Secretary of Administration. Any
+acquisition of real property made by the Bureau pursuant to this section is subject to approval by
+the Council of State."
+EXEMPT STATE HIGHWAY PATROL FROM CERTAIN PROCUREMENT,
+CONTRACT, AND PUBLIC CONTRACT REQUIREMENTS
+SECTION 6.12. Article 17 of Chapter 143B of the General Statutes is amended by
+adding a new section to read:
+"§ 143B-1706. Exemption of the State Highway Patrol from certain purchasing and
+contracting requirements.
+The State Highway Patrol (Patrol) may elect to be exempted from oversight by the
+Department of Administration on the matters of purchasing, contracts, acquisition and
+maintenance of real property, and leasing of office space under G.S. 143-341(2), (4)d. and d1.,
+and (8)d. and Article 6 of Chapter 146 of the General Statutes. This election shall be made in
+writing by the Commander of the Patrol and shall be sent to the Secretary of Administration. Any
+acquisition of real property made by the Patrol pursuant to this section is subject to approval by
+the Council of State."
+PART VII. GENERAL GOVERNMENT
+LITIGATION FUNDS ALLOCATION FOR OFFICE OF ADMINISTRATIVE
+HEARINGS
+SECTION 7.1. There is appropriated from the General Fund to the Office of
+Administrative Hearings the sum of five hundred thousand dollars ($500,000) in nonrecurring
+funds for the 2026-2027 fiscal year for costs associated with Rules Review Commission
+litigation.
+DEPARTMENT OF THE STATE AUDITOR BUDGET CODE ADJUSTMENTS
+SECTION 7.2.(a) Notwithstanding the Committee Report described in Section 45.2
+of S.L. 2026-41, of the 25 full-time equivalent positions (FTEs) allocated to Budget Fund 100701
+Administration (Page F18, Item 32), 17 FTEs shall instead be allocated to Budget Fund 100703
+Field Audit Division and eight FTEs shall be allocated to Budget Fund 100701 Administration.
+SECTION 7.2.(b) Notwithstanding the Committee Report described in Section 45.2
+of S.L. 2026-41, the five hundred thousand dollars ($500,000) in recurring funds appropriated to
+Budget Fund 100701 Administration to audit the Annual Comprehensive Financial Report on
+Page F18, Item 33 shall instead be appropriated to Budget Fund 100703 Field Audit Division in
+the same amount for the same purpose.
+SECTION 7.2.(c) Notwithstanding the Committee Report described in Section 45.2
+of S.L. 2026-41, the two million five hundred thousand dollars ($2,500,000) in recurring funds
+appropriated to Budget Fund 100701 Administration to investigate Medicaid waste and abuse
+and submit a report on its findings to the Joint Legislative Commission on Governmental
+Operations and the Fiscal Research Division on Page F18, Item 36 shall instead be appropriated
+to Budget Fund 100700 State Auditor-General Fund in the same amount and for the same
+purpose.
+FUNDS FOR RURAL HEALTH CARE STABILIZATION PROGRAM
+SECTION 7.3. There is appropriated from the General Fund to the Office of State
+Budget and Management the sum of ten million dollars ($10,000,000) in nonrecurring funds for
+the 2026-2027 fiscal year to be used for the Rural Health Care Stabilization Program authorized
+by Article 2 of Chapter 131A of the General Statutes.
+Page 34 Session Law 2026-61 House Bill 268
+
+OSBM DIRECTED GRANT CHANGES
+SECTION 7.4.(a) The introductory language to Section 6.2 of S.L. 2026-42 reads
+as rewritten:
+"SECTION 6.2. If Senate Bill 257, 2025 Regular Session, becomes law, then Part XVI
+XXVI of that act is amended by adding a new section to read:"
+SECTION 7.4.(b) Section 26.10 of S.L. 2026-41, as enacted by Section 6.2 of S.L.
+2026-42, reads as rewritten:
+"SECTION 26.10.(a) Notwithstanding any provision of this act or the Committee Report
+referenced in Section 45.2 of this act to the contrary, of the funds appropriated in this act to the
+Office of State Budget and Management – Special Appropriations for the 2026-2027 fiscal year,
+OSBM shall allocate the following directed grants in nonrecurring funds for the 2026-2027 fiscal
+year to the following entities in the following amounts for the stated purposes:
+(1) One million dollars ($1,000,000) to Book Harvest, a nonprofit corporation.
+(2) Two million five hundred thousand dollars ($2,500,000) to Camp Grier, a
+nonprofit corporation.
+(3) Five hundred thousand dollars ($500,000) to the Town of Yanceyville for
+capital projects.
+(4) Two hundred thousand dollars ($200,000) to the Lenoir County Sheriff's
+Office for capital improvements or equipment.
+(5) Five hundred thousand ($500,000) to Charlotte Healthcare Coalition, Inc., a
+nonprofit corporation.
+(6) Two hundred thousand dollars ($200,000) to Care Ring, Inc., a nonprofit
+corporation.
+(7) One hundred thousand dollars ($100,000) to Southeastern Healthcare of North
+Carolina, Inc.
+(8) Ten thousand dollars ($10,000) to Cabarrus County for Odell Volunteer Fire
+Department #2.
+(9) In addition to the three million seven hundred fifty thousand dollars
+($3,750,000) to Fayetteville Technical Community College and Wilkes
+Community College to establish the Community College Seamless Skills
+Initiative (Page B8, Item 27), two million seven hundred fifty thousand dollars
+($2,750,000) to Fayetteville Technical Community College for cybersecurity
+education.
+(10) Fifty thousand dollars ($50,000) to the Leggett Volunteer Fire Department,
+Inc., a nonprofit corporation, partially funded with the reduction in funds from
+the Great Trails Fund in Section 5.15 of House Bill 268, 2025 Regular
+Session, for the purchase of a truck.
+"SECTION 26.10.(b) Notwithstanding any provision of this act or the Committee Report
+referenced in Section 45.2 of this act to the contrary, the following directed grants allocated by
+the Office of State Budget and Management – Special Appropriations for the 2026-2027 fiscal
+year are amended as follows:
+(1) In addition to the five hundred thousand dollars ($500,000) to the Town of
+Yanceyville for water and wastewater infrastructure (Page F90, Item 714),
+five Item 714), the following directed grants are allocated to the Town of
+Yanceyville:
+a. Five hundred thousand dollars ($500,000) to the Town of Yanceyville
+for the same purpose, water and wastewater infrastructure, totaling one
+million dollars ($1,000,000).
+b. Five hundred thousand dollars ($500,000) to the Town of Yanceyville
+for capital projects.
+House Bill 268 Session Law 2026-61 Page 35
+
+…
+(20) The directed grant to the City of King for parking improvements (Page F44,
+Item 219) shall instead be allocated as a directed grant to the City.City for any
+public purpose.
+…
+(29) The directed grant to Southeastern Healthcare of North Carolina, Inc., a
+nonprofit corporation, for five hundred thousand dollars ($500,000) (Page
+F33, Item 100) shall be increased by an additional one hundred thousand
+dollars ($100,000), totaling six hundred thousand dollars ($600,000).
+(30) The directed grant to Care Ring, Inc., a nonprofit corporation, in Mecklenburg
+County for five hundred thousand dollars ($500,000) (F29, Item 58) shall be
+increased by an additional two hundred thousand dollars ($200,000), totaling
+seven hundred thousand dollars ($700,000).
+(31) The directed grant to Charlotte Healthcare Coalition, Inc., a nonprofit
+corporation, for five hundred thousand dollars ($500,000) (Page F29, Item 63)
+shall be increased by an additional five hundred thousand dollars ($500,000),
+totaling one million dollars ($1,000,000).
+(32) In addition to the directed grants to Cabarrus County for capital projects,
+Frank Liske Park, and the sheriff's office (Page F39, Items 165, 166, and 167,
+respectively), Cabarrus County shall be allocated a directed grant of ten
+thousand dollars ($10,000) for Odell Volunteer Fire Department #2.
+(33) The directed grant to the City of Mebane for water, wastewater, and
+stormwater improvements (Page F44, Item 224) shall be reduced by
+twenty-five thousand dollars ($25,000), for a total allocation of seven hundred
+thousand dollars ($700,000).
+(34) The directed grant to the Town of Swepsonville for water, wastewater, and
+stormwater improvements (Page F88, Item 698) shall be increased by
+twenty-five thousand dollars ($25,000), for a total allocation of fifty thousand
+dollars ($50,000).
+(35) The directed grant to the City of Graham for water, wastewater, and
+stormwater improvements (Page F43, Item 210) shall be reduced by
+twenty-five thousand dollars ($25,000), for a total allocation of three hundred
+fifty thousand dollars ($350,000).
+(36) The directed grant to the Town of Green Level for water, wastewater, and
+stormwater improvements (Page F82, Item 627) shall be increased by
+twenty-five thousand dollars ($25,000), for a total allocation of fifty thousand
+dollars ($50,000).
+(37) The directed grant to Foundation Forward, Inc., a nonprofit corporation, (Page
+F29, Item 64) shall instead be provided to the same nonprofit organization for
+Charters of Freedom settings in counties where there are not yet Charters of
+Freedom settings.
+(38) Of the funds appropriated to the Town of Vass as a directed grant (Page F89,
+Item 703), fifty thousand dollars ($50,000) shall be allocated to Partners for
+Children & Families, Inc., a nonprofit corporation.
+(39) The directed grant provided to Bear Creek Volunteer Fire Department, Inc.,
+to purchase or upgrade equipment (Page F36, Item 135) shall instead be
+provided as a directed grant to Onslow County Fire Rescue to purchase or
+upgrade equipment for the Bear Creek Fire Station located at 138 Old Sand
+Ridge Road in Hubert, North Carolina.
+Page 36 Session Law 2026-61 House Bill 268
+
+(40) The directed grant to Surry County for water and wastewater needs (Page F75,
+Item 556) shall instead be allocated as a directed grant to Surry County in the
+same amount for any public purpose.
+(41) The directed grant to Lumbee Nations, Inc., for the cultural center (Page F62,
+Item 413) shall instead be provided to Lumbee Land Development, Inc., a
+nonprofit corporation, for the same purpose.
+(42) The directed grant to the North Carolina Coastal Federation, Inc., a nonprofit
+corporation, for the completion of a museum in Carteret County (Page F31,
+Item 86) may also be used for costs incurred for the museum during the
+2025-2026 fiscal year.
+(43) The directed grant to the North Carolina Police Benevolent Association, Inc.,
+a nonprofit corporation, for a post-traumatic stress disorder study (Page F32,
+Item 87) shall be reduced by five hundred thousand dollars ($500,000).
+(44) The directed grant to Moore County for the Davis Community Center (Page
+F63, Item 432) shall instead be provided to Moore County in the same amount
+for water and wastewater infrastructure projects.
+(45) Of the two hundred fifty thousand dollars ($250,000) allocated as a directed
+grant to Craven County for various capital improvements (Page F47, Item
+254), fifty thousand dollars ($50,000) shall instead be allocated as a directed
+grant to the City of Havelock for any public purpose.
+(46) The funds to the Southeastern Drainage District (Page F74, Item 539) shall
+instead be titled "Southeastern Drainage Office." The five hundred thousand
+dollars ($500,000) in nonrecurring funds allocated to the Department of
+Transportation under that item shall be used by the Department to provide a
+directed grant to Southeastern Drainage Office, Inc., a nonprofit corporation,
+to support its activities in assisting North Carolina drainage districts.
+(47) The directed grant to Cleveland County for various projects (Page F46, Item
+242) shall be reduced by five hundred thousand dollars ($500,000).
+(48) The directed grant to Cleveland County (Page F46, Item 241) shall be
+increased by five hundred thousand dollars ($500,000), for a revised total of
+one million nine hundred sixty-five thousand dollars ($1,965,000).
+(49) The directed grant to Clemmons Civic Club, Inc., to support local nonprofits
+and other community needs (Page F46, Item 240) shall instead be allocated in
+the same total amount as directed grants to the following entities for the same
+purpose:
+a. Sixty-two thousand five hundred dollars ($62,500) to Shallow Ford
+Foundation, Inc., a nonprofit corporation.
+b. Sixty-two thousand five hundred dollars ($62,500) to the Village of
+Clemmons.
+(50) The directed grant to the Guilford Technical Community College for the
+Aviation Center (Page F56, Item 350) shall be reduced by twenty-five
+thousand dollars ($25,000).
+(51) The directed grant to Bertie County for an emergency medical services station
+(Page F37, Item 140) shall instead be provided to Bertie County for a new 911
+call center.
+(52) The directed grant to Pitt County for water and wastewater infrastructure
+(Page F69, Item 487) shall instead be provided to Pitt County for any public
+purpose.
+(53) The directed grant to I-CARE, Community Outreach Development, Inc.,
+(Page F59, Item 379) shall instead be provided to Icare, Inc., doing business
+House Bill 268 Session Law 2026-61 Page 37
+
+as I-CARE, Inc., a nonprofit corporation, located in Statesville, North
+Carolina.
+(54) The directed grant to Champion House of Care, LLC (Page F29, Item 62),
+shall instead be allocated to Champion House of Care Project One, Inc., a
+nonprofit corporation, for the same purpose.
+(55) The directed grant to Habitat for Humanity of Goldsboro-Wayne, Inc., a
+nonprofit corporation, for the McNair Heights development project (Page
+F56, Item 352) shall be increased by twenty-five thousand dollars ($25,000),
+partially funded with the reduction in funds from the Great Trails Fund in
+Section 5.15 of House Bill 268, 2025 Regular Session."
+FRIENDS OF NC MARITIME MUSEUM GRANT EXTENSION
+SECTION 7.5. Notwithstanding S.L. 2023-134 and the Committee Report
+referenced in Section 43.2 of that act, the directed grant provided to Friends of the North Carolina
+Maritime Museum at Southport on Page F91, Item 655 for a fire suppression system and related
+costs shall not revert until June 30, 2028.
+BENTONVILLE STATE HISTORIC SITE GRANT EXTENSION
+SECTION 7.6. Notwithstanding S.L. 2023-134 and the Committee Report
+referenced in Section 43.2 of that act, the directed grant provided to Johnston County for the
+Bentonville State Historic Site on Page F70, Item 400 shall not revert until June 30, 2028.
+EDGECOMBE COUNTY ECONOMIC DEVELOPMENT
+SECTION 7.7. Notwithstanding Section 24.2(45)b. and c. of S.L. 2022-74 and the
+Committee Report referenced in Section 43.2 of that act, any remaining funds allocated to
+Edgecombe County (i) to assist with costs associated with the fire at the QVC facility and
+post-fire cleanup at the QVC facility and (ii) for the QVC employee support program shall instead
+be used by Edgecombe County for economic development purposes.
+ALL PRO DAD/DEPARTMENT OF PUBLIC INSTRUCTION CORRECTION
+SECTION 7.8. Notwithstanding S.L. 2026-41 and the Committee Report referenced
+in Section 45.2 of that act, the directed grant allocated from the Department of Public Instruction
+to Family First, Inc., a nonprofit corporation, in Budget Code 13150-101191, shall instead be
+allocated to the Office of State Budget and Management to provide a directed grant to the same
+entity in the same amount for the same purpose.
+CAGC GRANT FUNDING FOR COMMUNITY COLLEGES MODIFICATION
+SECTION 7.9.(a) Section 26.3 of S.L. 2026-41 is repealed.
+SECTION 7.9.(b) Part XXVI of S.L. 2026-41 is amended by adding a new section
+to read:
+"CAGC GRANT FUNDING FOR COMMUNITY COLLEGES
+"SECTION 26.3A. Of the funds appropriated in this act to the Office of State Budget and
+Management – Special Appropriations, the sum of one million dollars ($1,000,000) in
+nonrecurring funds for the 2026-2027 fiscal year shall be provided to CAGC Foundation, Inc.
+(CAGC), a nonprofit corporation, to be used as follows:
+(1) To conduct outreach, recruitment, career coaching, and placement, and to
+provide grants to employers for internships, apprenticeships, and other
+work-based learning for eligible participants.
+(2) To provide financial assistance to individuals to pursue a career pathway
+through a registered apprenticeship or trade program.
+Page 38 Session Law 2026-61 House Bill 268
+
+(3) To provide grants to community colleges selected by CAGC, in consultation
+with the Community Colleges System Office, to campuses that have
+developed an eight-week work-based learning program where construction
+programs currently exist or to campuses where there is a demand to expand
+construction programs to develop such a program. The work-based learning
+program shall involve the construction industry and shall focus on core
+competencies, including applied hands-on skills, safety training, and soft
+skills training."
+SENATORIAL ADVICE AND CONSENT
+SECTION 7.10.(a) G.S. 143B-9 reads as rewritten:
+"§ 143B-9. Appointment of officers and employees.
+(a) Department Head. – Except as otherwise provided in this Chapter, the head of each
+principal State department, except those departments headed by popularly elected officers, shall
+be appointed by the Governor and serve at the Governor's pleasure. The salary of the head of
+each of the principal State departments shall be set by the Governor, and the salary of elected
+officials shall be as provided by law.
+(a1) Appointment. – For each head of each principal State department covered by this
+section, the Governor shall notify the President of the Senate of the name of each person to be
+appointed. Unless expressly waived by an enactment of the General Assembly, the appointment
+shall be subject to senatorial advice and consent in conformance with Constitution.the
+Constitution during the legislative biennium in which the appointment was made. If senatorial
+advice and consent is not provided for an appointment prior to the earlier of adjournment sine
+die of the General Assembly or the end of the legislative biennium, the appointee shall no longer
+serve as the head of that principal State department and the Governor shall not reappoint that
+individual as the head of that principal State department during the Governor's term of office.
+(a2) Vacancy. – If a vacancy occurs when the General Assembly is not in regular session,
+a person appointed to fill the vacancy may serve without senatorial advice and consent for no
+longer than the earlier of the following:
+(1) The date on which the Senate adopts a simple resolution that specifically
+disapproves the person appointed.
+(2) The date on which the General Assembly shall adjourn pursuant to a joint
+resolution for a period longer than 30 days without the Senate adopting a
+simple resolution specifically approving the person appointed.
+(a3) Consecutive Terms. – Senatorial advice and consent is limited to the remainder of the
+term the Governor is serving at the time it is given unless all of the following requirements are
+met:
+(1) The person was appointed by the Governor and received Senatorial advice and
+consent as the head of the same principal State department during that
+Governor's immediately preceding term.
+(2) The person continues to serve in the same position.
+(3) The Senate has not adopted a simple resolution specifically disapproving the
+person during the first 90 legislative days of the first regular session
+commencing in the calendar year after the Governor's reelection. For purposes
+of this subdivision, a "legislative day" is a day on which the Senate convenes
+in regular session. A person is no longer eligible to continue to serve after the
+date on which the Senate adopts a simple resolution under this subdivision.
+(b) Chief Deputy; Chief Assistant. – The head of a principal State department shall
+appoint a chief deputy or chief assistant, and such chief deputy or chief assistant shall not be
+subject to the North Carolina Human Resources Act. The salary of such chief deputy or chief
+assistant shall be set by the Governor. Unless otherwise provided for in the Executive
+House Bill 268 Session Law 2026-61 Page 39
+
+Organization Act of 1973, and subject to the provisions of the Human Resources Act, the head
+of each principal State department shall designate the administrative head of each transferred
+agency and all employees of each division, section, or other unit of the principal State
+department."
+SECTION 7.10.(b) This section is effective when it becomes law and applies
+beginning with appointments made during the 2025-2026 legislative biennium.
+DIRECT DOI AND OSFM TO LEASE STATE-OWNED PROPERTY
+SECTION 7.11. Section 32.1 of S.L. 2026-41 reads as rewritten:
+"SECTION 32.1.(a) The Department of Insurance (Department) shall seek State-owned
+property to lease for office space to occupy at the conclusion of its current private lease. If an
+adequate State-owned building cannot be leased for office space by September 30, 2028, the
+Department shall seek to renew its current lease for a one-year period. No later than March 1,
+2027, the Department shall provide a report to the Joint Legislative Oversight Committee on
+General Government, the House Appropriations Committee on General Government, the Senate
+Appropriations Committee on General Government and Information Technology, and the Fiscal
+Research Division listing all State-owned buildings with adequate capacity to house the
+Department.
+"SECTION 32.1.(b) The Office of the State Fire Marshal (OSFM) shall seek State-owned
+property to lease for office space to occupy at the conclusion of its current private lease. If an
+adequate State-owned building cannot be leased for office space by October 31, 2026, OSFM
+shall seek to renew its current lease for a one-year period. No later than March 1, 2027, OSFM
+shall provide a report to the Joint Legislative Oversight Committee on General Government, the
+House Appropriations Committee on General Government, the Senate Appropriations
+Committee on General Government and Information Technology, and the Fiscal Research
+Division listing all State-owned buildings with adequate capacity to house OSFM.
+"SECTION 32.1.(c) This section is effective when it becomes law."
+REDUCE STAFFING CUTS TO DOI
+SECTION 7.12. Notwithstanding S.L. 2026-41 and the Committee Report described
+in Section 45.2 of that act, the reduction of two million seven hundred twelve thousand two
+hundred eighty-five dollars ($2,712,285) in recurring funds to the Department of Insurance for
+staffing purposes (Budget Code: 13900) shall instead be reduced by one million five hundred
+thousand dollars ($1,500,000).
+USE OF INSURANCE REGULATORY FUND BY DEPARTMENT OF INSURANCE
+FOR LEGAL EXPENSES INCURRED
+SECTION 7.13. Effective January 1, 2027, and consistent with Section 44.5(i) of
+S.L. 2026-41, the Department of Insurance (Department) may use up to one million two hundred
+thousand dollars ($1,200,000) in nonrecurring funds from the available cash balance of the
+Insurance Regulatory Fund (IRF) for expenses incurred by representation of the Department by
+North Carolina Department of Justice attorneys, consistent with the approved use of the IRF
+funds under G.S. 58-6-25(d)(6) as that subdivision existed immediately before its amendment by
+Section 44.5(c) of S.L. 2026-41. Nothing in this section shall be construed to limit the ability of
+the Department to use available funds collected and placed in the IRF prior to January 1, 2027,
+for any other allowed purpose listed in Section 44.5(i) of S.L. 2026-41.
+SPFIF/PSIF TECHNICAL CORRECTION
+SECTION 7.14. Notwithstanding S.L. 2026-41 and the Committee Report described
+in Section 45.2 of that act, of the funds appropriated to the State Property Fire Insurance Fund
+(SPFIF) (Budget Code: 139XX, Budget Fund: 101612), the sum of twenty million dollars
+Page 40 Session Law 2026-61 House Bill 268
+
+($20,000,000) in nonrecurring funds for the 2026-2027 fiscal year shall be allocated to the Public
+School Insurance Fund (PSIF).
+OSFM MOTOR FLEET APPROPRIATION
+SECTION 7.15. Notwithstanding S.L. 2026-41 and the Committee Report described
+in Section 45.2 of that act, of the funds appropriated to the Department of Insurance (Budget
+Code: 139XX, Budget Fund: 101601) to cover the increase in motor fleet management rates and
+to address an existing shortfall in motor fleet accounts, one hundred thousand dollars ($100,000)
+in recurring funds shall instead be allocated to the Office of the State Fire Marshal for the same
+purpose.
+OSFM ADMINISTRATIVE INDEPENDENCE
+SECTION 7.16.(a) It is the intent of the General Assembly to allow the Office of
+the State Fire Marshal to have control over its internal human resources and administrative and
+clerical duties.
+SECTION 7.16.(b) G.S. 58-78A-1(a), as amended by Section 13.4(a) of S.L.
+2026-41, reads as rewritten:
+"(a) The Office of the State Fire Marshal is created within the Department of Insurance
+and the Office shall exercise its powers and duties independently of the Department. The
+Department of Insurance shall shall, upon request of the Office of the State Fire Marshal, provide
+clerical and professional services to the Office of the State Fire Marshal for the purpose of
+carrying out its powers and duties under this Article and the laws of this State. For purposes of
+this section, the phrase "clerical and professional services" includes, but is not limited to,
+budgetary, human resources, information technology, and legal."
+SECTION 7.16.(c) There is appropriated one million two hundred fifty-three
+thousand four hundred ninety-one dollars ($1,253,491) in recurring funds from the General Fund
+to the Office of the State Fire Marshal for the creation of the following full-time equivalent (FTE)
+positions: one General Counsel, one Assistant General Counsel, one Paralegal, one Human
+Resources Director, two IT Administrators, and one Communications Specialist.
+SECTION 7.16.(d) The position of Assistant General Counsel I (60013313) is
+transferred from the Department of Labor to the Office of the State Fire Marshal to provide legal
+support to the Office of the State Fire Marshal.
+SECTION 7.16.(e) This section is effective on July 1, 2026.
+OFFICE OF STATE FIRE MARSHAL BUDGET CODE MANAGEMENT
+SECTION 7.17.(a) Budget Code Management. – Effective July 1, 2026, the Office
+of State Fire Marshal shall fully manage and control the following Budget Codes: 23901, 54625,
+63901, 63902, and 63903.
+SECTION 7.17.(b) Identification of Certain Budget Funds. – The Office of the State
+Fire Marshal, the Department of Insurance, the Office of the State Controller, and the Office of
+State Budget and Management shall work together to identify Budget Funds within the following
+Budget Codes: 23900, 23902, 23903, and 63900. After programs managed by the Office of the
+State Fire Marshal are identified within those Budget Codes, then those Budget Funds shall be
+moved to corresponding Budget Codes under the Office of the State Fire Marshal's authority,
+management, and control.
+SECTION 7.17.(c) Effective Date. – This section is effective when it becomes law.
+DEPARTMENT OF MILITARY AND VETERANS AFFAIRS STATUTORY CHANGES
+SECTION 7.18. G.S. 143B-1294(c), as amended by Section 35.2(a) of S.L. 2026-41,
+reads as rewritten:
+House Bill 268 Session Law 2026-61 Page 41
+
+"(c) All funds received by the Department shall be deposited in the North Carolina
+Veterans Home Trust Fund, except for any funds deposited into special agency accounts
+established pursuant to G.S. 143B-1293(d)(3). The Veterans' Affairs Commission shall authorize
+the expenditure of all funds from the North Carolina Veterans Home Trust Fund. The Veterans'
+Affairs Commission may delegate authority to the Assistant Secretary of Veterans Affairs
+Secretary of the Department for the expenditure of funds from the North Carolina Veterans Home
+Trust Fund for operations of the State Veterans Nursing Homes. for any purpose authorized under
+G.S. 143B-1293(c). The delegation of authority shall apply only to the person holding the office
+of Secretary of the Department at the time the vote is undertaken, and a new vote to delegate
+authority must be undertaken by the Commission each time a person is appointed to serve as
+Secretary or designated to serve as chair of the Commission under G.S. 143B-1221."
+SECRETARY OF STATE IMPLEMENTATION COSTS OF ANNUAL REPORT
+SECTION 7.19. There is appropriated from the General Fund to the Department of
+the Secretary of State the sum of two hundred thousand dollars ($200,000) in recurring funds
+beginning in the 2026-2027 fiscal year and five hundred forty-five thousand dollars ($545,000)
+in nonrecurring funds for the 2026-2027 fiscal year to implement the annual report requirement
+in accordance with G.S. 55A-16-22.1, as enacted by S.L. 2026-52.
+SECRETARY OF STATE TRADEMARK REGISTRATION ACT PROSECUTOR
+FUNDING
+SECTION 7.20. There is appropriated from the General Fund to the Department of
+the Secretary of State the sum of one hundred sixty thousand dollars ($160,000) in nonrecurring
+funds for the 2026-2027 fiscal year for an intellectual property prosecutor to assist in the
+Department's duties pursuant to the Trademark Registration Act and other applicable State and
+federal law.
+SECRETARY OF STATE/PROHIBITED FOREIGN PARTY LAND REGISTRY
+IMPLEMENTATION
+SECTION 7.21. There is appropriated from the General Fund to the Department of
+the Secretary of State the sum of two hundred fifty-five thousand dollars ($255,000) in recurring
+funds beginning in the 2026-2027 fiscal year to provide funds for two full-time equivalent
+positions and subscription costs necessary to carry out the duties of the Secretary of State under
+G.S. 64-63(c) and (d), as enacted by Section 1 of S.L. 2026-54.
+EMERGENCY VIDEO NOTARIZATION/VIDEO WITNESSING VALIDATION FOR
+CERTAIN DATES
+SECTION 7.22. Notwithstanding the expiration of G.S. 10B-25 (Emergency video
+notarization) pursuant to subsection (n) of that section on July 1, 2026, and the expiration of
+Article 3 of Chapter 10B of the General Statutes (Video Witnessing During State of Emergency)
+pursuant to G.S. 10B-200(b) on July 1, 2026, any (i) emergency video notarization performed in
+accordance with G.S. 10B-25 prior to the enactment of S.L. 2026-52 or (ii) emergency video
+witnessing performed in accordance with Article 3 of Chapter 10B of the General Statutes prior
+to the enactment of S.L. 2026-52 is deemed validated if performed July 1, 2026, through July 7,
+2026.
+ALLOW NORTH CAROLINA INVESTMENT AUTHORITY TO RETAIN THE
+SERVICES OF RECRUITMENT FIRMS
+SECTION 7.23.(a) Effective October 1, 2026, G.S. 147-71.2 reads as rewritten:
+"§ 147-71.2. Duties of the Board of Directors.
+…
+Page 42 Session Law 2026-61 House Bill 268
+
+(c) Authority to Contract for Services. – Notwithstanding Article 3 of Chapter 143 of the
+General Statutes, G.S. 114-2.3, and G.S. 147-17, and G.S. 126A-52, the Investment Authority is
+authorized to independently retain the services of appraisers, auditors, actuaries, attorneys,
+investment consultants, statisticians, custodians, information technology professionals,
+recruitment firms, or other persons or firms possessing specialized skills or knowledge necessary
+for the proper administration of investment programs created pursuant to this section.
+…."
+SECTION 7.23.(b) Notwithstanding any provision of law to the contrary, the North
+Carolina Investment Authority is authorized to independently retain the services of recruitment
+firms.
+SECTION 7.23.(c) Except as otherwise provided, this section is effective when it
+becomes law. Subsection (b) of this section expires October 1, 2026.
+INVESTMENT OF LOCAL GOVERNMENT IDLE FUNDS MODIFICATION
+TECHNICAL CORRECTION
+SECTION 7.24.(a) G.S. 159-30, as amended by Section 39.2 of S.L. 2026-41, reads
+as rewritten:
+"§ 159-30. Investment of idle funds.
+…
+(c) Moneys may be invested in the following classes of securities, and no others:
+…
+(13) In connection with funds held by or on behalf of a local government or public
+authority, which funds are subject to the arbitrage and rebate provisions of the
+Internal Revenue Code of 1986, as amended, participating shares in
+tax-exempt mutual funds, to the extent such participation, in whole or in part,
+is not subject to such rebate provisions, and taxable mutual funds, to the extent
+such fund provides services in connection with the calculation of arbitrage
+rebate requirements under federal income tax law; provided, all one of the
+following are met:
+a. Such If the mutual fund is taxable, such fund (i) is registered with the
+United States Securities and Exchange Commission as a government
+money market fund that invests primarily in United States government
+securities, cash, or repurchase agreements collateralized by
+government securities.securities and (ii)
+b. Such fund must seek to maintain a stable one dollar ($1.00) net asset
+value per share.
+c. The If the mutual fund is tax-exempt, investments of any such fund are
+limited to those bearing one of the two highest ratings of at least one
+nationally recognized rating service and not bearing a rating below one
+of the two highest ratings by any nationally recognized rating service
+which rates the particular fund.
+…."
+SECTION 7.24.(b) This section is effective when it becomes law.
+ADDRESS UNEXPENDED BOND PROCEEDS
+SECTION 7.25.(a) As used in this section, "unexpended bond proceeds" means the
+following:
+(1) Any funds obtained from issuing General Obligation bonds authorized
+pursuant to S.L. 1998-132.
+(2) Any funds obtained from issuing indebtedness authorized pursuant to S.L.
+2006-146, Section 19.13 of S.L. 2007-323, or Section 27.8 of S.L. 2008-107.
+House Bill 268 Session Law 2026-61 Page 43
+
+(3) Any funds obtained from issuing General Obligation bonds authorized
+pursuant to S.L. 2014-100.
+(4) Any funds obtained from issuing General Obligation bonds authorized
+pursuant to S.L. 2015-280.
+(5) Interest earned on any indebtedness authorized by a subdivision of this
+subsection.
+SECTION 7.25.(b) The Office of State Budget and Management shall, at the
+direction of the State Treasurer, use unexpended bond proceeds not reasonably anticipated to be
+needed for completion of the projects and purposes for which they were issued to do any action
+listed in this subsection to the extent the listed action can be taken without (i) resulting in adverse
+tax consequences to the State or (ii) violating, where applicable, the categories of uses contained
+in the bond question on which the indebtedness was approved by a vote of the qualified voters
+of the State. In directing action pursuant to this section, the State Treasurer shall maximize the
+savings, and minimize the costs, to the State. The available actions are the following:
+(1) Redeem or otherwise retire, for the purpose of eliminating debt service, (i)
+bonds of the same issuance or (ii) bonds issued to refund such bonds.
+(2) Reimburse the State Capital and Infrastructure Fund (SCIF), established in
+G.S. 143C-4-3.1, for expenditures incurred for a State agency capital
+improvement project authorized in legislation to be funded from the SCIF;
+provided, however, the amount of unexpended bond proceeds used does not
+exceed expenditures incurred.
+SECTION 7.25.(c) To the extent unexpended bond proceeds are used pursuant to
+subsection (b) of this section to reimburse funds previously paid or to pay costs that would have
+been paid from other funds, such other funds are not an "appropriation made by law," as that
+phrase is used in Section 7(1) of Article V of the North Carolina Constitution. The funds shall be
+deemed and shall remain unappropriated unless the General Assembly appropriates the funds in
+a subsequent act. To the extent the funds are in the State Capital and Infrastructure Fund, such
+funds shall be invested by the Department of the State Treasurer, with earnings and interest
+therefrom being deposited in the State Capital and Infrastructure Fund.
+SECTION 7.25.(d) For proceeds of public improvement bonds and notes, including
+premium thereon, (i) authorized in S.L. 2015-280, (ii) allocated to the Department of
+Environmental Quality for Statewide Water/Sewer Loans and Grants, (iii) placed in the Water
+Infrastructure Fund established in G.S. 159G-22, and (iv) used for low-interest loans pursuant to
+sub-subdivision (f)(2)d. of Section 1 of S.L. 2015-280, the Department may repurpose repaid
+loan funds as grants that comport with the requirements of, notwithstanding the dollar limitation
+for grants contained in, that sub-subdivision.
+SECTION 7.25.(e) This section is effective when it becomes law.
+PART VIII. INFORMATION TECHNOLOGY
+CJLEADS/GDAC CHANGES
+SECTION 8.1. Section 40.6(b) of S.L. 2026-41 reads as rewritten:
+"SECTION 40.6.(b) The Department of Health and Human Services (DHHS), the
+Department of Information Technology (DIT), the Administrative Office of the Courts (AOC),
+the Government Data Analytics Center (GDAC), the North Carolina Health Information
+Exchange Authority (NC HIEA), and CJLEADS shall make systematic improvements utilizing
+available technological resources to ensure the State is collecting and making available the most
+helpful information for judges to make involuntary commitment (IVC) determinations, both
+inpatient and outpatient; increasing data collection and sharing between DHHS and the Judicial
+Branch Case Management System of IVC exams and court proceedings. The DHHS and DIT
+shall work with GDAC and CJLEADS to implement real-time data availability for the Behavioral
+Page 44 Session Law 2026-61 House Bill 268
+
+Health Statewide Central Availability Navigator (BH SCAN) and give law enforcement access
+to BH SCAN. The DHHS, DIT, and NC HIEA shall facilitate the connection of behavioral health
+hospitals and providers to NC HealthConnex, including grants to behavioral health facilities
+lacking electronic medical records systems, prioritizing those facilities with potential to
+contribute the most useful IVC data."
+PART IX. SALARIES AND BENEFITS
+CLARIFY COMMUNITY COLLEGE RECRUITMENT AND RETENTION FUNDING
+SECTION 9.1. Notwithstanding any provision of law to the contrary, funds
+appropriated to the State Board of Community Colleges for faculty recruitment and retention
+pursuant to S.L. 2023-134 and S.L. 2021-180 shall be used for hard-to-recruit and hard-to-retain
+faculty positions in high-demand fields.
+LABOR MARKET ADJUSTMENT RESERVE FUNDS/CLARIFICATION
+SECTION 9.2. Notwithstanding any provision of law to the contrary, to the extent
+that a reduction in appropriations reflected in the Committee Report described in Section 45.2 of
+S.L. 2026-41 as an elimination of unused Labor Market Adjustment Reserve funds exceeds an
+agency's undistributed balance of those funds as verified by the Office of State Budget and
+Management, the agency shall achieve the required savings from other salary line items selected
+by the agency. The Director of the Budget shall adjust the certified budget of each affected agency
+accordingly.
+PART X. CAPITAL
+FSU CHANCELLOR'S RESIDENCE/SPECIAL FUND FOR SALE PROCEEDS
+SECTION 10.1. Part XLII of S.L. 2026-41 is amended by adding a new section to
+read:
+"FAYETTEVILLE STATE UNIVERSITY CHANCELLOR'S RESIDENCE
+"SECTION 42.11A. Notwithstanding G.S. 146-30 or any other provision of law to the
+contrary, the net proceeds from the sale of the Chancellor's residence at Fayetteville State
+University shall be retained by Fayetteville State University and shall be deposited into a special
+fund to be used solely for the purchase of another residence for the Chancellor, as approved by
+the Board of Trustees of Fayetteville State University and consistent with applicable policies of
+the Board of Governors of The University of North Carolina."
+EXPANSION OF ALLOWABLE USES FOR EXISTING YOUTH DETENTION
+FACILITIES
+SECTION 10.2. Part XLII of S.L. 2026-41 is amended by adding a new section to
+read:
+"SCIF FUNDS FOR YOUTH DETENTION FACILITIES
+"SECTION 42.14A. Notwithstanding the Committee Report referenced in Section 45.2 of
+this act, or any other provision of law to the contrary, for project code DPS23-1, funding allocated
+for this project may also be used for expansion of existing youth detention facilities."
+PART XI. TRANSPORTATION
+DMV IN-HOME DRIVERS LICENSE RENEWAL PILOT
+SECTION 11.1.(a) Section 43.11 of S.L. 2026-41 is repealed.
+SECTION 11.1.(b) Part XLIII of S.L. 2026-41 is amended by adding a new section
+to read:
+House Bill 268 Session Law 2026-61 Page 45
+
+"DMV IN-HOME LICENSE RENEWAL STUDY
+"SECTION 43.11A.(a) It is the intent of the General Assembly to evaluate the feasibility of
+improving the accessibility of and customer service provided by the Division of Motor Vehicles
+of the Department of Transportation (DMV) by implementing a pilot program in Forsyth County
+authorizing either the DMV or certain third-party vendors to provide in-home drivers license
+renewal services. For purposes of this section, the term "in-home drivers license renewal service"
+means a process by which personnel, employed either by the DMV or a third-party vendor
+authorized by the DMV, travel to a license holder's residence to conduct the necessary procedures
+for drivers license renewal.
+"SECTION 43.11A.(b) The DMV shall study and provide a plan for implementing the pilot
+program described in subsection (a) of this section. The study and plan shall evaluate all of the
+following:
+(1) The feasibility of implementing the pilot program.
+(2) Any measures needed to ensure compliance with federal REAL ID
+requirements, State laws, and identity verification and data security standards.
+(3) Any staffing, facility, and technology modifications needed to implement the
+pilot program.
+(4) Any implementation costs and any other financial considerations necessary to
+implement the pilot program.
+"SECTION 43.11A.(c) The DMV shall report the findings of the study required by this
+section, including the proposed implementation plan and any associated legislative
+recommendations, to the Joint Legislative Transportation Oversight Committee and the Fiscal
+Research Division no later than January 1, 2027."
+REQUIRE DMV TO ESTABLISH OR AMEND RULES TO CLARIFY APPLICATION
+OF RULES CONTROLLING THE OPERATION OF SAFETY OR EMISSIONS
+INSPECTIONS STATIONS
+SECTION 11.2.(a) The Division of Motor Vehicles of the Department of
+Transportation is authorized to and shall within 180 days of the effective date of this section,
+with stakeholder input and participation, establish or amend rules to clarify that the requirements
+of subsection (f) of 19A NCAC 03D .0523 (Operation of Safety or Emissions Inspection Stations)
+do not apply to public school units or community colleges operating inspection stations.
+SECTION 11.2.(b) Rules established or amended pursuant to this section shall apply
+to enrollment contracts entered into on or after rules required by this section become effective.
+SECTION 11.2.(c) This section is effective when it becomes law and expires on the
+date rules required by this section become effective.
+PAVEMENT PRESERVATION STUDY
+SECTION 11.3. Section 43.22(b) of S.L. 2026-41 reads as rewritten:
+"SECTION 43.22.(b) The Department of Transportation shall initiate the study required by
+this section within 90 days after the date this act becomes law and report to the Joint Legislative
+Transportation Oversight Committee and the Fiscal Research Division its findings and
+recommendations resulting from the study, including any proposals for legislative action, on or
+before the convening of the 2027 Regular Session of the 2027 General Assembly.March 1, 2027."
+BOARD OF TRANSPORTATION FEE AUTHORITY
+SECTION 11.4. G.S.136-17.3, as enacted by Section 43.21(a) of S.L. 2026-41, reads
+as rewritten:
+"§ 136-17.3. Fees set by the Board of Transportation.
+(a) The Board of Transportation is authorized to set reasonable fees for the following
+services provided by the Department of Transportation:
+Page 46 Session Law 2026-61 House Bill 268
+
+(1) Express permit review under G.S. 136-93.1.
+(2) Driveway connections under G.S. 136-18(29).
+(3) Development and construction of school driveways under G.S. 136-18(17)
+and G.S. 136-18(29a).
+(4) Driveways to cemeteries and rural fire district firehouses under
+G.S. 136-18(20) and G.S. 136-18(24).
+(5) Traffic impact analysis under G.S. 136-93.1A.
+(6) Petition, review, and inspection of secondary road additions under
+G.S. 136-18(2), 136-18(7), 136-18(8), 136-18(26), 136-18(29), 136-44.2D,
+136-44.10, and 136-102.6.
+(7) Various utility encroachments under G.S. 136-18(10).
+(8) Grading and alteration of drainage on controlled access right-of-way under
+G.S. 136-18(10).
+(9) Private bridges under G.S. 136-18(37).
+(10) Wireless communication infrastructure under G.S. 136-18.3A.
+(11) Utility right-of-way agreements under G.S. 136-19.5.
+(12) Relocation of automatic license plate reader systems under G.S. 20-183.30.
+(13) Openings and interference of State roads under G.S. 136-93(a).
+(14) Electric vehicle charging stations at rest areas under G.S. 136-18.02.
+(15) Department of Transportation-owned rail corridors under G.S. 136-18(10).
+(b) The Board shall conduct a public hearing before any fee is set by the Board under
+subsection (a) of this section. A fee set under this section shall not exceed the actual cost for the
+Department to provide the service.
+(c) Notwithstanding G.S. 143B-350(g), the Board may not delegate the authority granted
+under this section to the Secretary of Transportation."
+WAKE FOREST/ROLESVILLE DRIVER LICENSE OFFICE TECHNICAL
+CORRECTION
+SECTION 11.5. Notwithstanding any provision of S.L. 2026-41 or the Committee
+Report described in Section 45.2 of that act to the contrary, funds allocated to the Wake
+Forest/Rolesville County Driver License Office on Page J18, Item 26 of the Committee Report
+described in Section 45.2 of S.L. 2026-41 shall instead be allocated to the Wake Forest/Rolesville
+Driver License Office for the same purpose.
+TECHNICAL CORRECTIONS AND CLARIFICATIONS TO THE ELIMINATION OF
+MOTOR VEHICLE REGISTRATION CARDS
+SECTION 11.6.(a) G.S. 20-26(b1), as amended by Section 43.10(f) of S.L. 2026-41,
+reads as rewritten:
+"(b1) The registered or declared weight set forth on the vehicle registration or a certified
+copy of the Division record sent by the Department of Public Safety State Highway Patrol or
+otherwise is admissible in any judicial or administrative proceeding and shall be prima facie
+evidence of the registered or declared weight."
+SECTION 11.6.(b) G.S. 20-85(a), as amended by Section 43.10(y) of S.L. 2026-41,
+reads as rewritten:
+"(a) The following fees are imposed concerning a certificate of title or a registration plate
+for a motor vehicle. These fees are payable to the Division and are in addition to the tax imposed
+by Article 5A of Chapter 105 of the General Statutes:
+…
+(6) 25.00
+…."
+House Bill 268 Session Law 2026-61 Page 47
+
+OUTDOOR ADVERTISING MODIFICATIONS
+SECTION 11.7.(a) G.S. 136-131.5(e), as enacted by Section 43.20(a) of S.L.
+2026-41, reads as rewritten:
+"(e) The relocation of a lawfully erected outdoor advertising sign that is removed because
+of Department of Transportation right-of-way acquisition shall be subject to the local ordinances
+and regulations that were in effect at the time the outdoor advertising sign was lawfully erected.
+Nothing in this subsection shall be construed as exempting the relocation of a sign under this
+section from the requirements of the current edition of the State Building Code or State law
+governing the use of native seeds and plants and management of vegetation in the State
+right-of-way."
+SECTION 11.7.(b) G.S. 136-133(d) and (e), as enacted by Section 43.20(b) of S.L.
+2026-41, read as rewritten:
+"(d) The Department shall approve or deny a permit for a new outdoor advertising sign
+within 30 days 45 days of receipt of the completed application and all required fees and
+documentation. An application shall be deemed complete if it contains all information and
+supporting documents required by the Department's rules. If the Department fails to provide
+written notice of its decision within the 30-day period, 45-day period, the application shall be
+deemed approved, and the Department shall issue the permit.
+(e) Except as provided in G.S. 136-133.1(i), the Department shall not revoke an outdoor
+advertising permit for a first-time violation of this Article or rules adopted by the Department in
+accordance with this Article. For any subsequent violation associated with the same permit, the
+Department Article, other than for violations of zoning, size, lighting, and spacing. The
+Department shall not revoke the a permit until first providing to the permit holder written notice
+of the violation and at least 60 days to cure the violation. During the cure period, the Department
+may pursue any other remedies authorized by this Article or applicable law, including the
+assessment of civil penalties or required corrective actions. This subsection does not limit the
+Department's authority to address immediate threats to public safety or fraud in the application
+process."
+PART XII. FINANCE
+MODIFY SAMPSON COUNTY LOCAL SALES TAX EFFECTIVE DATE
+SECTION 12.1. Section 44.11(d) of S.L. 2026-41 reads as rewritten:
+"SECTION 44.11.(d) This section is effective when it becomes law.law, but no tax
+authorized under this section may be levied earlier than July 1 of the year following the
+referendum."
+VAPOR REGISTRY CLARIFICATIONS
+SECTION 12.2.(a) G.S. 105-113.39A, as amended by Section 44.6(a3) of S.L.
+2026-41, reads as rewritten:
+"§ 105-113.39A. License required.
+(a) Requirement. – A wholesale dealer or a retail dealer must obtain from the Secretary
+a license in accordance with subsections (a1) and (a2) of this section and must pay the required
+license tax for each license. A specialty retailer of vapor products must obtain from the Secretary
+a license in accordance with subsection (a3) of this section. A license is in effect until June 30 of
+the year following the second calendar year after the date of issuance or renewal, unless cancelled
+or revoked prior to expiration. A license is renewable upon signed application with no renewal
+license tax, unless applied for after the June 30 expiration date.
+(a1) Other Tobacco Products License. – A wholesale dealer or a retail dealer must obtain
+an other tobacco products license for all of the following locations:
+Page 48 Session Law 2026-61 House Bill 268
+
+(1) Each location where a wholesale dealer makes tobacco products other than
+vapor products and alternative nicotine products.
+(2) Each location where a wholesale dealer or a retail dealer receives or stores
+non-tax-paid tobacco products other than vapor products and alternative
+nicotine products.
+(3) Each location from where a retail dealer that is a delivery seller or remote
+seller receives or stores non-tax-paid tobacco products for delivery sales or
+remote sales of tobacco products other than vapor products and alternative
+nicotine products if the location is a location other than the location described
+in subdivision (2) of this subsection.
+(a2) Vapor Products License. – A wholesale dealer or a retail dealer must obtain a vapor
+products license for all of the following locations:
+(1) Each location where a wholesale dealer makes vapor products.
+(2) Each location where a wholesale dealer or a retail dealer receives or stores
+non-tax-paid vapor products.
+(3) Each location from where a retail dealer that is a delivery seller receives or
+stores non-tax-paid vapor products for delivery sales if the location is a
+location other than the location described in subdivision (2) of this subsection.
+(a3) Specialty Retailer of Vapor Products License. – A specialty retailer of vapor products
+must obtain a specialty retailer of vapor products license for each location where the retailer sells,
+offers to sell, distributes, or stores vapor products. A specialty retailer of vapor products that
+holds a valid license under this subsection is not required to obtain a retail dealer license subject
+to the licensing requirements under subsection (a1) or (a2) of this section for the same location.
+A vapor products retailer that does not meet the definition of a specialty retailer of vapor products
+as defined in G.S. 105-113.4 is not required to obtain a specialty retailer of vapor products
+license.
+(b) License Tax Amount. – The license tax amounts are as follows:
+(1) Wholesale dealer $25.00
+(2) Retail dealer $10.00
+(3) Specialty retailer of vapor products $1,000
+(c) Out-of-State Wholesale Dealers. – An out-of-state wholesale dealer of tobacco
+products that is not a delivery seller or a remote seller may obtain a wholesale dealer's license
+upon compliance with the provisions of G.S. 105-113.4A and payment of a tax of twenty-five
+dollars ($25.00)."
+SECTION 12.2.(b) G.S. 143B-245.11, as amended by Section 44.6(d2) of S.L.
+2026-41, reads as rewritten:
+"§ 143B-245.11. Certification process.
+(a) Certification. – Beginning March 1, 2025, and annually thereafter, every
+manufacturer of vapor products and consumable products sold for retail sale in this State, whether
+directly or through a distributor, retailer, or similar intermediary or intermediaries, shall execute
+and deliver on a form prescribed by the Secretary, a certification to the Secretary under penalty
+of perjury, of the following:
+(1) The manufacturer received an order granted pursuant to 21 U.S.C. § 387j(c)
+(marketing granted order) for the vapor product or consumable product from
+the FDA.
+(2) As of July 1, 2026, the vapor product or consumable product is otherwise
+marketed pursuant to a published FDA enforcement policy, commercially
+marketed and is not subject to federal enforcement priority under a published
+FDA enforcement policy, and the premarket tobacco product application filed
+with respect to the vapor product or consumable product pursuant to 21 U.S.C.
+House Bill 268 Session Law 2026-61 Page 49
+
+§ 387j either remains under review or a final decision on the application is not
+otherwise in effect.
+(3) The manufacturer is exempt from the requirements of subdivision (1) or (2)
+of this subsection because the vapor product or consumable product only
+reflects changes to the name, brand style, or packaging of a vapor product or
+consumable product.
+(b) Requirements for Manufacturers; Fees. – In addition to the requirements contained in
+subsection (a) of this section, each manufacturer shall provide to the Secretary the following:
+(1) For each vapor product and consumable product offered by the manufacturer,
+a copy of (i) the marketing granted order issued by the FDA pursuant to 21
+U.S.C. § 387j; (ii) evidence demonstrating that the vapor product or
+consumable product meets the requirements described in subdivision (2) of
+subsection (a) of this section; or (iii) a document issued by the FDA or by a
+court confirming that the premarket tobacco product application has received
+a denial order that is not yet in effect; and
+(2) An initial fee of two thousand dollars ($2,000) to offset the costs incurred by
+the Department of Revenue for processing the certifications and operating the
+directory and an annual renewal fee of five hundred dollars ($500.00) each
+year on March 1 to offset the costs associated with maintaining the directory
+and satisfying the requirements of this section for each consumable product
+or vapor product to be listed in the directory.
+…
+(f) Notification of Compliance with Changes to Federal Law. – If federal requirements
+for vapor products or consumable products are changed, Within 30 days of the date mandated for
+compliance with any changed federal requirements or standards for a vapor product or
+consumable product, each manufacturer of a vapor product or consumable product sold for retail
+sale in North Carolina shall submit documentation to the Secretary substantiating compliance
+with those federal requirements within 30 days of the date mandated for compliance under the
+federal requirements. changed federal requirements or standards. Failure to substantiate
+compliance with changed federal requirements shall be or standards is grounds for removal of
+the manufacturer and its vapor product or consumable product from the directory established
+pursuant to G.S. 143B-245.12. For the purposes of this subsection, federal requirements for vapor
+products or consumable products are the term "changed federal requirements or standards" means
+any modifications to 21 U.S.C. § 387j or other federal statutes regulating vapor products or
+consumable products or any modification of regulations or other official federal guidance that
+change requirements or standards for federal compliance of a vapor product or consumable
+product."
+SECTION 12.2.(c) G.S. 143B-245.15, as amended by Section 44.6(d6) of S.L.
+2026-41, reads as rewritten:
+"§ 143B-245.15. Compliance.
+(a) Unannounced Compliance Check. – Each retailer, distributor, and wholesaler that
+sells or distributes consumable products or vapor products in this State is subject to at least one
+unannounced compliance check per year by any State or local law enforcement officials,
+including the ALE Division, the SBI, the Department of Justice, or local sheriff and police
+departments, for purposes of enforcing this Part. Unannounced follow-up compliance checks of
+all noncompliant retailers, distributors, and wholesalers shall be conducted within 30 days after
+any violation of this Part. Any person who observes a violation described in G.S. 143B-245.13
+may alert the SBI of the violation, and the SBI may direct request the appropriate law
+enforcement official to investigate the alleged violation.
+…
+Page 50 Session Law 2026-61 House Bill 268
+
+(c) Seizure and Destruction of Noncompliant Products. – Any products identified for sale
+identified by any State or local law enforcement official that are not on the registry or are not
+otherwise sold in compliance with the provisions of this Chapter may be subject to immediate
+seizure by the law enforcement official and forfeiture and destruction by the ALE Division.
+seizing law enforcement agency. The cost of such seizure, forfeiture, and destruction shall be
+borne by the person from whom the consumable product or vapor product is confiscated, except
+that no consumable product or vapor product may be seized from a consumer who has made a
+bona fide purchase of such products. The ALE Division seizing law enforcement agency may
+store and dispose of the seized products as appropriate, in accordance with federal, State, and
+local laws pertaining to storage and disposal of such products.
+…."
+SECTION 12.2.(d) Section 44.6(e) of S.L. 2026-41 reads as rewritten:
+"SECTION 44.6.(e) Subsection (a1) of this section becomes effective October 1, 2026, and
+applies to sales or purchases occurring on or after that date. Subsections (a1) through (a2) and
+(a3) of this section become effective July 1, 2027. Subsection (b) of this section becomes
+effective October 1, 2026, and applies to violations occurring on or after that date. Subsection
+(c) of this section becomes effective December 1, 2027, and applies to offenses committed on or
+after that date. Subsection (d3) of this section becomes effective October 1, 2026, and applies to
+directory updates required on or after that date. The remainder of this section is effective when it
+becomes law."
+SECTION 12.2.(e) Notwithstanding Section 44.6(e) of S.L. 2026-41, as amended
+by this section, G.S. 143B-245.12(b)(6), as enacted by Section 44.6(d3) of S.L. 2026-41, is
+effective when this section becomes law.
+SECTION 12.2.(f) Subsection (a) of this section becomes effective July 1, 2027.
+The remainder of this section is effective when it becomes law.
+PART XIII. MISCELLANEOUS
+ADJUSTMENTS TO APPROPRIATIONS
+SECTION 13.1. The totals of Part II of S.L. 2026-41, as amended by S.L. 2026-42,
+are adjusted in accordance with the provisions of this act.
+House Bill 268 Session Law 2026-61 Page 51
+
+EFFECTIVE DATE
+SECTION 13.2. Except as otherwise provided, this act is effective July 1, 2026.
+In the General Assembly read three times and ratified this the 6th day of August, 2026.
+s/ Rachel Hunt
+President of the Senate
+s/ Mike Schietzelt
+Presiding Officer of the House of Representatives
+s/ Josh Stein
+Governor
+Approved 8:04 a.m. this 11th day of August, 2026
+Page 52 Session Law 2026-61 House Bill 268
