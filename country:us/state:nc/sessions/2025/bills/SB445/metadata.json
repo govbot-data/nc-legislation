@@ -20,6 +20,30 @@
   ],
   "actions": [
     {
+      "description": "Ch. SL 2026-59",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T05:41:07Z"
+      }
+    },
+    {
+      "description": "Signed by Gov. 8/11/2026",
+      "date": "2026-08-11",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T05:41:07Z"
+      }
+    },
+    {
       "description": "Pres. To Gov. 8/6/2026",
       "date": "2026-08-06",
       "organization_id": "~{\"classification\": \"executive\"}",
@@ -846,6 +870,17 @@
       "classification": ""
     },
     {
+      "note": "SL 2026-59",
+      "links": [
+        {
+          "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S445v7.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "A1: ABR-77-V-4",
       "links": [
         {
@@ -873,7 +908,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T05:13:16Z",
+    "logs_latest_update": "2026-08-12T05:41:07Z",
     "text_extraction_latest_update": "2026-08-09T05:16:26.848485Z"
   }
 }
