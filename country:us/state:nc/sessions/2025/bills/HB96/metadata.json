@@ -18,6 +18,26 @@
   ],
   "actions": [
     {
+      "description": "Placed On Cal For 09/02/2026",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T09:21:53Z"
+      }
+    },
+    {
+      "description": "Withdrawn From Com",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T09:21:53Z"
+      }
+    },
+    {
       "description": "Re-ref Com On Rules, Calendar, and Operations of the House",
       "date": "2025-08-26",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -842,7 +862,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:57:28Z",
+    "logs_latest_update": "2026-09-01T09:21:53Z",
     "text_extraction_latest_update": "2026-07-22T00:08:21.850702Z"
   }
 }

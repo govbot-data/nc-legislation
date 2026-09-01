@@ -18,6 +18,16 @@
   ],
   "actions": [
     {
+      "description": "Placed On Cal For 09/02/2026",
+      "date": "2026-08-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T09:21:53Z"
+      }
+    },
+    {
       "description": "Received from the Governor",
       "date": "2026-08-17",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -741,7 +751,7 @@
     "division_id": "ocd-division/country:us/state:nc"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T04:43:35Z",
+    "logs_latest_update": "2026-09-01T09:21:53Z",
     "text_extraction_latest_update": "2026-08-18T04:44:48.831965Z"
   }
 }
