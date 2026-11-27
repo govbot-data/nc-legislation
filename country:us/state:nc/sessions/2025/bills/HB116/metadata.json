@@ -7,9 +7,9 @@
     "bill"
   ],
   "subject": [
-    "BOARDS; BUDGETING; CAPITAL SPENDING; CHARTERS; CITY COUNCILS; CITY MANAGERS; COMMERCE; COUNTIES; COUNTY COMMISSIONERS; EDUCATION; EDUCATION BOARDS; ELECTIONS; ELEMENTARY EDUCATION; GEOGRAPHY; HOTELS & MOTELS; KINDERGARTEN; LAW ENFORCEMENT; LOCAL; LOCAL GOVERNMENT; MAYORS; MOU; MUNICIPALITIES; PLANNING & ZONING; POLITICAL PARTIES; PROPERTY; PUBLIC MEETINGS; PUBLIC OFFICIALS; RETAILING; SALES & CONVEYANCES; SECONDARY EDUCATION; SESSION LAWS; SHERIFFS; TAXATION; TAXES",
+    "BOARDS; BUDGETING; CAPITAL SPENDING; CHARTERS; CITY COUNCILS; CITY MANAGERS; COMMERCE; COUNTIES; COUNTY COMMISSIONERS; EDUCATION; EDUCATION BOARDS; ELECTIONS; ELEMENTARY EDUCATION; GEOGRAPHY; HOTELS & MOTELS; KINDERGARTEN; LAW ENFORCEMENT; LOCAL; LOCAL GOVERNMENT; MAYORS; MOU; MUNICIPALITIES; PLANNING & ZONING; POLITICAL PARTIES; PROPERTY; PUBLIC MEETINGS; PUBLIC OFFICIALS; RATIFIED; RETAILING; SALES & CONVEYANCES; SECONDARY EDUCATION; SESSION LAWS; SHERIFFS; TAXATION; TAXES",
     "OCCUPANCY; TAXES",
-    "SALES & USE; TERM LENGTHS & LIMITS; TRAVEL & TOURISM; COLUMBUS COUNTY; NEW HANOVER COUNTY; ONSLOW COUNTY; BUNCOMBE COUNTY; HENDERSON COUNTY; UNION COUNTY; SCOTLAND COUNTY; GASTON COUNTY; CLEVELAND COUNTY; HERTFORD COUNTY; MITCHELL COUNTY; JOHNSTON COUNTY; IREDELL COUNTY; MOORESVILLE; WILMINGTON; ASHEVILLE; TRANSYLVANIA COUNTY; MILLS RIVER; BOILING SPRINGS; GEOGRAPHIC BOUNDARIES; PROPERTY-LOCAL GOVERNMENT; VACANCIES"
+    "SALES & USE; TERM LENGTHS & LIMITS; TRAVEL & TOURISM; COLUMBUS COUNTY; NEW HANOVER COUNTY; ONSLOW COUNTY; BUNCOMBE COUNTY; HENDERSON COUNTY; UNION COUNTY; SCOTLAND COUNTY; GASTON COUNTY; CLEVELAND COUNTY; HERTFORD COUNTY; MITCHELL COUNTY; JOHNSTON COUNTY; IREDELL COUNTY; MOORESVILLE; WILMINGTON; ASHEVILLE; TRANSYLVANIA COUNTY; CHAPTERED; MILLS RIVER; BOILING SPRINGS; GEOGRAPHIC BOUNDARIES; PROPERTY-LOCAL GOVERNMENT; VACANCIES"
   ],
   "abstracts": [],
   "other_titles": [],
@@ -124,12 +124,9 @@
     {
       "description": "Placed On Cal For 07/02/2026",
       "date": "2026-07-01",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:57:27Z"
-      }
+      "related_entities": []
     },
     {
       "description": "Cal Pursuant Rule 44(d)",
@@ -154,12 +151,9 @@
     {
       "description": "Conf Com #2 Reported",
       "date": "2026-07-01",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:57:27Z"
-      }
+      "related_entities": []
     },
     {
       "description": "Placed On Cal For 07/02/2026",
@@ -194,22 +188,16 @@
     {
       "description": "Conferees Reappointed",
       "date": "2026-07-01",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:57:27Z"
-      }
+      "related_entities": []
     },
     {
       "description": "Conf Com Dismissed",
       "date": "2026-07-01",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:57:27Z"
-      }
+      "related_entities": []
     },
     {
       "description": "Conferees Reappointed",
@@ -328,12 +316,9 @@
     {
       "description": "Conf Com Reported",
       "date": "2025-06-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:57:27Z"
-      }
+      "related_entities": []
     },
     {
       "description": "Placed on Today's Calendar",
